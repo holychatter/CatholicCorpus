@@ -1,4 +1,4 @@
-#include "livredesdemeures_parser.hpp"
+#include "saintethereseavila_parser.hpp"
 #include <filesystem>
 #include <iostream>
 #include <fstream>
@@ -6,17 +6,19 @@
 
 namespace fs = std::filesystem;
 
-LivreDesDemeures_Parser::LivreDesDemeures_Parser()
- : VirtualFileParser("Carmel/SainteThereseAvila/livre_des_demeures.txt"),
-   _beforeBegin(true)
+SainteThereseAvila_Parser::SainteThereseAvila_Parser(const std::string& pFileName,
+                                                     const std::string& pFirstLine)
+ : VirtualFileParser(pFileName),
+   _beforeBegin(true),
+   _firstLine(pFirstLine)
 {
 }
 
-void LivreDesDemeures_Parser::processLine(const std::string& pLine)
+void SainteThereseAvila_Parser::processLine(const std::string& pLine)
 {
     if (_beforeBegin)
     {
-      if (pLine == "Prologue ")
+      if (pLine == _firstLine)
         _beforeBegin = false;
       return;
     }
