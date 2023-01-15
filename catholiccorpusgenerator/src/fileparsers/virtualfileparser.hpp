@@ -8,8 +8,7 @@
 class VirtualFileParser
 {
 public:
-  VirtualFileParser(const std::string& pRelativePath,
-                    const std::string& pFilename);
+  VirtualFileParser(const std::string& pFilename);
   void run();
 
 protected:
@@ -18,7 +17,6 @@ protected:
   virtual void processLine(const std::string& pLine) = 0;
 
 private:
-  std::string _relativePath;
   std::string _filename;
 };
 

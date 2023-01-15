@@ -10,10 +10,8 @@ namespace
   const std::string _outputFolder = "../../output/";
 }
 
-VirtualFileParser::VirtualFileParser(const std::string& pRelativePath,
-                                     const std::string& pFilename)
+VirtualFileParser::VirtualFileParser(const std::string& pFilename)
   : _outputFile(),
-    _relativePath(pRelativePath),
     _filename(pFilename)
 {
 }
@@ -21,7 +19,13 @@ VirtualFileParser::VirtualFileParser(const std::string& pRelativePath,
 
 void VirtualFileParser::run()
 {
-  fs::create_directories(_outputFolder + _relativePath);
+  auto endofPathPosition = _filename.find_last_of('/');
+  if (endofPathPosition != std::string::npos)
+  {
+    std::string relativePath = _filename.substr(0, endofPathPosition);
+    std::cout << "relativePath :" << relativePath << std::endl;
+    fs::create_directories(_outputFolder + relativePath);
+  }
 
   std::string inputFilename = _inputFolder + _filename;
   std::string outputFilename = _outputFolder + _filename;

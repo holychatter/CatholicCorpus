@@ -7,7 +7,7 @@
 namespace fs = std::filesystem;
 
 LivreDesDemeures_Parser::LivreDesDemeures_Parser()
- : VirtualFileParser("Carmel/SainteThereseAvila/","Carmel/SainteThereseAvila/livre_des_demeures.txt"),
+ : VirtualFileParser("Carmel/SainteThereseAvila/livre_des_demeures.txt"),
    _beforeBegin(true)
 {
 }
@@ -28,6 +28,5 @@ void LivreDesDemeures_Parser::processLine(const std::string& pLine)
     if (pLine.compare(0, chapterPrefix.size(), chapterPrefix) == 0)
       return;
 
-    std::cout << pLine << std::endl;
     *_outputFile << pLine << std::endl;
 }
