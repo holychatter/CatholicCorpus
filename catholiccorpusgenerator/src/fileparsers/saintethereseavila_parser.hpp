@@ -11,7 +11,7 @@ public:
                             const std::string& pFirstLine);
 
 protected:
-  void processLine(const std::string& pLine) override;
+  void processLine(const std::string& pLine, bool pAsContentBefore) override;
 
 private:
   bool _beforeBegin;

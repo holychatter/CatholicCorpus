@@ -14,7 +14,7 @@ public:
 protected:
   std::unique_ptr<std::ofstream> _outputFile;
 
-  virtual void processLine(const std::string& pLine) = 0;
+  virtual void processLine(const std::string& pLine, bool pAsContentBefore) = 0;
 
 private:
   std::string _filename;

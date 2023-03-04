@@ -3,6 +3,8 @@
 #include <iostream>
 #include <iomanip>
 
+#include "../util/util.hpp"
+
 namespace fs = std::filesystem;
 namespace
 {
@@ -36,14 +38,16 @@ void VirtualFileParser::run()
   if (!inputFile.is_open())
   {
     std::cerr << "File not found: " << inputFilename << std::endl;
+    return;
   }
 
   std::string line;
-  bool beforeBegin = true;
+  bool asContentBefore = false;
 
   while (getline(inputFile, line))
   {
-    processLine(line);
+    processLine(line, asContentBefore);
+    asContentBefore = isOnlySpace(line);
   }
 
   inputFile.close();

@@ -14,7 +14,7 @@ SainteThereseAvila_Parser::SainteThereseAvila_Parser(const std::string& pFileNam
 {
 }
 
-void SainteThereseAvila_Parser::processLine(const std::string& pLine)
+void SainteThereseAvila_Parser::processLine(const std::string& pLine, bool pAsContentBefore)
 {
     if (_beforeBegin)
     {
