@@ -47,7 +47,7 @@ void VirtualFileParser::run()
   while (getline(inputFile, line))
   {
     processLine(line, asContentBefore);
-    asContentBefore = isOnlySpace(line);
+    asContentBefore = !isOnlySpace(line);
   }
 
   inputFile.close();

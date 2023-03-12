@@ -4,6 +4,8 @@
 #include <fstream>
 #include <iomanip>
 
+#include "../util/util.hpp"
+
 namespace fs = std::filesystem;
 
 Theology_Parser::Theology_Parser(const std::string& pFileName,
@@ -16,6 +18,9 @@ Theology_Parser::Theology_Parser(const std::string& pFileName,
 
 void Theology_Parser::processLine(const std::string& pLine, bool pAsContentBefore)
 {
+  // pAsContentBefore = Not empty line before
+
+  // Ignore lines before the first line
   if (_beforeBegin)
   {
     if (pLine == _firstLine)
@@ -23,12 +28,15 @@ void Theology_Parser::processLine(const std::string& pLine, bool pAsContentBefor
     return;
   }
 
+  // Ignore specific lines
   if (pLine == "\014")
     return;
 
-  const static std::string chapterPrefix = "Chapitre ";
-  if (pLine.compare(0, chapterPrefix.size(), chapterPrefix) == 0)
-    return;
+  auto line = pLine;
+  if (!pAsContentBefore)
+  {
+    line = removeBeginOfChapterNumber(line);
+  }
 
-  *_outputFile << pLine << std::endl;
+  *_outputFile << line << std::endl;
 }
