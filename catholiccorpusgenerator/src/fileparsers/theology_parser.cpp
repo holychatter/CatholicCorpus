@@ -28,10 +28,6 @@ void Theology_Parser::processLine(const std::string& pLine, bool pAsContentBefor
     return;
   }
 
-  // Ignore specific lines
-  if (pLine == "\014")
-    return;
-
   auto line = pLine;
   if (!pAsContentBefore)
   {

@@ -46,6 +46,10 @@ void VirtualFileParser::run()
 
   while (getline(inputFile, line))
   {
+    // Ignore specific lines
+    if (line == "\014")
+      continue;
+
     processLine(line, asContentBefore);
     asContentBefore = !isOnlySpace(line);
   }

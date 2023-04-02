@@ -24,10 +24,6 @@ void SainteThereseAvila_Parser::processLine(const std::string& pLine, bool pAsCo
     return;
   }
 
-  // Ignore specific lines
-  if (pLine == "\014")
-    return;
-
   // Ignore lines that prefix with "Chapitre "
   const static std::string chapterPrefix = "Chapitre ";
   if (pLine.compare(0, chapterPrefix.size(), chapterPrefix) == 0)
