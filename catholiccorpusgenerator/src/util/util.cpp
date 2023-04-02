@@ -1,4 +1,5 @@
 #include "util.hpp"
+#include <vector>
 
 namespace
 {
@@ -21,8 +22,7 @@ bool isOnlySpace(const std::string& pLine)
 
 std::string removeBeginOfChapterNumber(const std::string& pLine)
 {
-  static const std::string minusStr = "–";
-  static const auto minusStr_size = minusStr.size();
+  static const std::vector<std::string> stringsToEscape = {"–",""};
   std::size_t i = 0;
   while (i < pLine.size())
   {
@@ -32,12 +32,18 @@ std::string removeBeginOfChapterNumber(const std::string& pLine)
       continue;
     }
 
-    if (pLine.size()-i >= minusStr_size && pLine.compare(i, minusStr_size, minusStr) == 0)
+    bool shouldBreak = true;
+    for (const auto& currStr : stringsToEscape)
     {
-      i = i + minusStr_size;
-      continue;
+      if (pLine.size()-i >= currStr.size() && pLine.compare(i, currStr.size(), currStr) == 0)
+      {
+        i = i + currStr.size();
+        shouldBreak = false;
+        break;
+      }
     }
-    break;
+    if (shouldBreak)
+      break;
   }
   return pLine.substr(i, pLine.size()-i);
 }
