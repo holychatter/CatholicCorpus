@@ -22,7 +22,7 @@ bool isOnlySpace(const std::string& pLine)
 
 std::string removeBeginOfChapterNumber(const std::string& pLine)
 {
-  static const std::vector<std::string> stringsToEscape = {"–","","●","→","","•"};
+  static const std::vector<std::string> stringsToEscape = {"–","","●","→","","•",""};
   std::size_t i = 0;
   while (i < pLine.size())
   {
