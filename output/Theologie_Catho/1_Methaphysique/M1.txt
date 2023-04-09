@@ -25,7 +25,7 @@ L’héritage philosophique : le « principe de non-contradiction » et le « pr
 
 
 
-a- Aristote. 
+ Aristote. 
 
 Le principe de non-contradiction fonde toute connaissance, et toute possibilité de connaissance humaine 
 s’énonce ainsi, dès Aristote : « Il est impossible que le même attribut appartienne et n’appartienne pas en même 
@@ -54,7 +54,7 @@ réfutée ».
 
 
 
-b - Augustin 
+ Augustin 
 
 « Pour partir d’une vérité claire, je te demanderai d’abord si toi-même tu existes. Mais peut-être crains-tu 
 de te tromper en cette question, quand tu ne pourrais certainement pas te tromper si tu n’existais pas ? » (De 
@@ -581,7 +581,7 @@ Quand le mythe est dépassé par une pensée organisée et rationnelle, naît la
 Grecs qui les premiers ont eu cette audace de dépasser le mythe par un discours rationnel et articulé6. Voyons à 
 proprement parler les tentatives philosophiques : 
 
-B - un première tentative de réponse : l’Ecole de Milet – Thalès (env. 625 av JC) - Démocrite 
+ un première tentative de réponse : l’Ecole de Milet – Thalès (env. 625 av JC) - Démocrite 
 
 
 
@@ -607,7 +607,7 @@ spirituel (l’âme, Dieu, les anges…) n’existe pas. Tout est fait d’atome
 
 
 
-C - Héraclite (550 – 480 av JC - École Ionienne) : être et devenir. 
+ Héraclite (550 – 480 av JC - École Ionienne) : être et devenir. 
 
 
 
@@ -623,7 +623,7 @@ principe régulateur : le logos. (Retour cyclique de toute chose, sur 18 000 ans
 
 
 
-D - Parménide (env 500 av JC - Ecole Eléate): la question de l’être et du devenir. 
+ Parménide (env 500 av JC - Ecole Eléate): la question de l’être et du devenir. 
 
 
 
@@ -794,7 +794,7 @@ delà des conditions matérielles de l’existence sensible. Nous sommes en mét
 
 
 
-. - L’étant métaphysique n’est pas non plus à confondre avec les étants de la logique, que l’on appelle des 
+ L’étant métaphysique n’est pas non plus à confondre avec les étants de la logique, que l’on appelle des 
 « êtres de raison » (on dit qu’ils ont un être de raison, c’est à dire dans la raison, dans le raisonnement. Ils n’ont 
 pas un être réel.) 
 
@@ -804,7 +804,7 @@ les symboles : A, B, C…
 
 les opérations : >, <, =>, +, - 
 
-(- certains prédicats : rouge, vert, jaune, chaud, froid, …) 
+ certains prédicats : rouge, vert, jaune, chaud, froid, …) 
 
 etc… 
 
@@ -1083,13 +1083,13 @@ B – Les caractéristiques de la substance.
 
 
 
-a- la substance est donc une essence à laquelle il convient d’exister en soi et par soi comme un 
+ la substance est donc une essence à laquelle il convient d’exister en soi et par soi comme un 
 tout. Son acte d’exister est une subsistance. 
 
-b- elle est donc indivisible et immuable en tant que substance. Ce qui va changer, ce sont les accidents. 
+ elle est donc indivisible et immuable en tant que substance. Ce qui va changer, ce sont les accidents. 
 (si elle changeait en elle-même, ce serait cesser d’être, au profit d’une autre substance). 
 
-c- elle est intelligible par soi, et sensible par accident. C’est à dire que par elle-même, la substance 
+ elle est intelligible par soi, et sensible par accident. C’est à dire que par elle-même, la substance 
 est inaccessible au sens, invisible, intouchable… elle ne peut être que conçue intellectuellement, saisie comme 
 concept abstrait. Ce que je vois et touche, ce sont les accidents : c’est du coloré, du tiède, du résistant,… non la 
 substance comme telle. La substance est pur objet d’intelligence, l’intelligence étant seule capable de saisir, 
@@ -1122,19 +1122,19 @@ substantielle entre les hommes au nom d’accidents différents (judéité, coul
 
 
 
-a- la substance est le substrat (le support, le sujet ultime) des accidents. C’est précisément pour 
+ la substance est le substrat (le support, le sujet ultime) des accidents. C’est précisément pour 
 signifier qu’elle soutient dans l’être ces modalités d’être de surcroît que sont les accidents qu’on la dit sub-stance 
 (ie ce qui se tient en dessous). Elle est l’étant au sens premier et tout étant accidentel n’est étant qu’en 
 dépendance d’elle. (les accidents n’existe pas en soi, mais seulement rapporté à une substance qui les porte : le 
 rouge, la grandeur, la nationalité gabonaise…). Aristote écrit : « elle est ce qui n’est pas prédicat d’un sujet, mais 
 c’est d’elle au contraire que tout le reste est prédicat »11. 
 
-b- elle est le sujet, la source de toutes les opérations : c’est elle le sujet qui cause et qui agit. (« le 
+ elle est le sujet, la source de toutes les opérations : c’est elle le sujet qui cause et qui agit. (« le 
 sujet premier à qui appartiennent tous les attributs » ibid) 
 
 
 
-. - une distinction importante : substance première ou concrète / substance seconde ou abstraite 
+ une distinction importante : substance première ou concrète / substance seconde ou abstraite 
 
 
 
@@ -1238,7 +1238,7 @@ C’est un étant, mais un étant relatif, diminué, dépendant totalement d’u
 
 
 
-. - accidents nécessaires et accidents contingents. 
+ accidents nécessaires et accidents contingents. 
 
 
 
@@ -1803,7 +1803,7 @@ réalisé)
 . – il n’est pas non plus pure fiction, pur non-être. Cet être en puissance est une réalité, sinon il faudrait 
 dire que les choses n’ont aucune possibilité de changer, ce qui est faux, comme le montre l’expérience. 
 
-. - Il n’est pas non plus pure indétermination car je sais très bien ce que sera son actualisation (ex : le 
+ Il n’est pas non plus pure indétermination car je sais très bien ce que sera son actualisation (ex : le 
 papayer), et ce qu’elle ne sera pas. La puissance est donc déterminable par rapport à l’acte. 
 
 . – il est donc entre l’être (actuel) et le non être. 
@@ -1854,7 +1854,7 @@ actives, et les essences. L’existence seule est. Elle précède l’essence. C
 
 IV – Les rapports de l’acte et de la puissance. 
 
-A - L’étant comme substance perfectible 
+ L’étant comme substance perfectible 
 
 
 
@@ -2144,7 +2144,7 @@ sensibilité, leur mouvement) et les regroupe donc.
 Ex : « Mars » désigne à la fois un mois, une planète, un Dieu grec. «Son» est une céréale, mais 
 aussi un bruit. C’est un hasard du langage, une coïncidence, qui n’exprime aucun caractère commun dans le réel. 
 
-. - analogique : le terme est employé car il désigne à la fois un caractère, une perfection commune et 
+ analogique : le terme est employé car il désigne à la fois un caractère, une perfection commune et 
 différente cependant, proportionnelle. (C’est donc entre l’univocité et l’équivocité). Les choses analogues sont 
 celles qui ont un même nom et dont la « perfection » désignée par ce nom est simplement diverse en elles 
 quoique semblable selon une certaine proportion. L’analogie est donc une « ressemblance proportionnelle, 
@@ -2167,7 +2167,7 @@ II – L’Analogie de l’étant.
 
 Il existe deux types d’analogies : l’analogie d’attribution, de proportionnalité. 
 
-. - l’analogie d’attribution consiste à étendre un prédicat à d’autres sujets que le sujet principal, 
+ l’analogie d’attribution consiste à étendre un prédicat à d’autres sujets que le sujet principal, 
 l’analogué principal. Ex : ce corps est sain. (pas de maladie). La santé se rapporte d’abord à un corps biologique 
 (c’est l’analogué principal). Mais par extension, je dirai : ce climat est sain, ce plat est sain, la marche est saine (ils 
 donnent la santé). 
