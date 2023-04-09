@@ -8,7 +8,8 @@
 class VirtualFileParser
 {
 public:
-  VirtualFileParser(const std::string& pFilename);
+  VirtualFileParser(const std::string& pFileName,
+                    const std::string& pFirstLine);
   void run();
 
 protected:
@@ -18,6 +19,8 @@ protected:
 
 private:
   std::string _filename;
+  bool _beforeBegin;
+  std::string _firstLine;
 };
 
 #endif // CATHOLICCORPUSGENERATOR_FILEPARSERS_VIRTUALFILEPARSER_HPP

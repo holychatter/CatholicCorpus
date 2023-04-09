@@ -12,10 +12,6 @@ public:
 
 protected:
   void processLine(const std::string& pLine, bool pAsContentBefore) override;
-
-private:
-  bool _beforeBegin;
-  std::string _firstLine;
 };
 
 #endif // CATHOLICCORPUSGENERATOR_FILEPARSERS_THEOLOGY_PARSER_HPP

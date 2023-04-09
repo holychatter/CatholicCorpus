@@ -300,7 +300,7 @@ la démonstration rationnelle (philosophie…)
 Mais concernant l’effort que fournit l’homme pour accéder à la vérité, et donc son mérite, l’ordre est 
 inversé : la démonstration > la confiance > vision (au ciel, nous n’aurons plus de mérite). 
 
-• Jacques MARITAIN : 
+Jacques MARITAIN : 
 
 Les 3 Sagesses : philosophique, théologique, mystique. 
 
@@ -416,15 +416,15 @@ questions sont d’ordre métaphysique.
 Elle sont non pas de l’ordre du « comment » (c’est à dire du fonctionnement) mais de l’ordre du 
 « pourquoi » (c’est à dire du sens, comme signification et direction). 
 
-• Comment j’existe ? : la médecine ou la biologie répond à cette question. 
+Comment j’existe ? : la médecine ou la biologie répond à cette question. 
 
 / Pourquoi j’existe ? : la métaphysique donne une réponse rationnelle à cette question 
 
-• Comment le monde existe ? : L’astrophysique, et la cosmologie répondent. 
+Comment le monde existe ? : L’astrophysique, et la cosmologie répondent. 
 
 / Pourquoi le monde existe ? : la métaphysique … 
 
-• Comment découvrir le Vrai, le Bien, le Beau?: l’épistémologie, la science, la morale, l’art répondent 
+Comment découvrir le Vrai, le Bien, le Beau?: l’épistémologie, la science, la morale, l’art répondent 
 
 / Pourquoi les découvrir ? : la métaphysique répond. 
 
@@ -435,33 +435,33 @@ Etc…
 D’une façon générale, la métaphysique répond à des questions sur l’être qui sont tellement générales et 
 profondes qu’elles sont universelles et trans-historiques : 
 
-• « pourquoi existe-t-il quelque chose plutôt que rien ? » (la question ontologique) 
+« pourquoi existe-t-il quelque chose plutôt que rien ? » (la question ontologique) 
 
-• qu’est-ce qu’être? Qu’est-ce que l’étant ou l’existant? Qu’est-ce qu’exister, pour la personne humaine que 
+qu’est-ce qu’être? Qu’est-ce que l’étant ou l’existant? Qu’est-ce qu’exister, pour la personne humaine que 
 nous sommes certes, mais aussi pour les cailloux du chemin, les arbres qui le bordent et les oiseaux qui chantent 
 sur leurs branches? (réincarnation, différence homme – bêtes…) ? En tous ces étants, le mystère de l’être ou de 
 l’existence est réalisé bien différemment, et pourtant c’est toujours ce mystère d’être ou d’exister qui est réalisé 
 sous tel ou tel mode. 
 
-• qu’est ce qui est commun à tous les êtres ? (si une science me dit ce qui est commun à tous les êtres, 
+qu’est ce qui est commun à tous les êtres ? (si une science me dit ce qui est commun à tous les êtres, 
 elle va du même coup me permettre d’ordonner toutes les autres sciences, qui me donnent des vérités partielles 
 sur les êtres : leur vérité biologique (médecine), quantitative (mathématique), sociale (politique), chimiques 
 (physiques), etc…) 
 
-• le monde existe-t-il par lui même (né du hasard) ou bien doit-il avoir une cause extérieure à lui-même ? 
+le monde existe-t-il par lui même (né du hasard) ou bien doit-il avoir une cause extérieure à lui-même ? 
 Est-il nécessaire ou contingent ? S’il est contingent, comment définir cette cause extérieure ? 
 
-• Cette cause extérieure au monde matériel est donc spirituelle : qu’est ce qu’une nature spirituelle ? 
+Cette cause extérieure au monde matériel est donc spirituelle : qu’est ce qu’une nature spirituelle ? 
 
-• Si je suis capable de penser une nature spirituelle extérieure au monde, c’est qu’il y a en moi quelque 
+Si je suis capable de penser une nature spirituelle extérieure au monde, c’est qu’il y a en moi quelque 
 chose de spirituel également, autrement dit quelque chose qui dépasse la matière en moi : un esprit, une âme. 
 Cette âme n’a a priori pas de raison de disparaître quand la matière en moi disparaîtra ? Suis-je immortel ? 
 (question universelle…) 
 
-• Y a-t-il une vérité rationnelle immortelle ? le Bien, le Vrai, le Beau sont ils universels et immortels, ou 
+Y a-t-il une vérité rationnelle immortelle ? le Bien, le Vrai, le Beau sont ils universels et immortels, ou 
 bien uniquement culturels et historiques ? 
 
-• les différents philosophes se contredisent très souvent entre eux : Si le Vrai est un, quelle est la part de 
+les différents philosophes se contredisent très souvent entre eux : Si le Vrai est un, quelle est la part de 
 vérité dans chacune de ces philosophies humaines ? quels sont les critères pour délimiter cette part de vérité ? 
 
 quels sont les arguments pour dénoncer la part d’erreur ? 
@@ -821,7 +821,7 @@ N’a rien écrit. On le connaît par Platon.
 
 
 
-• Sa soif métaphysique s’exprime de deux manières : 
+Sa soif métaphysique s’exprime de deux manières : 
 
 
 
@@ -862,7 +862,7 @@ Mais la cause d’un étant est l’ensemble de tous les principes à l’origin
 
 Aussi, Aristote9, et à sa suite, St Thomas d’Aquin définissent 4 types de causes. 
 
-• Prenons un exemple : une statue de Zeus. 
+Prenons un exemple : une statue de Zeus. 
 
 Sa matière (le marbre…) en est la cause. Sa forme (l’idée que l’artiste se fait de Zeus) en est la cause. 
 L’artiste (le sculpteur) en est la cause. Le but, la fin recherchée par l’artiste (la gloire, l’argent…) en est la cause. 
@@ -1024,9 +1024,9 @@ temps des sophistes (V° av JC), on jouait sur ces confusions.
 
 ex : • tout ce qui est rare est cher. 
 
-• Un cheval (substance) bon marché (acc) est rare, 
+Un cheval (substance) bon marché (acc) est rare, 
 
-• donc un cheval bon marché est cher !! 
+donc un cheval bon marché est cher !! 
 
 sol.  le « tout » de la majeur se rapporte à une substance, pas à un accident. 
 
@@ -1171,21 +1171,21 @@ son essence»)
 
 = nature (humaine…) 
 
-• individuelle 
+individuelle 
 
-• unique 
+unique 
 
-• sujet 
+sujet 
 
-• existant de façon concrête 
+existant de façon concrête 
 
-• universelle 
+universelle 
 
-• générique 
+générique 
 
-• désindividualisée 
+désindividualisée 
 
-• abstraite 
+abstraite 
 
 
 
@@ -1260,7 +1260,7 @@ III – Approche historique : les dix catégories accidentelles selon Aristote
 
 
 
-• « L’Être se prend en plusieurs acceptions, mais c’est toujours relativement à un terme unique, à une 
+« L’Être se prend en plusieurs acceptions, mais c’est toujours relativement à un terme unique, à une 
 seule nature déterminée. (…). En chaque acception, toute dénomination se fait par rapport à un principe unique. 
 Telles choses sont dites des êtres parce qu’elles sont des substances, telles autres parce qu’elles sont des 
 déterminations de la substance, telles autres parce qu’elles sont un cheminement vers la substance, ou au 
@@ -1269,10 +1269,10 @@ contraire des corruptions de la substance, ou parce qu’elles sont des privatio
 
 
 
-• «L’Être se dit de l’être par accident ou de l’être par essence » (ARISTOTE, La Métaphysique, 7 . 
+«L’Être se dit de l’être par accident ou de l’être par essence » (ARISTOTE, La Métaphysique, 7 . 
 1017a) 
 
-• cf. aussi ARISTOTE, La Métaphysique, ab 
+cf. aussi ARISTOTE, La Métaphysique, ab 
 
 précision : En fait, il conviendrait de distinguer les 10 catégories, dont fait partie la substance, 
 des 9 accidents, qui l’excluent. 
@@ -1356,7 +1356,7 @@ A – l’essence elle-même.
 
 
 
-• Déf. : l’essence est donc le principe par lequel un étant est ce qu’il est. 
+Déf. : l’essence est donc le principe par lequel un étant est ce qu’il est. 
 
 Ex : je vois en face de moi une petite forme blanche, allongée, légère, immobile : je porte le jugement suivant : 
 « c’est une craie ». je définis ainsi l’essence de l’objet. 
@@ -1449,7 +1449,7 @@ ne la réalise pas, et en acte dans la mesure où elle la réalise.
 
 
 
-• Conséquences : 
+Conséquences : 
 
 L’acte d’exister inclut toujours une essence. Il est impossible d’exister sans être quelque chose. L’acte 
 d’exister implique toujours, dans l’étant fini, une essence qui le reçoit en le limitant. 
@@ -1517,7 +1517,7 @@ réponse aux objections premières (ad 1 , ad 2, …)). Voici le plan de la Somm
 
 
 
-• la prima pars (ST, Ia) : La Première Partie, Prima Pars, consacrée à Dieu comporte trois sections. 
+la prima pars (ST, Ia) : La Première Partie, Prima Pars, consacrée à Dieu comporte trois sections. 
 
 La première concerne le Dieu unique (questions 2-26): son existence (2),ce qu'il n'est pas (3-13), son activité (14-26). 
 
@@ -1535,7 +1535,7 @@ partie de la somme est précédée par une introduction consacrée à la Théolo
 De même , l’accord intime qui subsiste entre l’essence de la chose et la pensée éternelle que Dieu en a fonde la vérité de la chose, en dehors de notre 
 pensée. 
 
-• la prima secundae (ST, IaIIae) : Le Premier volume de la seconde partie, Prima Secundae, comprend quatre 
+la prima secundae (ST, IaIIae) : Le Premier volume de la seconde partie, Prima Secundae, comprend quatre 
 section. 
 
 La Première traite de la béatitude (1-5). 
@@ -1550,7 +1550,7 @@ La Troisième section aborde la loi (90-108), sa nature (90-97), loi ancienne (9
 La Quatrième section parle de la grâce de Dieu (109-114), sa nécessité (109), son essence (110), les différentes 
 espèces (112) et ses effets (112-114). 
 
-• la secunda secundae (ST, IIaIIae) : Le Second volume de la seconde partie, Secunda Secundae, est en trois 
+la secunda secundae (ST, IIaIIae) : Le Second volume de la seconde partie, Secunda Secundae, est en trois 
 sections : 
 
 les vertus théologales (1-46) : la foi (1-16), l'espérance (17-22) et la charité (23-46) ; 
@@ -1562,7 +1562,7 @@ les charismes et les états de vie (171-189) : les charisme de prophétie (171-1
 des langues (176), le charisme de la parole de sagesse ou de science (177), le charisme des miracles (178), vie active et vie 
 contemplative (179-182), offices et états (183-189). 
 
-• la tertia pars (ST, IIIa) : La Troisième partie, Tertia Pars, parle dans une première section du sauveur (1-59). 
+la tertia pars (ST, IIIa) : La Troisième partie, Tertia Pars, parle dans une première section du sauveur (1-59). 
 Cette partie comprend son mystère d'incarnation (1-26), son entrée dans le monde (27-39), sa vie (40-45), sa sortie du monde 
 (46-52) et son exaltation (53-59). Une deuxième section aborde les sacrements (60-90) : les sacrements en général (60-65), le 
 baptême (66-71), la confirmation (72), l'eucharistie (73-83), la pénitence (84-90). 
@@ -1728,11 +1728,11 @@ I – Être et Devenir
 
 
 
-• Aujourd’hui, j’existe, d’une façon réelle. Oui ou non ? 
+Aujourd’hui, j’existe, d’une façon réelle. Oui ou non ? 
 
-• Où étais-je, qu’étais-je il y a 100 ans, 1000 ans ? (une cellule, un atome ? lequel ? H20 ?) 
+Où étais-je, qu’étais-je il y a 100 ans, 1000 ans ? (une cellule, un atome ? lequel ? H20 ?) 
 
-• Où serais-je , que serais-je dans 1000 ans, métaphysiquement ? 
+Où serais-je , que serais-je dans 1000 ans, métaphysiquement ? 
 
 Mon existence (qui est une donnée réelle) évolue donc, et pourtant elle est, et elle est une, indivisible. 
 (nb : la pensée humaine non éclairée par la Foi qui fait découler ma substance de Dieu, va obligatoirement 
@@ -1985,9 +1985,9 @@ Christ vous a libéré », Jn 8,32 : « la Vérité vous rendra libre », 1P2,16
 
 
 
-• ARISTOTE, La Métaphysique,ab. 
+ARISTOTE, La Métaphysique,ab. 
 
-• « L’Être se prend en plusieurs acceptions, mais c’est toujours relativement à un terme unique, à une seule nature déterminée. (…). En chaque acception, toute 
+« L’Être se prend en plusieurs acceptions, mais c’est toujours relativement à un terme unique, à une seule nature déterminée. (…). En chaque acception, toute 
 dénomination se fait par rapport à un principe unique. Telles choses sont dites des êtres parce qu’elles sont des substances, telles autres parce qu’elles sont 
 des déterminations de la substance, telles autres parce qu’elles sont un cheminement vers la substance, ou au contraire des corruptions de la substance, ou 
 parce qu’elles sont des privations, ou des qualités de la substance… » (ARISTOTE, La Métaphysique, , 2 - 1003 a) 
@@ -2233,7 +2233,7 @@ Ch 7 – Les Transcendantaux.
 
 
 
-• Récapitulatif : 
+Récapitulatif : 
 
 
 
@@ -2295,7 +2295,7 @@ Tout étant est un, vrai, bon et beau.
 
 
 
-• Petit détour anthropologique : 
+Petit détour anthropologique : 
 
 
 
@@ -2333,10 +2333,10 @@ B – Le Vrai
 
 Il convient de distinguer le vrai formel (ou logique) et le vrai ontologique (ou transcendantal). 
 
-• Le vrai ontologique, c’est la réalité elle-même. Un étant est vrai ontologiquement parce qu’il existe 
+Le vrai ontologique, c’est la réalité elle-même. Un étant est vrai ontologiquement parce qu’il existe 
 réellement. (cette chaise est vrai, la licorne est fausse). 
 
-• Le vrai formel est l’adéquation entre le jugement intellectuel et la réalité (adequatio intellectus et rei). Un 
+Le vrai formel est l’adéquation entre le jugement intellectuel et la réalité (adequatio intellectus et rei). Un 
 étant est alors également vrai formellement si mon intelligence le perçoit tel qu’il est, dans sa vérité ontologique. 
 (je juge « cette table existe », « elle est en bois », etc…). 
 
@@ -2432,7 +2432,7 @@ le FAUX
 
 = non VRAI = non réel = non être. 
 
-• l’erreur (= non adéquation de ce que 
+l’erreur (= non adéquation de ce que 
 je pense et de ce qui est. Ex = 2+2=3). 
 
 ma Pensée =/= l’être. 
@@ -2449,7 +2449,7 @@ le MAL
 
 = non BIEN = une privation d’être. 
 
-• la faute (= non adéquation de mon 
+la faute (= non adéquation de mon 
 action avec ce qui actualise mon être). 
 
 mon action =/= l’être. 
@@ -2489,10 +2489,10 @@ Nb - Conséquence générale :
 
 
 
-• L’un, le vrai, le bon et le beau n’apparaissent que sous l’horizon de l’être. L’un, le vrai, le bon et le beau 
+L’un, le vrai, le bon et le beau n’apparaissent que sous l’horizon de l’être. L’un, le vrai, le bon et le beau 
 manifestent la profonde convenance de l’être et l’esprit. 
 
-• Plus je suis en acte, donc plus mon existence actualise mon essence, plus je suis vrai, bon (ie désirable : 
+Plus je suis en acte, donc plus mon existence actualise mon essence, plus je suis vrai, bon (ie désirable : 
 le bien est diffusible de soi , bonum diffusivum sui) 
 
 
@@ -2516,15 +2516,15 @@ Et Dieu se révèle à l’humanité également à travers ces transcendantaux :
 
 
 
-• Dieu est l’Être par excellence : il se fait appelé « Je Suis » par Moïse23 
+Dieu est l’Être par excellence : il se fait appelé « Je Suis » par Moïse23 
 
-• Dieu est l’Un par excellence : « Le Seigneur est Un » (Dt 6,4s) , infiniment simple, un, sans division 
+Dieu est l’Un par excellence : « Le Seigneur est Un » (Dt 6,4s) , infiniment simple, un, sans division 
 (=/= unicité, que traduit le monothéisme) … 
 
-• Dieu est Vrai par excellence : Il est Celui qui est, et peut dire « Je suis la Vérité » (Jn 14,6), pas dans 
+Dieu est Vrai par excellence : Il est Celui qui est, et peut dire « Je suis la Vérité » (Jn 14,6), pas dans 
 le sens seulement d’une doctrine… 
 
-• Dieu est le Bien par excellence : la richesse par excellence, celui qui satisfait totalement le coeur de 
+Dieu est le Bien par excellence : la richesse par excellence, celui qui satisfait totalement le coeur de 
 l’homme (« Mon âme a soif de toi » dit le Ps, St Aug : « Tu nous as fait pour toi… »…), celui aussi dont l’action par 
 excellence est bonne (« Dieu est Amour » 1Jn4,8 ;), celui dont le Bien se communique par excellence et 
 totalement : dans la Trinité même (chaque personne se donne totalement aux 2 autres) et dans l’Incarnation, la 
@@ -2534,7 +2534,7 @@ Lm 3,25 : « Le Seigneur est bon pour qui se fie à Lui, pour l’âme qui le ch
 
 Lc 18,18 : « Dieu seul est Bon » 
 
-• Dieu est le Beau : Ct 1,16 : « Que tu es beau, mon Bien Aimé », Le « plus beau des enfants des 
+Dieu est le Beau : Ct 1,16 : « Que tu es beau, mon Bien Aimé », Le « plus beau des enfants des 
 hommes » dit le Ps, la « source même de la Beauté » (Sg 13,3), d’où l’Art. C’est la notion biblique de « Gloire », 
 beauté de Dieu. Cf. la théologie de H.U.V. Balthasar. 
 
@@ -2591,7 +2591,7 @@ B – Critique de cette métaphysique
 
 
 
-• critique de l’idéalisme platonicien : 
+critique de l’idéalisme platonicien : 
 
 Platon considère que le monde des Idées à plus de réalité que le monde que nous connaissons. Or, ce 
 monde n’existe pas ontologiquement. Aristote reproche à Platon de donner de la substance aux Idées, alors 

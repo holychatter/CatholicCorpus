@@ -8,13 +8,16 @@
 namespace fs = std::filesystem;
 namespace
 {
-  const std::string _inputFolder = "../../input/";
-  const std::string _outputFolder = "../../output/";
+const std::string _inputFolder = "../../input/";
+const std::string _outputFolder = "../../output/";
 }
 
-VirtualFileParser::VirtualFileParser(const std::string& pFilename)
+VirtualFileParser::VirtualFileParser(const std::string& pFileName,
+                                     const std::string& pFirstLine)
   : _outputFile(),
-    _filename(pFilename)
+    _filename(pFileName),
+    _beforeBegin(true),
+    _firstLine(pFirstLine)
 {
 }
 
@@ -46,11 +49,25 @@ void VirtualFileParser::run()
 
   while (getline(inputFile, line))
   {
-    // Ignore specific lines
-    if (line == "\014")
+    // Ignore lines before the first line
+    if (_beforeBegin)
+    {
+      if (line == _firstLine)
+        _beforeBegin = false;
       continue;
+    }
+    else
+    {
+      // Ignore specific lines
+      if (line == "\014")
+        continue;
 
-    processLine(line, asContentBefore);
+      if (!asContentBefore)
+      {
+        line = removeBeginOfChapterNumber(line);
+      }
+      processLine(line, asContentBefore);
+    }
     asContentBefore = !isOnlySpace(line);
   }
 
