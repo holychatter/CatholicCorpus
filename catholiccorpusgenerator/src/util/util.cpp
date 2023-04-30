@@ -1,5 +1,4 @@
 #include "util.hpp"
-#include <iostream>
 #include <vector>
 
 namespace
@@ -23,8 +22,6 @@ bool isOnlySpace(const std::string& pLine)
 
 std::string removeBeginOfChapterNumber(const std::string& pLine)
 {
-  if (pLine == " a- Aristote. ")
-    std::cout << "Toto " <<std::endl;
   static const std::vector<std::string> stringsToEscape = {"–","","●","→","","•",""};
   std::size_t numberOfGoodCharacters = 0;
   std::size_t beginOfLine = 0;
