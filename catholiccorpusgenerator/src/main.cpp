@@ -1,6 +1,7 @@
 #include "fileparsers/saintethereseavila_parser.hpp"
 #include "fileparsers/generic_parser.hpp"
 #include <memory>
+#include <iostream>
 
 namespace
 {
@@ -44,6 +45,20 @@ int main(int argc, char *argv[])
 
   runGenericParser("Theologie_Catho/1_Methaphysique/M3.txt",
                    "Introduction : le tournant idéaliste de la métaphysique ");
+
+  runGenericParser("Theologie_Catho/2_Hermeneutique_theologique/T1.txt",
+                   "THESE : ");
+
+  runGenericParser("Theologie_Catho/2_Hermeneutique_theologique/T2.txt",
+                   "THESE : ");
+
+  runGenericParser("Theologie_Catho/2_Hermeneutique_theologique/T3.txt",
+                   "THESE : ");
+
+  runGenericParser("Theologie_Catho/2_Hermeneutique_theologique/T4.txt",
+                   "THESE : ");
+
+  std::cout << "Finish to generate all files" << std::endl;
 
   return 0;
 }

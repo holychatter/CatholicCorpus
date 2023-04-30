@@ -28,7 +28,6 @@ void VirtualFileParser::run()
   if (endofPathPosition != std::string::npos)
   {
     std::string relativePath = _filename.substr(0, endofPathPosition);
-    std::cout << "relativePath :" << relativePath << std::endl;
     fs::create_directories(_outputFolder + relativePath);
   }
 
