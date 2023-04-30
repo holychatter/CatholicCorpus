@@ -31,5 +31,19 @@ int main(int argc, char *argv[])
           " Hamlet, II.2 ");
     parser->run();
   }
+
+  {
+    auto parser = std::make_unique<Generic_Parser>(
+          "Theologie_Catho/1_Methaphysique/M2.txt",
+          "CRITIQUE DU REALISME : ");
+    parser->run();
+  }
+
+  {
+    auto parser = std::make_unique<Generic_Parser>(
+          "Theologie_Catho/1_Methaphysique/M3.txt",
+          "Introduction : le tournant idéaliste de la métaphysique ");
+    parser->run();
+  }
   return 0;
 }
