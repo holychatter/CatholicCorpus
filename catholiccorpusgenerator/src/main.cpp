@@ -2,6 +2,17 @@
 #include "fileparsers/generic_parser.hpp"
 #include <memory>
 
+namespace
+{
+void runGenericParser(const std::string& pFileName,
+                      const std::string& pFirstLine)
+{
+  auto parser = std::make_unique<Generic_Parser>(pFileName, pFirstLine);
+  parser->run();
+}
+
+}
+
 int main(int argc, char *argv[])
 {
   {
@@ -25,25 +36,14 @@ int main(int argc, char *argv[])
     saintethereseavila_parser->run();
   }
 
-  {
-    auto parser = std::make_unique<Generic_Parser>(
-          "Theologie_Catho/1_Methaphysique/M1.txt",
-          " Hamlet, II.2 ");
-    parser->run();
-  }
+  runGenericParser("Theologie_Catho/1_Methaphysique/M1.txt",
+                   " Hamlet, II.2 ");
 
-  {
-    auto parser = std::make_unique<Generic_Parser>(
-          "Theologie_Catho/1_Methaphysique/M2.txt",
-          "CRITIQUE DU REALISME : ");
-    parser->run();
-  }
+  runGenericParser("Theologie_Catho/1_Methaphysique/M2.txt",
+                   "CRITIQUE DU REALISME : ");
 
-  {
-    auto parser = std::make_unique<Generic_Parser>(
-          "Theologie_Catho/1_Methaphysique/M3.txt",
-          "Introduction : le tournant idéaliste de la métaphysique ");
-    parser->run();
-  }
+  runGenericParser("Theologie_Catho/1_Methaphysique/M3.txt",
+                   "Introduction : le tournant idéaliste de la métaphysique ");
+
   return 0;
 }
