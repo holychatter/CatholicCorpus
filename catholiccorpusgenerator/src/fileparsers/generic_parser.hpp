@@ -4,11 +4,11 @@
 #include "virtualfileparser.hpp"
 #include <string>
 
-class Theology_Parser : public VirtualFileParser
+class Generic_Parser : public VirtualFileParser
 {
 public:
-  Theology_Parser(const std::string& pFileName,
-                  const std::string& pFirstLine);
+  Generic_Parser(const std::string& pFileName,
+                 const std::string& pFirstLine);
 
 protected:
   void processLine(const std::string& pLine, bool pAsContentBefore) override;
