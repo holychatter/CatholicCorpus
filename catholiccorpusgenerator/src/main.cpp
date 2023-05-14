@@ -94,6 +94,9 @@ int main(int argc, char *argv[])
   runGenericParser("Theologie_Catho/6_Anthropologie_theologique/T16.txt",
                    "THESE : ");
 
+  runGenericParser("Therese_de_Lisieux/THERESE_DE_LISIEUX-Histoire_dune_ame.txt",
+                   "Histoire d'une Ame");
+
   std::cout << "Finish to generate all files" << std::endl;
 
   return 0;
