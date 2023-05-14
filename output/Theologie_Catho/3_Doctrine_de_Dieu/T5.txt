@@ -1,6 +1,3 @@
-                                                  La question de Dieu
-
-[thèse non mise en forme]
 
 Suivant les définitions et les déclarations du Magistère, comme regula fidei, cette étude analyse le langage
 ecclésial sur le mystère de Dieu : origine, signification, cohérence et actualité. Pour l’unité ecclésiale, est
@@ -11,7 +8,7 @@ Augustin : Dieu, qui est plus grand tel que je le pense que tel que je le dis, e
 je le pense. Cette réflexion permet de scinder l’histoire de la théologie en trois époques : celle de l’être
 (antiquité - moyen âge), celle de la pensée (époque moderne), celle du langage (époque contemporaine).
 
-1 La question de Dieu dans la tradition théologique
+La question de Dieu dans la tradition théologique
 1.1    Origines de la théologie
 De la rencontre de la culture philosophique grecque avec le message religieux du christianisme est sorti un
 langage théologique sur l’affirmation de Dieu.
@@ -21,7 +18,7 @@ philosophique de Dieu. Le christianisme proclamait que le Dieu inconnu et mysté
 Seigneur de l’histoire universelle, objet transcendant du sentiment religieux de tous les peuples et principe
 ultime de toute réalité.
 
-         Actes (BJ) 17: 23 Parcourant en effet votre ville et considérant vos monuments sacrés, j'ai trouvé jusqu'à un autel avec
+Actes (BJ) 17: 23 Parcourant en effet votre ville et considérant vos monuments sacrés, j'ai trouvé jusqu'à un autel avec
          l'inscription: au dieu inconnu. Eh bien! ce que vous adorez sans le connaître, je viens, moi, vous l'annoncer. 24 "Le Dieu qui a fait le
          monde et tout ce qui s'y trouve, lui, le Seigneur du ciel et de la terre, n'habite pas dans des temples faits de main d'homme. 25 Il
          n'est pas non plus servi par des mains humaines, comme s'il avait besoin de quoi que ce soit, lui qui donne à tous vie, souffle et
@@ -32,26 +29,26 @@ ultime de toute réalité.
          la race de Dieu, nous ne devons pas penser que la divinité soit semblable à de l'or, de l'argent ou de la pierre, travaillés par l'art
          et le génie de l'homme
 
-         Romains (BJ) 1: 18 En effet, la colère de Dieu se révèle du haut du ciel contre toute impiété et toute injustice des hommes, qui
+Romains (BJ) 1: 18 En effet, la colère de Dieu se révèle du haut du ciel contre toute impiété et toute injustice des hommes, qui
          tiennent la vérité captive dans l'injustice;
          19 car ce qu'on peut connaître de Dieu est pour eux manifeste: Dieu en effet le leur a manifesté. 20 Ce qu'il a d'invisible depuis la
          création du monde se laisse voir à l'intelligence à travers ses oeuvres, son éternelle puissance et sa divinité, en sorte qu'ils sont
          inexcusables;
 
 
-1.2    La polémique anti-gnostique
+.2    La polémique anti-gnostique
 La confrontation du monothéisme chrétien avec le dualisme gnostique (Valentin, Marcion, Celse) mena à la
 formulation orthodoxe du langage du premier article de la foi, qui affirme l’absolue singularité et unité de la
 monarchie divine, en identifiant sans équivoque le Dieu créateur de l’ancienne alliance, avec le Dieu sauveur et
 Père de Jésus de l’alliance nouvelle. Cf. Irénée, Tertullien, Origène.
 
-1.3    La voie apophatique du platonisme chrétien
+.3    La voie apophatique du platonisme chrétien
 Dans la théologie chrétienne d’Alexandrie ou de Cappadoce, Dieu émerge comme une réalité absolue, infinie
 et transcendante, de qui procède la réalité de la multiplicité créée. A travers l’ordre naturel ou l’ordre
 salvifique, la lumière divine l’illumine tout entier. La présence de Dieu remplit l’univers et l’histoire. L’homme,
 en tant que créature, peut s’unir au Créateur, non seulement par la « voie cataphatique » de l’affirmation des
 
-                                                                                                                                                1
+
 noms divins, mais surtout par la « voie apophatique » de la théologie négative et par la « voie mystique » de
 l’union extatique (Clément d’Alexandrie, Grégoire de Nysse, Denys l’Aréopagite).
 
@@ -63,7 +60,7 @@ En refusant tout concept d’un Dieu compréhensible et fini, la communauté cro
 essentiellement incompréhensible et mystérieux, origine sans origine et principe sans principe de toute
 réalité, créée et incréée, visible et invisible.
 
-1.4    L’aristotélisme chrétien dans la théologie scholastique
+.4    L’aristotélisme chrétien dans la théologie scholastique
 Avec l’acceptation de l’aristotélisme, la théologie scholastique peut élaborer, comme formule de rechange à la
 voie contemplative de la « descente » de l’Infini vers le fini, caractéristique du platonisme augustinien
 (Anselme, Bernard, Bonaventure), une voie « déductive » du fini vers l’Infini, de la créature vers le Créateur,
@@ -79,10 +76,10 @@ affirmant Dieu un et unique, vrai et saint, éternel et immuable ; le langage su
 participation de la créature, puisque, entre créature et Créateur existent une « ressemblance et une
 dissemblance ». Deus semper major.
 
-        Latran IV - La Trinité: Car si grande que soit la ressemblance entre le Créateur et la créature, on doit encore noter une plus
+Latran IV - La Trinité: Car si grande que soit la ressemblance entre le Créateur et la créature, on doit encore noter une plus
         grande dissemblance entre eux.
 
-1.5    Fidéisme et rationalisme à l’époque moderne
+.5    Fidéisme et rationalisme à l’époque moderne
 Tant la voie « apophatique » et mystique du platonisme chrétien que la voie spéculative et « dialectique » de
 l’aristotélisme chrétien doivent se confronter avec la nouvelle perspective méthodologique de la raison
 autonome, qui cherche dans la mathématique et dans la science de l’univers la possibilité d’une nouvelle
@@ -100,12 +97,12 @@ philosophique (Fichte, Hegel) ; cherchant à combler le hiatus entre subjectivit
 réalité, entre moi et le monde, l’idéalisme affirmera l’orientation du sujet fini vers l’objet infini, qui
 ultérieurement sera connu comme Sujet absolu (Schelling).
 
-2 Quelques aspects du débat actuel
+Quelques aspects du débat actuel
 2.1    De la théologie « libérale » à la théologie « dialectique »
 Du côté protestant, le dépassement de la « théologie libérale », avec sa réduction du christianisme à un
 théisme éthique tendant vers un rationalisme panthéiste, se produira avec la « théologie dialectique », qui
 
-                                                                                                                                    2
+
 revalorise le moment transcendant de l’expérience religieuse, le personnalisme de la révélation biblique et le
 christocentrisme eschatologique de la foi et de la théologie. La connaissance de Dieu n’est possible que dans le
 Christ, sa Parole divine, à travers l’Ecriture et la prédication de l’Eglise. La rencontre avec le Dieu de la foi ne
@@ -119,7 +116,7 @@ la perspective de l’inconditionné et du sacré, qui envahit le monde de la re
 fondement de l’être et du sens ultime de la réalité. Ce n’est qu’à partir du « Dieu caché » qu’on peut affirmer
 le « Dieu « révélé », qu’à partir du Dieu de la religion qu’on peut comprendre le Dieu de la foi.
 
-2.2    Révélation et histoire dans la « nouvelle théologie »
+.2    Révélation et histoire dans la « nouvelle théologie »
 Ce qu’on appelle la « nouvelle théologie » a déclenché un mouvement de rénovation orienté en diverses
 directions : récupération du moment mystique de l’expérience religieuse, attention au Dieu vivant de la
 révélation biblique, contact avec la spiritualité apophatique de la tradition patristique, attention à
@@ -128,7 +125,7 @@ religions orientales, confrontation avec le problème religieux dans l’univers
 athée (Lubac, Daniélou, Balthasar).
 Théologie de l’histoire, du travail, de la politique (Chenu, Thils, Maritain).
 
-2.3    La méthode de « corrélation » et la méthode « transcendantale »
+.3    La méthode de « corrélation » et la méthode « transcendantale »
 A la recherche du Dieu vivant, dans la révélation biblique et dans la mystique chrétienne, dans la doxologie
 liturgique et dans la tradition théologique (Przywara, Guardini, Rahner, Jungmann), la « méthode
 transcendantale » ajoute une élaboration théorique de la réflexion croyante dans la perspective de la tournure
@@ -143,7 +140,7 @@ mal dans l’histoire et récupère la dimension surnaturelle du dessein divin, 
 révélation et de la grâce l’autocommunication libre de la miséricorde du Père, qui se révèle comme vérité
 absolue dans le Fils, médiateur absolu, et comme bonté sanctifiante dans l’Esprit divin.
 
-2.4    Les théologies de la modernité et de la « mort de Dieu »
+.4    Les théologies de la modernité et de la « mort de Dieu »
 Du côté protestant, « théologie de la sécularisation ». Le salut sera énoncé comme une libération, et le Christ
 sera proclamé comme Seigneur du monde, en tant que paradigme du comportement solitaire. Les théologiens
 de la sécularisation proposent l’acceptation de Dieu depuis la réalité de l’autonomie du monde, vécue dans une
@@ -160,29 +157,29 @@ de chercher un nouveau paradigme théologique, face à la sécularité (Schilleb
 Dewart). Cette nouvelle « théologie de la modernité » essaie d’intégrer les exigences de la rationalité critique.
 L’affirmation du séculier et du mondain est perçue comme corollaire de l’expérience chrétienne, dans une
 
-                                                                                                                   3
+
 considération du monde comme création et comme alliance, comme œuvre divine et comme destinataire de
 l’histoire du salut (Metz).
 
-2.5    Les théologies de l’action et de la libération
+.5    Les théologies de l’action et de la libération
 La « théologie de la libération » en Amérique latine découvre la pertinence politique du Dieu de la révélation
 biblique comme Dieu libérateur et comme Dieu de la sainteté et de la justice (Gutiérrez, Assmann, Segundo).
 Le pauvre devient un « lieu épistémologique » privilégié (Boff, Dussell).
 
-3 Logique de l’affirmation de Dieu
+Logique de l’affirmation de Dieu
 Le problème de l’affirmation de Dieu, surtout considéré à la lumière du premier article de la foi chrétienne, ne
 peut faire abstraction de la question de la meilleure façon d’analyser le langage religieux, puisqu’il s’agit de
 découvrir le sens du langage chrétien sur Dieu, son articulation logique et sa signification théorique et
 pratique. Pour cela, il faudra expliquer quelques présupposés méthodologiques.
 
-3.1    Présupposés et hypothèses préliminaires
+.1    Présupposés et hypothèses préliminaires
 
-             ni transcendant, ni immanent                         pas transcendant, mais immanent
+ni transcendant, ni immanent                         pas transcendant, mais immanent
          (athéisme, antithéisme, agnosticisme)                     (tendance éthique, prophétique)
            transcendant, mais pas immanent                            transcendant et immanent
          (tendance mystique, contemplative)                                   (synthèse)
 
-3.2    Axiome
+.2    Axiome
   - fondamental : Dieu révélé = Dieu caché (Dieu de l’économie = Dieu créateur).
   - gnoséologique : Dieu incompréhensible = Dieu connaissable par la raison.
   - ontologique : Dieu immanent = Dieu transcendant.
@@ -193,7 +190,7 @@ pratique. Pour cela, il faudra expliquer quelques présupposés méthodologiques
   - conclusif : le Dieu saint et éternel se révèle comme Seigneur de l’Alliance et P. de bonté (Dieu de
 l’expérience mystique = Dieu de la révélation biblique).
 
-3.3    Règles linguistiques du langage chrétien sur Dieu
+.3    Règles linguistiques du langage chrétien sur Dieu
  • Le langage sur Dieu doit se souvenir que celui-ci est ineffable.
  • Le langage sur Dieu ne se réduit pas à un seul type d’usage : aux usages conviennent langages (langage
 dogmatique : usage normatif ; langage analogique : usage informatif...).
@@ -206,13 +203,13 @@ garde dans l’herméneutique).
  • Le langage sur Dieu exprime le caractère paradoxal de l’affirmation croyante. Toute analogie (de l’être, de
 la foi, du symbole = de l’image) est paradoxale.
 
-3.4    Théorèmes théologiques et corollaires religieux
+.4    Théorèmes théologiques et corollaires religieux
 se rapportant au contenu du langage et corollaires religieux.
 Dieu se révèle à tous les hommes, tout en demeurant mystère incompréhensible et ineffable (affirme la
 possibilité pour la raison de dire Dieu et la limite de cette possibilité)
                     expérience numineuse (rencontre personnelle du Dieu ineffable).
 
-                                                                                                              4
+
          comme infiniment saint, nécessaire, parfait, singulier
                  expérience du Dieu saint.
          comme vivant éternel, omniprésent, immense, présence spirituelle et personnelle.
@@ -222,7 +219,7 @@ possibilité pour la raison de dire Dieu et la limite de cette possibilité)
          comme créateur bon, provident, Seigneur de l’Alliance de salut, Père miséricordieux.
                  expérience paradoxale de la miséricorde.
 
-4 Fondement biblique du premier article de foi
+Fondement biblique du premier article de foi
 4.1    L’hénothéisme archaïque et le monothéisme prophétique
 Dieu mystérieux, universel, bienveillant & Seigneur des patriarches, Maître de la nature, libération, espérance
  monolâtrie.
@@ -230,11 +227,11 @@ Dieu mystérieux, universel, bienveillant & Seigneur des patriarches, Maître de
 Opposition moment idéal de l’Alliance/renoncements moraux présents  idolâtrie & apostasie. Thème de la
 conversion au Dieu fidèle. De + monothéisme exclusif (= Dieu 1 & unique).
 
-4.2    La théologie sapientielle et apocalyptique
+.2    La théologie sapientielle et apocalyptique
 Crainte de Dieu / contemplation de sa gloire dans la création & l’histoire / silence de Dieu & souffrance du juste
 / lien unité de Dieu – unité eschatologique de l’histoire.
 
-4.3    Le message de Jésus et la foi de la communauté
+.3    Le message de Jésus et la foi de la communauté
 NT : Le Dieu Père et provident de Jésus. Jésus se place dans la lignée de l’AT, tout en annonçant que Dieu est
 Père en un sens tout à fait nouveau : sa propre relation filiale avec lui est faite d’une confiance sans limites en
 sa providence. De même ses disciples doivent mettre toute leur confiance dans le Père, et chercher à imiter sa
@@ -243,19 +240,19 @@ l’attestation du message de Jésus, mais encore précise l’image de Dieu com
 pécheur. C’est aussi un trait de la théologie de saint Paul que l’identité entre le Dieu caché et le Dieu de la
 révélation (Rm) : axiome.
 
-4.4    Aspects dominants du « théisme » biblique.
+.4    Aspects dominants du « théisme » biblique.
 Le théisme biblique est marqué par le paradoxe du Dieu qui se révèle comme mystère, depuis l’hénothéisme
 primitif jusqu’aux réflexions sapientiales et à la révélation dans le Christ “sub contrario”. Il est marqué aussi par
 le monarchisme économique : Dieu se révèle dans la création et dans l’histoire, il est le même.
 
-4.5    Transcendance et histoire
+.5    Transcendance et histoire
 Le Dieu transcendant entre en communion avec l’homme au cours de l’histoire, en faisant alliance avec lui.
 Cette idée qui traverse toute l’histoire d’Israël se retrouve dans le NT avec la notion de nouvelle alliance établie
 dans le sang du Christ (récits d’institution euch et He). Dans le NT cependant, la tension entre transcendance et
 histoire se trouve portée au maximum dans la Personne même du Christ, présence de la transcendance de Dieu
 au cœur de l’histoire.
 
-4.6    Identité et réalité de Dieu
+.6    Identité et réalité de Dieu
 L’identité de Dieu demeure à travers toute l’histoire d’Israël : c’est lui le Dieu des Père, le Dieu de l’Alliance, le
 Dieu de justice annoncé par les prophètes ; conséquence du monothéisme qui se met en place. C’est encore le
 même Dieu qui est Père de JC et qui continue son œuvre d’alliance en lui. Le Père de miséricorde est aussi le
@@ -265,7 +262,7 @@ de toute réalité créée ; de l’interrogation morale ; du besoin de salut qu
 
 
 
-                                                                                                                    5
+
 4.7    Comportement salvifique de Dieu
 Dieu est aussi le sauveur. Lui qui est au-dessus de l’histoire, transcendant, inaccessible, tout-puissant, est aussi
 le Seigneur de l’Alliance, le rédempteur qui ramène les déportés de son peuple et le sauve dans l’adversité.
@@ -275,7 +272,7 @@ ses péchés, le libère de l’esclavage du péché et de la peur de la mort qu
 
 
 
-                                                                                                                  6
+
 5 La foi en Dieu dans l’Eglise catholique
 5.1    Le premier article de foi dans les symboles et les conciles
 Le premier article de tous les Credo (symboles des conciles et symboles baptismaux) est toujours celui qui
@@ -292,7 +289,7 @@ pour autant (conciles de Quierzy et de Sens) ; cela signifie que l’œuvre ad e
 que Dieu est fidèle à son dessein à lui et à sa grâce. La dernière des propositions condamnées, due à ABÉLARD,
 est celle de l’optimisme théologique.
 
-5.2    La doctrine de Dieu dans la perspective du Vatican I et Vatican II
+.2    La doctrine de Dieu dans la perspective du Vatican I et Vatican II
 Vatican I dans le contexte rationaliste de 1870 réaffirme les vérités traditionnelles concernant Dieu : réalité,
 unicité du Créateur et du Père. Cependant, il insiste particulièrement, à la fois contre le rationalisme et contre
 le fidéisme, sur l’affirmation que Dieu est connaissable par la raison tout en demeurant incompréhensible : Dei
@@ -311,5 +308,4 @@ attestée dans le cœur de ceux-ci par l’ES qui est donné.
 
 
 
-                                                                                                                    7
-
+

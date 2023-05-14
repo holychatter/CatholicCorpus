@@ -58,6 +58,42 @@ int main(int argc, char *argv[])
   runGenericParser("Theologie_Catho/2_Hermeneutique_theologique/T4.txt",
                    "THESE : ");
 
+  runGenericParser("Theologie_Catho/3_Doctrine_de_Dieu/T5.txt",
+                   "[thèse non mise en forme]");
+
+  runGenericParser("Theologie_Catho/3_Doctrine_de_Dieu/T6.txt",
+                   "Thèse :");
+
+  runGenericParser("Theologie_Catho/3_Doctrine_de_Dieu/T7.txt",
+                   "         Thèse :");
+
+  runGenericParser("Theologie_Catho/4_Ecclesiologie/T8.txt",
+                   "THESE :");
+
+  runGenericParser("Theologie_Catho/4_Ecclesiologie/T9.txt",
+                   "THESE :");
+
+  runGenericParser("Theologie_Catho/5_Theologie_sacramentelle/T10.txt",
+                   "THESE :");
+
+  runGenericParser("Theologie_Catho/5_Theologie_sacramentelle/T11.txt",
+                   "THESE:");
+
+  runGenericParser("Theologie_Catho/5_Theologie_sacramentelle/T12.txt",
+                   "THESE :");
+
+  runGenericParser("Theologie_Catho/5_Theologie_sacramentelle/T13.txt",
+                   "THESE :");
+
+  runGenericParser("Theologie_Catho/6_Anthropologie_theologique/T14.txt",
+                   "THESE : ");
+
+  runGenericParser("Theologie_Catho/6_Anthropologie_theologique/T15.txt",
+                   "THESE : ");
+
+  runGenericParser("Theologie_Catho/6_Anthropologie_theologique/T16.txt",
+                   "THESE : ");
+
   std::cout << "Finish to generate all files" << std::endl;
 
   return 0;
