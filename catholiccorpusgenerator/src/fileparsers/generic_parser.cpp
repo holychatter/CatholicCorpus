@@ -4,8 +4,6 @@
 #include <fstream>
 #include <iomanip>
 
-#include "../util/util.hpp"
-
 namespace fs = std::filesystem;
 
 Generic_Parser::Generic_Parser(const std::string& pFileName,
