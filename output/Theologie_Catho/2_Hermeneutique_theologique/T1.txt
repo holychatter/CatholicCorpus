@@ -3,23 +3,23 @@
 
 Qu’est-ce que la Révélation ? La problématique de la Réforme protestante ( le radicalisme du Sola Scriptura niant 
 toute place à la Tradition ) oblige l’Eglise à théoriser d’avantage le rapport entre Ecriture et Tradition. Toutes deux transmettent 
-l’unique Evangile (Trente), ce dernier étant compris d’abord comme corps de doctrine : source de toute vérité salutaire et de 
-toute règle morale. Dei Filius (Vatican I) élargit la définition de la Révélation (à Dieu lui-même) et rappelle par ailleurs qu’à la 
-seule Eglise catholique appartient l’interprétation authentique des Ecritures. C’est cependant Dei Verbum (Vatican II) qui 
+l’unique Evangile, ce dernier étant compris d’abord comme corps de doctrine : source de toute vérité salutaire et de 
+toute règle morale. Dei Filius élargit la définition de la Révélation et rappelle par ailleurs qu’à la 
+seule Eglise catholique appartient l’interprétation authentique des Ecritures. C’est cependant Dei Verbum qui 
 explicite le contenu de l’objet de la Révélation : c’est Dieu lui-même (et non plus tant une doctrine) qui - dans le Christ et 
 particulièrement dans son Mystère Pascal - se révèle aux hommes comme à des amis, et par là-même leur communique sa 
 vie divine. 
 
 Le rapport Ecriture-Tradition n’est donc plus vu de manière binaire, mais il vit d’une réciprocité mystérieuse dont 
 l’unité vient de l’Esprit Saint. Ecriture et Tradition forment un tout – le « Dépôt sacré » de la Foi, partageant la même source 
-(l’Esprit Saint) et la même fin (DV 9). L’Ecriture n’épuise donc point la Révélation (DV 9. FR 55). Dans l’Eglise « qui croit et qui 
+ et la même fin. L’Ecriture n’épuise donc point la Révélation. Dans l’Eglise « qui croit et qui 
 prie », souffle l’Esprit, et le « Dépôt de la Foi » s’enrichit sans cesse de la Tradition ainsi renouvelée, et toujours fondée sur 
 l’Ecriture qu’elle explicite. La Tradition est donc un critère herméneutique pour la Vérité doctrinale de l’Ecriture. 
 
-Comment discerner la Tradition (parmi les traditions) ? L’Esprit Saint permet ce discernement, et aide à garder 
-le « Bon Dépôt » (2 Tm 1,14). Il introduit l’Eglise dans la « Vérité toute entière » (Jn 16,13), par l’intermédiaire des Apôtres et 
+Comment discerner la Tradition ? L’Esprit Saint permet ce discernement, et aide à garder 
+le « Bon Dépôt ». Il introduit l’Eglise dans la « Vérité toute entière », par l’intermédiaire des Apôtres et 
 de leurs successeurs, qui transmettent ce qu’ils ont reçus, mais aussi par l’intermédiaire du peuple chrétien tout entier, oint par 
-l’Esprit, et qui dès lors ne peut faillir dans la foi (LG 12 sur le sensus fidei). 
+l’Esprit, et qui dès lors ne peut faillir dans la foi. 
 
 Comment interpréter l’Ecriture ? Dei Filius insiste encore sur Dieu comme Auteur et pas seulement Inspirateur et 
 Garant de la sainteté de l’Ecriture. Mais dans le siècle qui sépare les conciles Vatican I et II, l’hagiographe ou écrivain sacré 
@@ -27,9 +27,9 @@ trouve peu à peu sa place : instrument, membre, cause instrumentale, organe de 
 raison… DV 11 qualifie finalement alors ces hagiographes de « vrais auteurs ». 
 
 Et puisque l’Esprit a parlé à des hommes à la manière des hommes, il convient de creuser par l’exégèse ce que ceux-ci 
-ont vraiment voulu dire (DV 12) et ce qu’il a plu à Dieu de faire passer par leurs paroles : c’est le rôle de l’analyse littérale, 
+ont vraiment voulu dire et ce qu’il a plu à Dieu de faire passer par leurs paroles : c’est le rôle de l’analyse littérale, 
 mais qui doit être complétée d’une herméneutique spirituelle. Cette dernière découvre le sens exact des textes sacrés en les 
-replaçant dans la cohérence de toute l’Ecriture (1), de la Tradition de l’Eglise (2), de l’analogia fidei (i.e. du dogme) (3). 
+replaçant dans la cohérence de toute l’Ecriture, de la Tradition de l’Eglise, de l’analogia fidei. 
 
 Le Christ est dès lors l’Herméneute ultime des Ecritures, parce qu’Il en crée Lui-même le sens en les accomplissant. 
 
@@ -44,7 +44,7 @@ La théologie se fortifie, s’affermit et se rajeunit sans cesse au contact de 
 Bibliographie essentielle : 
 
 Dei Verbum (Vatican II, Paul VI, Constitution dogmatique, 1965) 
-- « Décret sur la Réception des Livres saints et traditions » (Concile de Trente, 1546) 
+- « Décret sur la Réception des Livres saints et traditions » 
 
 « L’interprétation de la Bible dans l’Eglise » (Commission Biblique Pontificale, 1993) 
 
@@ -53,13 +53,13 @@ Dei Verbum (Vatican II, Paul VI, Constitution dogmatique, 1965)
 
 Bibliographie annexe : 
 
-« Décret sur l’Edition de la Vulgate et la manière d’interprêter la Sainte Ecriture» (Concile de Trente, 1546) 
+« Décret sur l’Edition de la Vulgate et la manière d’interprêter la Sainte Ecriture» 
 
-Providentissimus Deus (Léon XIII, Encyclique, 1893). 
+Providentissimus Deus. 
 
-Spiritus Paraclitus (Benoît XV, Encyclique, 1920). 
+Spiritus Paraclitus. 
 
-Divino Afflante Spiritu (Pie XII, Encyclique, 1943). 
+Divino Afflante Spiritu. 
 
 Dei Filius (Vatican I - Pie IX, Constitution dogmatique, 1870) 
 - « Le Peuple juif et ses saintes Ecritures dans la Bible chrétienne » (Commission Biblique Pontificale, 2001) 
@@ -84,9 +84,9 @@ conformité avec l’Ecriture.
 
 La Réforme protestante: 
 
-> La Renaissance réalise (à juste titre) qu’un sens trop littéral de l’Ecriture ne suffit souvent pas. 
+> La Renaissance réalise qu’un sens trop littéral de l’Ecriture ne suffit souvent pas. 
 
-> La Réforme protestante (Luther) préconise alors le « Sola Scriptura » qui veut indiquer : 
+> La Réforme protestante préconise alors le « Sola Scriptura » qui veut indiquer : 
 
 le rôle normatif exclusif de l’Ecriture dans la formation de la doctrine de la foi 
 
@@ -125,7 +125,7 @@ Plus intellectuelle que vitale. Quid du Christ, source de l’Evangile ? le rapp
 
 
 
- A partir de l’Evangile du Salut : L’Ecriture « et » la Tradition. (Réfutation du partim partim) 
+ A partir de l’Evangile du Salut : L’Ecriture « et » la Tradition. 
 
 
 
@@ -134,14 +134,14 @@ DRLST : « Cette vérité et cette règle sont contenues dans les livres écrits
 
 
 
-la Vérité de l’Evangile est transmise selon deux modes : L’Ecriture (la Bible) et la Tradition. 
+la Vérité de l’Evangile est transmise selon deux modes : L’Ecriture et la Tradition. 
 
 Attention, Trente ne parle pas de deux sources, mais bien d’une – « l’Evangile » – qui a le primat. 
 
-La dichotomie du partim…partim ayant été rejetée (pas 2 parts complémentaires), TRENTE semble aller dans le sens 
-de la suffisance MATERIELLE des Ecritures (en matière de doctrine). 
+La dichotomie du partim…partim ayant été rejetée, TRENTE semble aller dans le sens 
+de la suffisance MATERIELLE des Ecritures. 
 
-ÉCRITURE : - SUFFISANCE FORMELLE = l’Écriture se suffit à elle-même (Luther et la Sola Scriptura) ?  non, pour la doctrine catholique 4 
+ÉCRITURE : - SUFFISANCE FORMELLE = l’Écriture se suffit à elle-même ?  non, pour la doctrine catholique 4 
 
 INSUFFISANCE MATERIELLE = La Tradition complète les lacunes de l’Ecriture. partim partim ?  oui en matière de morale. 
 - SUFFISANCE MATERIELLE = Tout y est présent matériellement, mais nécessite l’interprétation de la Tradition ?  oui en 
@@ -151,7 +151,7 @@ matière du contenu de la foi (tout dogme trouve un fondement dans l’Ecriture)
 
 
 
-CONCILE VATICAN I (Dei Filius 2) : 
+CONCILE VATICAN I : 
 
 
 
@@ -165,10 +165,10 @@ DF 2 - « Il a plu à sa sagesse et sa bonté de se révéler lui-même au genre
 Thomas d’Aquin. 
 
 Pour l’Eglise catholique, est canonique un texte qui est lu dans la synaxe (c'est-à-dire l’assemblée chrétienne primitive). Trente le précise : « ces livres… tels 
-qu’on a coutume de les lire dans l’Eglise catholique » (DH 1504). Le canon du NT prend sa forme définitive au IV° siècle avec Athanase (Orient) et le 
-pape Damase (Occ.). (DH 179). Il est rappelé dans la bulle « Cantate Domino » (FLORENCE. XVII° oec. 1442), puis donc à TRENTE : « Décret sur la réception 
-des livres sacrés et des traditions » (1546 - DH 1501). Dans ce même décret est déclarée authenticum (« officielle ») la traduction latine de la Vulgate, 
-« approuvée dans l’Eglise par le long usage de tant de siècles ». (DH 1506) 
+qu’on a coutume de les lire dans l’Eglise catholique ». Le canon du NT prend sa forme définitive au IV° siècle avec Athanase et le 
+pape Damase.. Il est rappelé dans la bulle « Cantate Domino », puis donc à TRENTE : « Décret sur la réception 
+des livres sacrés et des traditions ». Dans ce même décret est déclarée authenticum la traduction latine de la Vulgate, 
+« approuvée dans l’Eglise par le long usage de tant de siècles ». 
 
 « La Réforme, avec son retour à l’Ecriture, fut l’essai pathétique de surmonter la division entre théologie scolastique et théologie spirituelle » BALTHASAR, 
 Retour au Centre, p.35. 
@@ -179,9 +179,9 @@ vénérées avec un égal sentiment de piété et de révérence ».
 DV 2 : « Pareille économie de la Révélation comprend des événements et des paroles intimement unis entre eux, de sorte que les oeuvres, réalisées par 
 Dieu dans l'histoire du salut, attestent et corroborent et la doctrine et le sens indiqués par les paroles, tandis que les paroles publient les oeuvres et 
 éclairent le mystère qu'elles contiennent. La profonde vérité que cette Révélation manifeste, sur Dieu et sur le salut de l'homme, resplendit pour nous 
-dans le Christ, qui est à la fois le Médiateur et la plénitude de toute la Révélation (2). » 
+dans le Christ, qui est à la fois le Médiateur et la plénitude de toute la Révélation. » 
 
-il n’est plus seulement le prédicateur de la Vérité, mais il est la Vérité elle-même. Par ses paroles, ses actes et par dessus tout par son M P (= Myst. Pascal) 
+il n’est plus seulement le prédicateur de la Vérité, mais il est la Vérité elle-même. Par ses paroles, ses actes et par dessus tout par son M P 
 
 ce qui ne signifie pas qu’elle n’y trouve pas néanmoins un fondement, qu’il s’agit alors pour la Tradition d’expliciter, justement. 
 
@@ -198,7 +198,7 @@ DF 2 - La Révélation : « … dans les matières de foi et de moeurs qui conce
 doctrine chrétienne, on doit tenir pour véritable sens de la sainte Ecriture celui qu'a tenu et que tient notre 
 Mère la sainte Eglise, à laquelle il appartient de juger du sens et de l'interprétation véritable des 
 saintes Ecritures ; et que, dès lors, il n'est permis à personne d'interpréter cette sainte Ecriture 
-contrairement à ce sens ni non plus contrairement au consentement unanime des Pères. » (DH 3006.7) 
+contrairement à ce sens ni non plus contrairement au consentement unanime des Pères. » 
 
 
 
@@ -208,7 +208,7 @@ contrairement à ce sens ni non plus contrairement au consentement unanime des P
 
 
 
-CONCILE VATICAN II (Dei Verbum) : 
+CONCILE VATICAN II : 
 
 
 
@@ -239,7 +239,7 @@ dans la Création
 dans l’Ancienne Alliance 
 
 et s’accomplit pleinement dans le Christ, ultime Parole. Le Christ «achève en la complétant la 
-Révélation ». (DV4) Il en est la plénitude, Alpha et (/jusqu’à) Omega, la totalité de ce que dit Dieu. 
+Révélation ». Il en est la plénitude, Alpha et Omega, la totalité de ce que dit Dieu. 
 
 
 
@@ -251,10 +251,10 @@ lequel il a aussi créé le monde ».
 
 Le Christ est par soi l’ultime parole de Dieu6, spécialement dans son Mystère Pascal. 
 
-2 L’Eglise, en tant que vivant le Mystère Pascal du Christ (ie offerte, livrée…) porte l’unique témoignage au 
+2 L’Eglise, en tant que vivant le Mystère Pascal du Christ porte l’unique témoignage au 
 Christ, Révélation de Dieu. 
 
-3 L’Écriture et La Tradition (l’Eglise vivante) forment donc ce témoignage vivant et unifié du 
+3 L’Écriture et La Tradition forment donc ce témoignage vivant et unifié du 
 Mystère Pascal du Christ. 
 
 
@@ -263,14 +263,14 @@ Csqces : 1 - l’Ecriture doit être actualisée par la Tradition.
 
 la Tradition doit sans cesse renvoyer au Christ. 
 
-La Tradition « transmet » la Parole de Dieu, et l’Écriture « est » la Parole de Dieu (DV9). Mais il 
+La Tradition « transmet » la Parole de Dieu, et l’Écriture « est » la Parole de Dieu. Mais il 
 convient se rappeler que la Parole de Dieu ne s’identifie pas avec ces formes de transmissions. 
 
 
 
 
 
- Rapport Ecriture–Tradition (- Magistère) : réciprocité mystérieuse dont l’unité vient de L’ESPRIT SAINT. 
+ Rapport Ecriture–Tradition : réciprocité mystérieuse dont l’unité vient de L’ESPRIT SAINT. 
 
 
 
@@ -298,7 +298,7 @@ indépendante ». (Notons qu’en 2 Tm 1,14 , c’est bien « l’aide de l’ES
 
 
 
- Selon un rapport (dynamique) de réciprocité…  
+ Selon un rapport de réciprocité…  
 
 
 
@@ -317,9 +317,9 @@ pourquoi l'une et l'autre doivent être reçues et vénérées avec un égal sen
 
 
 
-Écriture et Tradition « ont donc entre elles des relations très étroites » et « ne forment qu’un tout »(DV9) 
+Écriture et Tradition « ont donc entre elles des relations très étroites » et « ne forment qu’un tout » 
 (« réciprocité » et « dépendance » (FR)), tout qui est le « dépôt sacré » de la Foi (DV 10), «doivent être reçues 
-et vénérées avec un égal sentiment de piété et de révérence » (DV9) 
+et vénérées avec un égal sentiment de piété et de révérence » 
 
 La Tradition est explication de la Parole de Dieu (qu’elle « porte » et « transmet ») au sens plein d’une 
 EXPLICITATION (existentielle, liturgique, philosophique…), un déploiement. 
@@ -330,7 +330,7 @@ La Tradition est donc un critère herméneutique, explicatif.
 
 Pour ce qui est le CONTENU 
 
-de la Vérité de Foi (dogmes…): 
+de la Vérité de Foi : 
 
 il se trouve dans l’Ecriture, 
 de façon «constitutive»8, 
@@ -348,7 +348,7 @@ l’Ecriture comme la Tradition sont toutes deux «constitutives».
 
 
 
-L’Ecriture est suffisante pour le contenu constitutif de la Foi (Congar). Pour les formes (praxis), la Tradition est 
+L’Ecriture est suffisante pour le contenu constitutif de la Foi. Pour les formes, la Tradition est 
 nécessaire.  La Foi se trouve totalement dans l’Ecriture, et de nouveau toute dans la Tradition. 
 
 La praxis est partim dans l’Ecriture, et partim dans la Tradition (ainsi, la forme des sacrements, par exemple). 
@@ -357,9 +357,9 @@ La praxis est partim dans l’Ecriture, et partim dans la Tradition (ainsi, la f
 
 
 
- …sous l’action de l’Esprit Saint…  Cette réciprocité mystérieuse de l’Ecriture et de la Tradition (et du Magistère) 
-vient de l’Esprit Saint, qui « introduit dans la Vérité toute entière » (Jn 16,13) puis aide à « garder le bon dépôt [de la 
-foi] » (2 Tm 1,14). 
+ …sous l’action de l’Esprit Saint…  Cette réciprocité mystérieuse de l’Ecriture et de la Tradition 
+vient de l’Esprit Saint, qui « introduit dans la Vérité toute entière » puis aide à « garder le bon dépôt [de la 
+foi] ». 
 
 
 
@@ -378,7 +378,7 @@ Magistère de l'Eglise ».
 
  …et dans l’Eglise vivante.  Le lieu où l’Esprit opère cette unité de l’Ecriture et de la Tradition est l’Eglise  
 approche existentielle de l’Eglise : « l'Eglise qui croit et qui prie » est sujet actif qui transmet ce qu’elle est et 
-croit (DV 8). C’est l’Esprit Saint qui donne Vie à l’Evangile (= à l’Ecriture) dans le coeur des croyants, donc dans 
+croit. C’est l’Esprit Saint qui donne Vie à l’Evangile dans le coeur des croyants, donc dans 
 l’Eglise, et cette Vie fait la Tradition : cette Vie lui vient de sa conformité au Christ Vivant, Ultime Parole de Dieu : 
 
 
@@ -413,12 +413,12 @@ B – Tradition (apostolique, du dépôt de la foi et vie) et traditions
 
  Comment discerner la Tradition ? La Tradition est la Vie que l’Esprit Saint donne à l’Ecriture dans le corps 
 mystique du Christ, l’Eglise qui croit et qui prie. Le travail d’Y. CONGAR10 est ici central. La Tradition est au service de la Vie de 
-l’Eglise. Elle est sa Vie même. Elle est transmission et développement (Y. Congar), actualisation. L’Ecriture s’explicite dans la 
+l’Eglise. Elle est sa Vie même. Elle est transmission et développement, actualisation. L’Ecriture s’explicite dans la 
 Tradition. 
 
 
 
- L’ESPRIT SAINT donne le discernement (au Magistère authentique) pour accueillir ou rejeter telle ou telle tradition. Rejeter 
+ L’ESPRIT SAINT donne le discernement pour accueillir ou rejeter telle ou telle tradition. Rejeter 
 ce qui n’est qu’humain, conserver le « bon dépôt », l’expliciter (« la vérité toute entière… les choses à venir. »). 
 
 
@@ -445,15 +445,15 @@ qu’il a été mis au tombeau, qu’il est ressuscité le 3° jour selon les Ec
 
 IRÉNÉE  gnoses: adv. Haer. III, 2, 2 : PG 7, 847; cf. ibid. IV, 26, 2, etc… 
 
-CONSTANTINOPLE II (553. V° oec.) : « Nous professons que nous tenons et prêchons la foi donnée originellement 
+CONSTANTINOPLE II : « Nous professons que nous tenons et prêchons la foi donnée originellement 
 par notre grand Dieu et Sauveur Jésus Christ aux saints Apôtres, et prêchée par eux dans le monde entier ». 
 
 
 
 LG 19 et 20 : «La mission divine confiée par le Christ aux apôtres est destinée à durer jusqu'à la fin des siècles 
-(cf. Mt 28,20), étant donné que l'Evangile qu'ils doivent transmettre est pour l'Eglise principe de toute sa vie, pour 
+, étant donné que l'Evangile qu'ils doivent transmettre est pour l'Eglise principe de toute sa vie, pour 
 toute la durée du temps. C'est pourquoi les apôtres prirent soin d'instituer dans cette société hiérarchiquement 
-ordonnée, des successeurs (…). La Tradition apostolique se manifeste et se conserve dans le monde entier par 
+ordonnée, des successeurs. La Tradition apostolique se manifeste et se conserve dans le monde entier par 
 ceux que les apôtres ont faits évêques et par leurs successeurs jusqu'à nous ». 
 
 
@@ -462,7 +462,7 @@ ceux que les apôtres ont faits évêques et par leurs successeurs jusqu'à nous
 
 
 
-V° siècle déjà : Le « Critère de catholicité » de VINCENT DE LERINS (Commonitorium) : 
+V° siècle déjà : Le « Critère de catholicité » de VINCENT DE LERINS : 
 
 Est traditionnel ce qui est reçu… 
 
@@ -481,21 +481,21 @@ qualité qui lui est propre par le moyen du sens surnaturel de la foi qui est ce
 
 
 
-les saints écrivent la Tradition : « Un saint, c’est un chrétien normal » (Cal Suenens) ; « En eux, Dieu lui-même 
-nous parle » (LG 50) 
+les saints écrivent la Tradition : « Un saint, c’est un chrétien normal » ; « En eux, Dieu lui-même 
+nous parle » 
 
 
 
- Les monuments laissés par la Tradition ? D’abord l’Ecriture, puis les Pères, la Liturgie (lex orandi, lex credendi), 
-les écrits des docteurs et saints (Orient et Occident), des Papes et Conciles, … 
+ Les monuments laissés par la Tradition ? D’abord l’Ecriture, puis les Pères, la Liturgie, 
+les écrits des docteurs et saints, des Papes et Conciles, … 
 
-CBP : lettre au cardinal Suhard, Archevêque de Paris, 1948 (DH 3863) : « La question des formes littéraires des onze premiers chapitres de la Genèse 
+CBP : lettre au cardinal Suhard, Archevêque de Paris, 1948 : « La question des formes littéraires des onze premiers chapitres de la Genèse 
 est bien plus obscure et complexe. Ces formes littéraires ne répondent à aucune de nos catégories classiques et ne peuvent être jugées à la lumière des 
 genres littéraires gréco-latins ou modernes. On ne peut donc en nier ni affirmer l’historicité en bloc sans leur appliquer indûment les normes d’un genre 
 littéraire sous lequel ils ne peuvent être classés ». Il convient de les passer au crible d’une « étude attentive de tous les problèmes littéraires, scientifiques, 
 historiques, culturels et religieux ». « Déclarer a priori que leurs récits ne contiennent pas de l’histoire, au sens moderne du mot, laisserait facilement entendre 
 
-C –L’interprétation des Ecritures dans l’Eglise (DV 12, CBP 1993 et 2001) 
+C –L’interprétation des Ecritures dans l’Eglise 
 
 
 
@@ -504,7 +504,7 @@ croyants sous l’inspiration de l’ES, et qui avaient fait l’expérience de 
 interprétée à la lumière du même Esprit qui la fit rédiger ». 
 
 Avant, l’on parlait d’inerrance, ou d’immunité de l’Ecriture. Maintenant : « vérité salutaire ». La Vérité présente dans la 
-Bible concerne notre salut, et doit donc être toujours mise en perspective (= analogie de la foi) avec le Mystère Pascal du 
+Bible concerne notre salut, et doit donc être toujours mise en perspective avec le Mystère Pascal du 
 Christ, qui récapitule précisemment notre Salut : 
 
 
@@ -551,18 +551,18 @@ LES ENCYCLIQUES BIBLIQUES CONTEMPORAINES : De l’écrivain sacré comme « inst
 
 
 
-Providentissimus Deus (Léon XIII - 1893). 
+Providentissimus Deus. 
 
 
 
 Pas de contradiction entre l’Ecriture et les conclusions 
-de la science (DH 3283s) (Cf. également DH 3863 12 
+de la science (Cf. également DH 3863 12 
 sur Gn 1 à 11). On commence à parler de l’écrivain 
 sacré, car l’exégèse se développe. Il est 
 « instrument » dans les mains de Dieu, ou 
 « membre » et Dieu est alors la tête. 
 
-Spiritus Paraclitus (Benoît XV - 1920). 
+Spiritus Paraclitus. 
 
 
 
@@ -574,7 +574,7 @@ scribe qui écrit sous la dictée. Benoît XV parle de sa
 « liberté », « collaboration de Dieu et de l’homme à la 
 même oeuvre »,... 
 
-Divino Afflante Spiritu (Pie XII - 1943). 
+Divino Afflante Spiritu. 
 
 
 
@@ -594,15 +594,15 @@ Dieu se donne en nourriture.
 
 
  VATICAN II - DEI VERBUM 12 souligne que «Dieu a parlé à des hommes à la manière des hommes », qui sont alors 
-« vrais auteurs » (DV 11) 
+« vrais auteurs » 
 
 
 
-DV 11 : « [Les Livres sacrés] ont Dieu pour auteur (DF) et qu'ils ont été transmis comme tels à 
+DV 11 : « [Les Livres sacrés] ont Dieu pour auteur et qu'ils ont été transmis comme tels à 
 l'Eglise elle-même. En vue de composer ces livres sacrés, Dieu a choisi des hommes auxquels il eut 
-recours dans le plein usage de leurs facultés et de leurs moyens (Div.Affl.Spi), pour que, lui-même 
+recours dans le plein usage de leurs facultés et de leurs moyens, pour que, lui-même 
 agissant en eux et par eux, ils missent par écrit, en vrais auteurs, tout ce qui était conforme à son 
-désir, et cela seulement (Prov.Deus). » 
+désir, et cela seulement. » 
 
 
 
@@ -613,16 +613,16 @@ DV donne 2 étapes d’interprétation :
 qu’ils n’en contiennent en aucun sens, tandis qu’ils relatent en un langage simple et figuré, adapté aux intelligences d’une humanité moins développée, les 
 vérités fondamentales présupposées à l’économie du salut, en même temps que la description populaire des origines du genre humain et du peuple élu ». 
 
-Méthode historico-critique incontournable… Cf. doc Commission Biblique Pontificale (1993) : L’interprétation de la Bible dans l’Eglise. 
+Méthode historico-critique incontournable… Cf. doc Commission Biblique Pontificale : L’interprétation de la Bible dans l’Eglise. 
 
 Déjà ThA reconnaissait qu’il fallait filtrer le style des auteurs pour arriver au sens : « Dans l’Ecriture, les choses divines nous sont transmises selon le mode 
 dont les hommes ont coutume d’user… » (Comment. in Epist. ad Hebr. , c.1, lect. 4, cité dans « Spiritus Paraclitus » , DH 3830) 
 
 cette réinterprétation se fait à la lumière du M P, événement objectif qui la garde de tout arbitraire. Ce sens est donc ‘’latent’’ dans ces textes, jusqu’au M P. 
 
-Ce sens spirituel reprend les sens allégorique (foi), moral (charité), anagogique (espérance) traditionnel. 
+Ce sens spirituel reprend les sens allégorique, moral, anagogique traditionnel. 
 
- Aujourd’hui, on classifie également de la sorte : sens littéral (historico-critique…), spirituel (all – mor – ana), et sens plein (i.e. explicité par la Tradition. 
+ Aujourd’hui, on classifie également de la sorte : sens littéral, spirituel, et sens plein (i.e. explicité par la Tradition. 
 C’est « l’intelligence plus profonde » de DV 19. ex : « Ttes les générations me diront bienheureuses »  Immaculée Conception de Marie). 
 
 Ainsi le contenu révélé n’augmente pas à proprement parler, mais se clarifie. Ainsi déclarait Mons. Florit dans la salle conciliaire de Trente sur le « Progrès 
@@ -631,42 +631,42 @@ substantiellement nouveau. Comme l’indiquent les paroles, augmente la compréh
 
 Le progrès consiste dans le fait de porter à une formulation claire et explicite ce qui est déjà contenu sous un mode obscure ou implicite. Il s’agit 
 donc d’un progrès interne, comme pour toute réalité vivante, pour laquelle la substance ne change pas mais se perfectionne. En fait, c’est donc une plus 
-grande compréhension des paroles et choses transmises, non externe mais interne (?). 
+grande compréhension des paroles et choses transmises, non externe mais interne. 
 
 L’Eglise tend donc à la plénitude de la vérité révélée, et la rejoint dans la mesure dans laquelle la Tradition rejoint son progrès interne. 
 
 Et le fait que l’Eglise ne rejoigne pas immédiatement la plénitude de la vérité est manifesté par le fait que celle-ci ne peut exprimer simultanément 
-l’entier dépôt de la Révélation, comme l’atteste aujourd’hui et dans le futur l’histoire des dogmes » (trad. de l’A.) 
+l’entier dépôt de la Révélation, comme l’atteste aujourd’hui et dans le futur l’histoire des dogmes » 
 
 PRÉFACE par le Cardinal Joseph Ratzinger 
 
-I. LES SAINTES ÉCRITURES DU PEUPLE JUIF PARTIE FONDAMENTALE DE LA BIBLE CHRÉTIENNE (2-18) A. Le Nouveau Testament reconnaît 
-l'autorité des Saintes Écritures du peuple juif (3-5) B. Le Nouveau Testament s'affirme conforme aux Écritures du peuple juif (6-8) C. Écriture et tradition orale 
-dans le judaïsme et le christianisme (9-11) D. Méthodes juives d'exégèse employées dans le Nouveau Testament (12-15) E. L'extension du canon des 
-Écritures (16-18) 
+I. LES SAINTES ÉCRITURES DU PEUPLE JUIF PARTIE FONDAMENTALE DE LA BIBLE CHRÉTIENNE A. Le Nouveau Testament reconnaît 
+l'autorité des Saintes Écritures du peuple juif B. Le Nouveau Testament s'affirme conforme aux Écritures du peuple juif C. Écriture et tradition orale 
+dans le judaïsme et le christianisme D. Méthodes juives d'exégèse employées dans le Nouveau Testament E. L'extension du canon des 
+Écritures 
 
-II. THÈMES FONDAMENTAUX DES ÉCRITURES DU PEUPLE JUIF ET LEUR RECEPTION DANS LA FOI AU CHRIST (19-65) A. Compréhension 
-chrétienne des rapports entre Ancien et Nouveau Testament (19-22) B. Thèmes communs fondamentaux (23-63) C. Conclusion (64-65) 
+II. THÈMES FONDAMENTAUX DES ÉCRITURES DU PEUPLE JUIF ET LEUR RECEPTION DANS LA FOI AU CHRIST A. Compréhension 
+chrétienne des rapports entre Ancien et Nouveau Testament B. Thèmes communs fondamentaux C. Conclusion 
 
 
 
-(1) - élucider le sens littéral («ce que l’hagiographe a vraiment voulu dire… ») Cf. CBP 1993 13 et CBP 2001. 
+ - élucider le sens littéral («ce que l’hagiographe a vraiment voulu dire… ») Cf. CBP 1993 13 et CBP 2001. 
 
-(2) - herméneutique : ce que Dieu veut nous dire hic et nunc (L’Ecriture est polysémique) = sens spirituel : sens 
-nouveau, « intelligence plus profonde » (DV19), donnés par l’ES sous la lumière du Mystère Pascal à un texte ancien14. 
+ - herméneutique : ce que Dieu veut nous dire hic et nunc (L’Ecriture est polysémique) = sens spirituel : sens 
+nouveau, « intelligence plus profonde », donnés par l’ES sous la lumière du Mystère Pascal à un texte ancien14. 
 
 On recherchera donc ce sens : 
 
 à travers les méthodes exégétiques modernes (styles littéraires… CBP 1993 et CBP 2001) 
 
 en lien avec 3 unités : celle de « l’Ecriture », celle de « la Tradition vivante de toute l’Eglise », et 
-celle de la foi (« l’analogie de la foi ») 
+celle de la foi 
 
 l’interprétation reste « en dernière analyse soumise au jugement de l’Eglise». 
 
 
 
-DV 12 : Cependant, puisque Dieu, dans la Sainte Ecriture, a parlé par des hommes à la manière des hommes (6), 
+DV 12 : Cependant, puisque Dieu, dans la Sainte Ecriture, a parlé par des hommes à la manière des hommes, 
 il faut que l'interprète de la Sainte Ecriture, pour voir clairement ce que Dieu lui-même a voulu nous communiquer, 
 cherche avec attention ce que les hagiographes ont vraiment voulu dire et ce qu'il a plu à Dieu de faire passer par 
 leurs paroles. 
@@ -676,12 +676,12 @@ littéraires". Car c'est de façon bien différente que la vérité se propose e
 historiques, en des textes, ou prophétiques, ou poétiques, ou même en d'autres genres d'expression. Il faut, en 
 conséquence, que l'interprète cherche le sens que l'hagiographe, en des circonstances déterminées, dans les conditions 
 de son temps et l'état de sa culture, employant les genres littéraires alors en usage, entendait exprimer et a, de fait, 
-exprimé (7). En effet, pour vraiment découvrir ce que l'auteur sacré a voulu affirmer par écrit, on doit tenir un compte 
+exprimé. En effet, pour vraiment découvrir ce que l'auteur sacré a voulu affirmer par écrit, on doit tenir un compte 
 exact soit des manières natives de sentir, de parler ou de raconter courantes au temps de l'hagiographe, soit de celles 
-qu'on utilisait à cette époque dans les rapports humains (8). 
+qu'on utilisait à cette époque dans les rapports humains. 
 
 Cependant, puisque la Sainte Ecriture doit être lue et interprétée à la lumière du même Esprit qui la fit 
-rédiger (9), il ne faut pas, pour découvrir exactement le sens des textes sacrés, porter une moindre attention 
+rédiger, il ne faut pas, pour découvrir exactement le sens des textes sacrés, porter une moindre attention 
 au contenu et à l'unité de toute l'Ecriture, eu égard à la Tradition vivante de toute l'Eglise et à l'analogie de 
 la foi. Il appartient aux exégètes de s'efforcer, suivant ces règles, de pénétrer et d'exposer plus profondément le sens 
 de la Sainte Ecriture, afin que, par leurs études en quelque sorte préparatoires, mûrisse le jugement de l'Eglise. Car 
@@ -706,7 +706,7 @@ spirituelle.
 
 
 
-Commission Biblique Pontificale (CBP) 1993 : « L’interprétation de la Bible dans l’Eglise ». 
+Commission Biblique Pontificale 1993 : « L’interprétation de la Bible dans l’Eglise ». 
 
 (Influence du Biblicum. Albert Vanhoye.) 
 
@@ -728,8 +728,8 @@ L’analogia fidei
 
 
 
-III. LES JUIFS DANS LE NOUVEAU TESTAMENT (66-83) A. Points de vue divers dans le judaïsme d'après l'exil (66-69) B. Les Juifs dans les évangiles et 
-dans les Actes des Apôtres (70-78) C. Les Juifs dans les lettres de Paul et d'autres écrits du Nouveau Testament (79-83) 
+III. LES JUIFS DANS LE NOUVEAU TESTAMENT A. Points de vue divers dans le judaïsme d'après l'exil B. Les Juifs dans les évangiles et 
+dans les Actes des Apôtres C. Les Juifs dans les lettres de Paul et d'autres écrits du Nouveau Testament 
 
 
 
@@ -743,26 +743,26 @@ CBP 2014 : « Inspiration et Vérité de l’Écriture Sainte » (Commission Bib
 clarification des notions d’ « inspiration » et de « vérité » des Ecritures. la CBP met au jour la dimension avant tout christologique de la vérité de 
 l’Écriture, et tente de rendre compte de ces difficultés d’interprétation des traditions bibliques. 
 
-. Exégèse : si l’approche « historico-critique » (diachronique) demeure un point de passage incontournable, c’est l’approche dite « canonique » 
-(synchronique) qui est présentée comme un moyen privilégié de parvenir au sens plénier, c’est-à-dire au sens théologique du texte. 
+. Exégèse : si l’approche « historico-critique » demeure un point de passage incontournable, c’est l’approche dite « canonique » 
+ qui est présentée comme un moyen privilégié de parvenir au sens plénier, c’est-à-dire au sens théologique du texte. 
 
 . L’Ecriture ne cesse d’attester sa provenance divine, de 2 manières : 
 
 . Les hagiographes l’affirment eux-mêmes : leur discours manifeste que Dieu parle, disent-ils. 
 
-. Mais cela ne suffit pas. Il faut la reconnaissance des auditeurs. Or la « sélection » puis la persistance du canon (juif et) chrétien témoigne que 
+. Mais cela ne suffit pas. Il faut la reconnaissance des auditeurs. Or la « sélection » puis la persistance du canon chrétien témoigne que 
 l’assemblée des croyants a lentement discerné elle-même quels textes étaient reconnus comme inspirés. Ils reçoivent dans la foi cette affirmation des 
 hagiographes et la confirment. 
 
-. Concernant la notion de vérité des Ecritures, toute la Bible en est porteuse, et cette vérité est ordonnée à la révélation du salut. (2 Tm 3,16-17). La 
+. Concernant la notion de vérité des Ecritures, toute la Bible en est porteuse, et cette vérité est ordonnée à la révélation du salut.. La 
 vérité qui concerne Dieu et le salut de l’homme se manifeste en plénitude dans et par le Christ qui est, en personne, la parole de Dieu, qui vient de 
-Dieu et qui révèle Dieu (Jn 1,1.14). 
+Dieu et qui révèle Dieu. 
 
 . Le document traite ensuite de 3 applications : les invraisemblances historique dans le Bible, la violence, et le statut des femmes dans l’Ecriture. 
 
 
 
-D – Ecriture et Tradition comme sources de connaissance théologique du Mystère du Christ (DV 24). 
+D – Ecriture et Tradition comme sources de connaissance théologique du Mystère du Christ. 
 
 
 
@@ -772,7 +772,7 @@ La source unique de l’Ecriture et de la Tradition est le Christ : ces 2 canaux
 
 
 
-La Théologie (inséparable de la Tradition) se FORTIFIE – S’AFFERMIT – SE RAJEUNIT au 
+La Théologie se FORTIFIE – S’AFFERMIT – SE RAJEUNIT au 
 contact de l’Ecriture, qui est « comme son AME ». 
 
 
@@ -878,9 +878,9 @@ Récapitulatif général :
 
 
 
-« est la PdD en tant que…consignée par écrit » « porte (…) et transmet intégralement la 
+« est la PdD en tant que…consignée par écrit » « porte et transmet intégralement la 
 
-« Les Ecritures contiennent la PdD » (DV24) PdD » 
+« Les Ecritures contiennent la PdD » PdD » 
 
 
 
@@ -932,12 +932,12 @@ TRADITION
 
 DV 8 
 
-ECRITURE (AT+NT) 
+ECRITURE 
 
 DV 7 
 
 = Parole de Dieu « transmise » 
-(DV10) 
+ 
 
 = fonction critériologique 
 
@@ -945,20 +945,20 @@ DV 7
 explicatif 
 
 elle « progresse dans l’Eglise 
-sous l’assistance du SE » (DV8) 
+sous l’assistance du SE » 
 
-= Parole de Dieu « écrite » (DV10) 
+= Parole de Dieu « écrite » 
 
 = données constitutives de la Foi 
 
 
 
-«constituent UN UNIQUE DEPOT SACRE de… » (DV 10) 
+«constituent UN UNIQUE DEPOT SACRE de… » 
 
 et sont toutes deux un « miroir dans lequel l’Eglise 
-contemple Dieu » (DV 7) 
+contemple Dieu » 
 
-elles sont « la règle suprême de la Foi » (DV21)
+elles sont « la règle suprême de la Foi »
 
 DIEU SE REVELE LUI-MEME, PAR LE CHRIST, 
 
@@ -989,6 +989,6 @@ PEUPLE
 DE DIEU 
 
 Ainsi, « l'Eglise ne tire pas de la seule Ecriture Sainte sa 
-certitude sur tous les points de la Révélation » (DV 9) 
+certitude sur tous les points de la Révélation » 
 
 

@@ -6,7 +6,7 @@ unité d’origine de la vie divine et de l’economia sacremantum, du Père ine
 
 Augustin : Dieu, qui est plus grand tel que je le pense que tel que je le dis, est plus grand tel qu’il est que tel que
 je le pense. Cette réflexion permet de scinder l’histoire de la théologie en trois époques : celle de l’être
-(antiquité - moyen âge), celle de la pensée (époque moderne), celle du langage (époque contemporaine).
+, celle de la pensée, celle du langage.
 
 La question de Dieu dans la tradition théologique
 1.1    Origines de la théologie
@@ -18,7 +18,7 @@ philosophique de Dieu. Le christianisme proclamait que le Dieu inconnu et mysté
 Seigneur de l’histoire universelle, objet transcendant du sentiment religieux de tous les peuples et principe
 ultime de toute réalité.
 
-Actes (BJ) 17: 23 Parcourant en effet votre ville et considérant vos monuments sacrés, j'ai trouvé jusqu'à un autel avec
+Actes 17: 23 Parcourant en effet votre ville et considérant vos monuments sacrés, j'ai trouvé jusqu'à un autel avec
          l'inscription: au dieu inconnu. Eh bien! ce que vous adorez sans le connaître, je viens, moi, vous l'annoncer. 24 "Le Dieu qui a fait le
          monde et tout ce qui s'y trouve, lui, le Seigneur du ciel et de la terre, n'habite pas dans des temples faits de main d'homme. 25 Il
          n'est pas non plus servi par des mains humaines, comme s'il avait besoin de quoi que ce soit, lui qui donne à tous vie, souffle et
@@ -29,7 +29,7 @@ Actes (BJ) 17: 23 Parcourant en effet votre ville et considérant vos monuments 
          la race de Dieu, nous ne devons pas penser que la divinité soit semblable à de l'or, de l'argent ou de la pierre, travaillés par l'art
          et le génie de l'homme
 
-Romains (BJ) 1: 18 En effet, la colère de Dieu se révèle du haut du ciel contre toute impiété et toute injustice des hommes, qui
+Romains 1: 18 En effet, la colère de Dieu se révèle du haut du ciel contre toute impiété et toute injustice des hommes, qui
          tiennent la vérité captive dans l'injustice;
          19 car ce qu'on peut connaître de Dieu est pour eux manifeste: Dieu en effet le leur a manifesté. 20 Ce qu'il a d'invisible depuis la
          création du monde se laisse voir à l'intelligence à travers ses oeuvres, son éternelle puissance et sa divinité, en sorte qu'ils sont
@@ -37,7 +37,7 @@ Romains (BJ) 1: 18 En effet, la colère de Dieu se révèle du haut du ciel cont
 
 
 .2    La polémique anti-gnostique
-La confrontation du monothéisme chrétien avec le dualisme gnostique (Valentin, Marcion, Celse) mena à la
+La confrontation du monothéisme chrétien avec le dualisme gnostique mena à la
 formulation orthodoxe du langage du premier article de la foi, qui affirme l’absolue singularité et unité de la
 monarchie divine, en identifiant sans équivoque le Dieu créateur de l’ancienne alliance, avec le Dieu sauveur et
 Père de Jésus de l’alliance nouvelle. Cf. Irénée, Tertullien, Origène.
@@ -64,7 +64,7 @@ réalité, créée et incréée, visible et invisible.
 Avec l’acceptation de l’aristotélisme, la théologie scholastique peut élaborer, comme formule de rechange à la
 voie contemplative de la « descente » de l’Infini vers le fini, caractéristique du platonisme augustinien
 (Anselme, Bernard, Bonaventure), une voie « déductive » du fini vers l’Infini, de la créature vers le Créateur,
-moyennant l’analogie de l’être (Thomas d’Aquin).
+moyennant l’analogie de l’être.
 
 Dans la perspective scholastique on réunit la conception du platonisme chrétien d’un Dieu origine et fin de
 l’univers, en tant que Bien suprême, et l’ontologie de la causalité de l’aristotélisme, pour affirmer Dieu comme
@@ -83,9 +83,9 @@ Latran IV - La Trinité: Car si grande que soit la ressemblance entre le Créate
 Tant la voie « apophatique » et mystique du platonisme chrétien que la voie spéculative et « dialectique » de
 l’aristotélisme chrétien doivent se confronter avec la nouvelle perspective méthodologique de la raison
 autonome, qui cherche dans la mathématique et dans la science de l’univers la possibilité d’une nouvelle
-théologie rationnelle (Descartes, Leibniz, Newton).
+théologie rationnelle.
 
-La formule de rechange pour le rationalisme, le fidéisme chrétien (Luther, Pascal, Jacobi), considère la difficulté
+La formule de rechange pour le rationalisme, le fidéisme chrétien, considère la difficulté
 d’affirmer l’Infini avec certitude, en partant de l’opacité de la finitude. Dieu ne se révèle pas comme évident « à
 la lumière de la raison », mais seulement « à la lumière de la foi ».
 
@@ -93,9 +93,9 @@ Tant le rationalisme que dans le fidéisme, les affirmation théologiques trouve
 subjectivité humaine, comme intelligence critique, comme volonté éthique ou comme sentiment de croyance.
 
 La difficulté de penser l’Absolu comme infini et simultanément comme personnel s’intensifie dans l’idéalisme
-philosophique (Fichte, Hegel) ; cherchant à combler le hiatus entre subjectivité et objectivité, entre l’idée et la
+philosophique ; cherchant à combler le hiatus entre subjectivité et objectivité, entre l’idée et la
 réalité, entre moi et le monde, l’idéalisme affirmera l’orientation du sujet fini vers l’objet infini, qui
-ultérieurement sera connu comme Sujet absolu (Schelling).
+ultérieurement sera connu comme Sujet absolu.
 
 Quelques aspects du débat actuel
 2.1    De la théologie « libérale » à la théologie « dialectique »
@@ -107,7 +107,7 @@ théisme éthique tendant vers un rationalisme panthéiste, se produira avec la 
 christocentrisme eschatologique de la foi et de la théologie. La connaissance de Dieu n’est possible que dans le
 Christ, sa Parole divine, à travers l’Ecriture et la prédication de l’Eglise. La rencontre avec le Dieu de la foi ne
 peut se réaliser par la voie dialectique de l’analogia entis, mais seulement par la voie paradoxale de l’analogia
-fidei, rencontre avec la grâce divine qui justifie le pécheur (Barth).
+fidei, rencontre avec la grâce divine qui justifie le pécheur.
 
 Entre le fini et l’Infini, entre l’homme et Dieu existent une tension extrême et une corrélation profonde : Dieu
 est pour l’homme fondement et abîme. Même si la théologie s’occupe fondamentalement du Dieu de la
@@ -122,8 +122,8 @@ directions : récupération du moment mystique de l’expérience religieuse, at
 révélation biblique, contact avec la spiritualité apophatique de la tradition patristique, attention à
 l’actualisation de la historia salutis dans l’action liturgique, accueil de l’aspiration religieuse des grandes
 religions orientales, confrontation avec le problème religieux dans l’univers de la sécularité et de l’humanisme
-athée (Lubac, Daniélou, Balthasar).
-Théologie de l’histoire, du travail, de la politique (Chenu, Thils, Maritain).
+athée.
+Théologie de l’histoire, du travail, de la politique.
 
 .3    La méthode de « corrélation » et la méthode « transcendantale »
 A la recherche du Dieu vivant, dans la révélation biblique et dans la mystique chrétienne, dans la doxologie
@@ -159,12 +159,12 @@ L’affirmation du séculier et du mondain est perçue comme corollaire de l’e
 
 
 considération du monde comme création et comme alliance, comme œuvre divine et comme destinataire de
-l’histoire du salut (Metz).
+l’histoire du salut.
 
 .5    Les théologies de l’action et de la libération
 La « théologie de la libération » en Amérique latine découvre la pertinence politique du Dieu de la révélation
-biblique comme Dieu libérateur et comme Dieu de la sainteté et de la justice (Gutiérrez, Assmann, Segundo).
-Le pauvre devient un « lieu épistémologique » privilégié (Boff, Dussell).
+biblique comme Dieu libérateur et comme Dieu de la sainteté et de la justice.
+Le pauvre devient un « lieu épistémologique » privilégié.
 
 Logique de l’affirmation de Dieu
 Le problème de l’affirmation de Dieu, surtout considéré à la lumière du premier article de la foi chrétienne, ne
@@ -183,7 +183,7 @@ ni transcendant, ni immanent                         pas transcendant, mais imma
   - fondamental : Dieu révélé = Dieu caché (Dieu de l’économie = Dieu créateur).
   - gnoséologique : Dieu incompréhensible = Dieu connaissable par la raison.
   - ontologique : Dieu immanent = Dieu transcendant.
-  - d’identité : Dieu est Dieu et lui seul est Dieu (monarchie).
+  - d’identité : Dieu est Dieu et lui seul est Dieu.
   - de réalité : Dieu ne peut être pensé que comme existant.
   - éthique : Dieu de la confiance = Dieu de la crainte.
   - de relation : tout langage théologique suppose une relation religieuse h/D.
@@ -225,7 +225,7 @@ Dieu mystérieux, universel, bienveillant & Seigneur des patriarches, Maître de
  monolâtrie.
 
 Opposition moment idéal de l’Alliance/renoncements moraux présents  idolâtrie & apostasie. Thème de la
-conversion au Dieu fidèle. De + monothéisme exclusif (= Dieu 1 & unique).
+conversion au Dieu fidèle. De + monothéisme exclusif.
 
 .2    La théologie sapientielle et apocalyptique
 Crainte de Dieu / contemplation de sa gloire dans la création & l’histoire / silence de Dieu & souffrance du juste
@@ -238,7 +238,7 @@ sa providence. De même ses disciples doivent mettre toute leur confiance dans l
 bonté. La communauté primitive fonde sa foi sur la résurrection du Seigneur, ce qui implique non seulement
 l’attestation du message de Jésus, mais encore précise l’image de Dieu comme celui qui justifie activement le
 pécheur. C’est aussi un trait de la théologie de saint Paul que l’identité entre le Dieu caché et le Dieu de la
-révélation (Rm) : axiome.
+révélation : axiome.
 
 .4    Aspects dominants du « théisme » biblique.
 Le théisme biblique est marqué par le paradoxe du Dieu qui se révèle comme mystère, depuis l’hénothéisme
@@ -277,13 +277,13 @@ ses péchés, le libère de l’esclavage du péché et de la peur de la mort qu
 5.1    Le premier article de foi dans les symboles et les conciles
 Le premier article de tous les Credo (symboles des conciles et symboles baptismaux) est toujours celui qui
 affirme l’unicité de Dieu, à la fois Père et créateur du monde ; de même DH 112-115 (lettre de DENYS de ROME
-à DENYS d’ALEX) contre la gnose de VALENTINIEN et de MARCION (monarchie de Dieu) et affirmation de
-l’infinité de Dieu et de son incompréhensibilité, ce qui n’exclut pas sa personnalité (ceci contre l’origénisme) ; le
+à DENYS d’ALEX) contre la gnose de VALENTINIEN et de MARCION et affirmation de
+l’infinité de Dieu et de son incompréhensibilité, ce qui n’exclut pas sa personnalité ; le
 Père est à l’origine de la Trinité en engendrant le Fils et en spirant l’Esprit ; on ne peut distinguer l’essence de
 Dieu de la Trinité des Personnes sinon d’une distinction de raison (bien que la distinction des Personnes elles-
 mêmes dans la Trinité soit réelle) : concile de Reims contre GILBERT de la PORRÉE. De même le Concile de
 Latran IV contre Albigeois et Cathares qui renouvelaient la gnose dualiste déjà réfutée depuis longtemps par IR,
-et contre AMAURY de BÈNE et son panthéisme (Dieu est le tout). De même les conciles de Lyon II et de
+et contre AMAURY de BÈNE et son panthéisme. De même les conciles de Lyon II et de
 Florence contre la gnose dualiste. Dieu ne prédestine pas au mal, sans que le monde soit le meilleur possible
 pour autant (conciles de Quierzy et de Sens) ; cela signifie que l’œuvre ad extra de Dieu est toujours libre, mais
 que Dieu est fidèle à son dessein à lui et à sa grâce. La dernière des propositions condamnées, due à ABÉLARD,
@@ -293,7 +293,7 @@ est celle de l’optimisme théologique.
 Vatican I dans le contexte rationaliste de 1870 réaffirme les vérités traditionnelles concernant Dieu : réalité,
 unicité du Créateur et du Père. Cependant, il insiste particulièrement, à la fois contre le rationalisme et contre
 le fidéisme, sur l’affirmation que Dieu est connaissable par la raison tout en demeurant incompréhensible : Dei
-Filius (cf Latran IV, DH 806), ainsi que sur l’affirmation qu’il est distinct et séparé du monde (contre l’idéalisme).
+Filius, ainsi que sur l’affirmation qu’il est distinct et séparé du monde.
 Vatican II, tout en maintenant ces affirmations, ajoute que les athées théoriques peuvent être sauvés, si leur
 comportement pratique exprime l’accueil fait à la grâce. L’image de Dieu qu’ils rejettent est en effet celle d’une
 idole, pas du Dieu vivant. Le concile en effet prend acte de la désaffection de nombreux contemporains à

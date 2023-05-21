@@ -7,6 +7,10 @@ bool _isDigit(char pChar)
 {
   return pChar >= '0' && pChar <= '9';
 }
+bool _isSpaceOrPunctuation(char pChar)
+{
+  return pChar == ' ' || pChar == ',' || pChar == '.' || pChar == '!' || pChar == '?';
+}
 }
 
 
@@ -73,4 +77,34 @@ std::string removeBeginOfChapterNumber(const std::string& pLine)
   }
 
   return pLine.substr(beginOfLine, pLine.size() - beginOfLine);
+}
+
+void removeSmallParanthesis(std::string& pLine)
+{
+  auto beginOfParenthesisPosition = pLine.find('(');
+  if (beginOfParenthesisPosition != std::string::npos)
+  {
+    auto endOfParenthesisPosition = pLine.find(')', beginOfParenthesisPosition);
+    if (endOfParenthesisPosition != std::string::npos &&
+        endOfParenthesisPosition - beginOfParenthesisPosition < 30) // Keep long size between parenthesis
+    {
+      auto beforeParenthesisPosition = beginOfParenthesisPosition;
+      auto afterParenthesisPosition = endOfParenthesisPosition + 1;
+
+      // Remove space before the parenthesis if there is a space before the parenthesis
+      // and there is a space or a punctuation after the parenthesis
+      if (beginOfParenthesisPosition > 0 && pLine[beginOfParenthesisPosition - 1] == ' ' &&
+          (afterParenthesisPosition >= pLine.size() ||
+           _isSpaceOrPunctuation(pLine[afterParenthesisPosition])))
+        beforeParenthesisPosition = beginOfParenthesisPosition - 1;
+
+      auto newLine = pLine.substr(0, beforeParenthesisPosition);
+      if (afterParenthesisPosition < pLine.size())
+        newLine += pLine.substr(afterParenthesisPosition, pLine.size() - afterParenthesisPosition);
+
+      pLine = newLine;
+
+      removeSmallParanthesis(pLine);
+    }
+  }
 }

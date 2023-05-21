@@ -6,7 +6,7 @@ donnée par Dieu dans l’Alliance. Dans le Nouveau Testament, elle s’enrichit
 kérygme, aux vérités de foi), mais sans renier l’aspect existentiel d’un abandon total de sa vie et de tout son être à Dieu, dans 
 le Christ. L’on retrouve ces aspects dans le Magistère. Ainsi, Dei Filius définit la foi comme « pleine soumission de l’intelligence 
 et de la volonté », et Dei Verbum comme le fait de s’en remettre « tout entier librement à Dieu ». C’est Dieu qui garde 
-cependant toujours l’initiative : la foi est une vertu surnaturelle (DF), une grâce prévenante et adjuvante (DV). 
+cependant toujours l’initiative : la foi est une vertu surnaturelle, une grâce prévenante et adjuvante. 
 
 
 
@@ -24,9 +24,9 @@ la cohérence des mystères entre eux (ex : C’est parce que Dieu est Amour-Tri
 donne dans l’Eucharistie, dans son Esprit Saint dans l’Eglise, etc…) 
 
 Si bien que « La raison humaine, illuminée par la foi, peut parvenir à une certaine intelligence des mystères, par 
-l’analogie avec les choses qu’elle connaît naturellement, ou par le lien qui unit les mystères entre eux » (DF). Le principe 
+l’analogie avec les choses qu’elle connaît naturellement, ou par le lien qui unit les mystères entre eux ». Le principe 
 d’analogie entre le Créateur et la création - s’il respecte toujours au sein de la ressemblance entre les analogués le fait que 
-demeure une plus grande dissemblance encore (Latran IV) - se fonde ultimement sur l’analogie de l’être, qui fait de notre 
+demeure une plus grande dissemblance encore - se fonde ultimement sur l’analogie de l’être, qui fait de notre 
 monde la grammaire où Dieu peut exprimer son Verbe, se communiquer lui-même et rejoindre l’homme pour le ramener à Lui. 
 
 
@@ -52,18 +52,18 @@ Bibliographie essentielle :
 Dei Filius (Vatican I, Pie IX, Constitution dogmatique, 1870) 
 - Fides et Ratio (Jean Paul II, Encyclique, 1998) 
 
-Lumen Fidei (François, Encyclique, 2013) 
+Lumen Fidei 
 
 
 Bibliographie annexe : 
 
 Veritatis Splendor (Jean Paul II, Encyclique, 1993) 
-- Aeterni Patris (Léon XIII, Encyclique, 1879) 
-- Donum Veritatis, Instruction sur la vocation ecclésiale du théologien (CDF, 1990) 
-- « La théologie aujourd'hui: Perspectives, principes et critères » (CTI, 2012) 
+- Aeterni Patris 
+- Donum Veritatis, Instruction sur la vocation ecclésiale du théologien 
+- « La théologie aujourd'hui: Perspectives, principes et critères » 
 
 A – la Foi est don de Dieu, par lequel tout l’homme accueille librement la Révélation de Dieu en Jésus 
-Christ (DF III et DV 5). 
+Christ. 
 
 
 
@@ -94,16 +94,16 @@ LA FOI = L’ADHESION TOTALE DE L’HOMME A LA PAROLE DEFINITIVE ET SALVATRICE D
 
 
 
-. Connaissance (et Confession) de l’action salvifique de Dieu dans l’histoire (= le kérygme) – Rm 10,9 : « si 
+. Connaissance de l’action salvifique de Dieu dans l’histoire – Rm 10,9 : « si 
 tes lèvres confessent que Jésus est Seigneur et si ton coeur croit que Dieu l'a ressuscité des morts, tu seras sauvé. » 
 
-. Confiance (Abandon) en cette action et soumission à sa Parole. (Aspect anti-intellectualiste privilégié par les 
+. Confiance en cette action et soumission à sa Parole. (Aspect anti-intellectualiste privilégié par les 
 protestants) 
 
 . De là une Communion de vie avec la Personne divine, Dieu, concernant mon présent, mon avenir 
 eschatologique (la Foi implique l’espérance). 
 
- Ainsi, passage de l’intelligence (1) à la volonté (2) à l’action (3) 
+ Ainsi, passage de l’intelligence à la volonté à l’action 
 
 
 
@@ -124,9 +124,9 @@ Is 7,9 : « Si vous ne croyez pas, vous ne vous comprendrez pas. »
 
 
 L’hébreu use deux fois le verbe AMN. C’est devenu un locus classique de l’intellectus fidei. Montre la primauté de la 
-volonté (‘croyez’) sur l’intelligence (‘comprendrez’ ). La version hébraïque dit « … vous ne tiendrez pas » : la fermeté passe 
+volonté sur l’intelligence. La version hébraïque dit « … vous ne tiendrez pas » : la fermeté passe 
 
-par la compréhension (Cf. LF 23). (Dans le NT, Jésus parle en parabole afin qu’ « ayant des oreilles, ils n’entendent pas », ie 
+par la compréhension. (Dans le NT, Jésus parle en parabole afin qu’ « ayant des oreilles, ils n’entendent pas », ie 
 que le coeur et la volonté prime sur l’intelligence. 
 
 
@@ -147,13 +147,13 @@ He 11,1 : « la foi est la garantie des biens que l'on espère, la preuve des r�
 
 
 id. considéré comme une déf. de la foi, dans l’Antiquité. Elle est « garantie », arrhes rendant présent en nous l’objet de 
-notre espérance. « Preuve » (argumentum) signifie moyen de connaître (primauté de la volonté sur la connaissance). La Foi y 
-est par la suite (v.2) considérée comme témoignage. 
+notre espérance. « Preuve » signifie moyen de connaître (primauté de la volonté sur la connaissance). La Foi y 
+est par la suite considérée comme témoignage. 
 
 
 
 Rm 12,1 : « Je vous exhorte donc, frères, par la miséricorde de Dieu, à offrir vos personnes en hostie vivante, 
-sainte, agréable à Dieu: c'est là le culte spirituel (rationabile obsequium) que vous avez à rendre. » 
+sainte, agréable à Dieu: c'est là le culte spirituel que vous avez à rendre. » 
 
 
 
@@ -170,7 +170,7 @@ VATICAN I
 
 
 
-DF 3 - la Foi (DH 3008) 
+DF 3 - la Foi 
 
 = « pleine soumission de l’intelligence et de la volonté » (… soumission qui ne contraint en rien la raison mais l’éclaire 
 au contraire, car elle aussi fut créée par Dieu. Ainsi «l’assentiment de la foi [n’est] nullement un mouvement aveugle de l’esprit ».) 
@@ -185,14 +185,14 @@ cause de l’autorité de Dieu lui-même, qui nous les révèle et qui ne peut n
 = un « don de Dieu », une grâce interne qui offre à la raison les « secours intérieurs du Saint Esprit », accompagnés 
 de « preuves extérieures » (= « les miracles », qui prouvent efficacement l’origine divine de la Révélation). 
 
-// Les vérités de foi possèdent une « crédibilité externe » (= soutien rationnel) : «Pour que l’hommage (obsequium) de notre foi soit 
+// Les vérités de foi possèdent une « crédibilité externe » : «Pour que l’hommage de notre foi soit 
 conforme à la raison, Dieu a voulu que les secours intérieurs du S.E. soient accompagnés de preuves extérieures de sa Révélation » : 
 miracles, prophéties… 
 
 // … mais elle relève avant tout des grâces sanante et élevante : « Car le Seigneur plein de bienveillance d'une part excite et aide par 
-sa grâce ceux qui sont dans l'erreur, afin qu'ils puissent "arriver à la connaissance de la vérité" (grâce sanante) et d'autre part 
+sa grâce ceux qui sont dans l'erreur, afin qu'ils puissent "arriver à la connaissance de la vérité" et d'autre part 
 confirme par sa grâce ceux qu'il a fait passer des ténèbres dans son admirable lumière, pour qu'ils persévèrent dans cette lumière, 
-n'abandonnant quelqu'un que s'il est abandonné (gr. élevante)» 
+n'abandonnant quelqu'un que s'il est abandonné » 
 
 
 
@@ -200,13 +200,13 @@ VATICAN II
 
 
 
-La Révélation > un ensemble de vérités à croire (ce serait réducteur) 
+La Révélation > un ensemble de vérités à croire 
 
 La Révélation = L’ACTE PAR LEQUEL DIEU SE REVELE LUI-MEME, et cette révélation est en-soi SALUTAIRE. 
 
 Cet acte comprend notamment : 
 
-la Création qui rend témoignage de la Sagesse de Dieu qui est le Verbe (logos) 
+la Création qui rend témoignage de la Sagesse de Dieu qui est le Verbe 
 
 la première Alliance (He 1,1:«Après avoir, à maintes reprises et sous maintes formes, parlé jadis aux Pères par les prophètes… ») 
 
@@ -216,9 +216,9 @@ et enfin, la Personne du Christ, ultime Parole du Père…(« …Dieu, en ces jo
 
 
 
-DV 3 : « Dieu, qui crée (cf. Jn 1,3) et conserve toutes choses par le Verbe, donne aux hommes dans les choses 
-créées un témoignage incessant sur Lui-même (cf. Rm 1,19-20) », puis « à nos premiers parents », à « Abraham », 
-à « Moise » et aux « prophètes »…enfin par Jésus (citation de He 1,1) qui « achève la Révélation en 
+DV 3 : « Dieu, qui crée et conserve toutes choses par le Verbe, donne aux hommes dans les choses 
+créées un témoignage incessant sur Lui-même », puis « à nos premiers parents », à « Abraham », 
+à « Moise » et aux « prophètes »…enfin par Jésus qui « achève la Révélation en 
 l’accomplissant » (si bien « qu’aucune nouvelle révélation publique ne doit plus être attendue ») : la Révélation est 
 Dieu et donc globale : Dieu « se manifeste et se communique lui-même » + « communique les décrets éternels de 
 sa volonté concernant le salut des hommes ». 
@@ -231,7 +231,7 @@ A une Révélation globale convient une réponse globale de tout l’homme2.
 
 
 
-DV 5 (DH 4205) – Par « l’obéissance de (/qu’est) la foi », « l’homme s’en remet tout entier librement à Dieu », 
+DV 5 – Par « l’obéissance de la foi », « l’homme s’en remet tout entier librement à Dieu », 
 « donnant de son plein gré son assentiment à la Révélation ». 
 
 « il est besoin de la grâce prévenante et adjuvante ». 
@@ -244,8 +244,8 @@ A un acte répond un acte3 : la réponse de foi qui convient à la Révélation 
 
 
 
-Nous ne choisissons pas notre foi (comme contenu), nous choisissons de l’accepter, d’accueillir la Révélation 
-pour ce qu’elle est, non pas une parole d’homme, mais la parole de Dieu qui se révèle (1Th 2:13). Et sur cette 
+Nous ne choisissons pas notre foi, nous choisissons de l’accepter, d’accueillir la Révélation 
+pour ce qu’elle est, non pas une parole d’homme, mais la parole de Dieu qui se révèle. Et sur cette 
 parole, la foi consiste à fonder sa vie, à la risquer4. 
 
 
@@ -253,12 +253,12 @@ parole, la foi consiste à fonder sa vie, à la risquer4.
 Benoit XVI : « La foi n’est pas une théorie que l’on peut faire sienne ou mettre de côté. Il s’agit d’une chose très 
 concrète : c’est le critère qui décide de notre style de vie »5. 
 
-Deus Caritas Est 1 : « Nous avons cru à l’amour de Dieu (1 Jn 4,16) : c’est ainsi que le chrétien peut exprimer le 
+Deus Caritas Est 1 : « Nous avons cru à l’amour de Dieu : c’est ainsi que le chrétien peut exprimer le 
 choix fondamental de sa vie. » 
 
-NB/ Notons que DV 3 et DV 6 inversent l’ordre de DF 2 (DH 3005) cité : Dieu se révèle d’abord lui-même, puis à travers les choses créées (Rm 1,20). DV 3 
+NB/ Notons que DV 3 et DV 6 inversent l’ordre de DF 2 cité : Dieu se révèle d’abord lui-même, puis à travers les choses créées. DV 3 
 fait référence à la Révélation naturelle en citant Rm 1,19s, comme DF 2, mais la citation est précédée de celle de Jn 1,3, en référence à la Création dans le 
-Verbe (« Tout fut par Lui »). Ce primat de la Révélation dans le Christ est tel qu’il inclut la Révélation naturelle (i.e. par les choses créées). Dieu se révèle par 
+Verbe. Ce primat de la Révélation dans le Christ est tel qu’il inclut la Révélation naturelle. Dieu se révèle par 
 les choses créées, mais elles sont déjà créées dans le Christ. On retrouve cela en GS 22 : « la vocation ultime de l’homme est réellement une, à savoir 
 divine». 
 
@@ -295,7 +295,7 @@ d’être le Fils de Dieu et le Sauveur du monde. « Dans le Christianisme, il y
 
 
 Si on peut certes considérer la foi comme contenu intellectuel, où l’on peut, restant sauve son unité, distinguer des 
-articles (fides quæ), le principal de la foi est l’attitude théologale par laquelle on s’offre soi-même tout entier 
+articles, le principal de la foi est l’attitude théologale par laquelle on s’offre soi-même tout entier 
 (intelligence et volonté, dit Dei Filius (DH 3008) mais aussi le corps, bref toute la personne qui se laisse diriger par Dieu) en 
 réponse à l’offre que Dieu nous fait de lui-même : c’est la fides qua (foi comme attitude, bien au-delà d’une simple 
 adhésion intellectuelle). Adhésion de l’être tout entier, obéissance filiale qui nous fait atteindre la suprême liberté. 
@@ -319,11 +319,11 @@ soumet à la volonté paternelle et bienveillante de notre Créateur.
 
 
 
-La foi est donc l’unique réponse à « un amour digne de confiance » (Lumen Fidei 51), le seul qui le soit, i.e. divin. 
+La foi est donc l’unique réponse à « un amour digne de confiance », le seul qui le soit, i.e. divin. 
 
 
 
-Lumen Fidei 51, (Pape François): « La foi naît de la rencontre avec l’amour originaire de Dieu en qui apparaît le 
+Lumen Fidei 51, : « La foi naît de la rencontre avec l’amour originaire de Dieu en qui apparaît le 
 sens et la bonté de notre vie ; celle-ci est illuminée dans la mesure même où elle entre dans le dynamisme ouvert 
 par cet amour, devenant chemin et pratique vers la plénitude de l’amour. » 
 
@@ -340,7 +340,7 @@ pour le parcourir avec joie ». (Cf. également LF 13 : « croire signifie s’e
 
 
 
- Si bien que la vie de FOI est finalement « EXISTENCE FILIALE » (LF 19), « une 
+ Si bien que la vie de FOI est finalement « EXISTENCE FILIALE », « une 
 reconnaissance du don originaire et radical qui est à la base de l’existence de l’homme ». 
 
 
@@ -351,8 +351,8 @@ yeux de Jésus, ses sentiments, sa disposition filiale, parce qu’il est rendu 
 
 
 
-La foi est enfin raisonnable10, car la Révélation trouve ses indices dans l’ordre naturel (bien qu’elle le dépasse11). 
-Contre le fidéisme (Credo quia absurdum), il est nécessaire de poser la crédibilité du christianisme : 
+La foi est enfin raisonnable10, car la Révélation trouve ses indices dans l’ordre naturel. 
+Contre le fidéisme, il est nécessaire de poser la crédibilité du christianisme : 
 
 externe : au XIX°, à partir d’éléments extérieurs à la Révélation, qui confortent l’acte de foi et le précèdent12 
 
@@ -361,16 +361,16 @@ interne : au XX°, dans l’acte de Révélation lui-même, et non plus à l’e
 Rahner : en tout acte de connaissance et de volonté est visé un horizon infini, donc cet infini existe. La Révélation est donc 
 crédible parce qu’elle est le fondement transcendant de toute expérience humaine catégoriale13. 
 
-H.U.Balthasar : La Figure (UrGestalt) du Christ contient en elle-même sa propre crédibilité (cohérence14). L’amour seul est 
+H.U.Balthasar : La Figure du Christ contient en elle-même sa propre crédibilité. L’amour seul est 
 digne de foi. 
 
 
 
 
 
-limitant la raison pure à l’expérimentable : « j’ai du abolir (limiter) le savoir pour laisser une place pour la croyance » (Pref. 2° éd. CRP) 
+limitant la raison pure à l’expérimentable : « j’ai du abolir le savoir pour laisser une place pour la croyance » 
 
-B. PASCAL, « La dernière démarche de la raison est de reconnaître qu'il y a une infinité de choses qui la surpassent » (Pensée 267). 
+B. PASCAL, « La dernière démarche de la raison est de reconnaître qu'il y a une infinité de choses qui la surpassent ». 
 
 B – La raison humaine, illuminée par la Foi, peut parvenir à une certaine intelligence des mystères de 
 la Foi, par l’analogie, par le lien des Mystères entre eux (DF 4 ; DV 3.6 ; UR 11 ; GS 22). 
@@ -378,14 +378,14 @@ la Foi, par l’analogie, par le lien des Mystères entre eux (DF 4 ; DV 3.6 ; U
 
 
 > CONTEXTE PHILO : En fait se confrontent sans cesse deux tendances de fond, l’une survalorisant la raison, l’autre la dévalorisant : 
-C’est l’Université contre Bonaventure (ThA fait la synthèse), la Renaissance contre le Protestantisme (Trente fait la synthèse, et Kant à sa 
-façon15), le positivisme contre le fidéisme16 (Vat. I fait la synthèse). 
+C’est l’Université contre Bonaventure, la Renaissance contre le Protestantisme (Trente fait la synthèse, et Kant à sa 
+façon15), le positivisme contre le fidéisme16. 
 
 
 
-Vatican I - Dei Filius (ch.2 - La Révélation): 
+Vatican I - Dei Filius : 
 
- « Dieu, principe et fin de toute chose » peut être connu par 2 voies (raison et révélation): l’une naturelle où 
+ « Dieu, principe et fin de toute chose » peut être connu par 2 voies : l’une naturelle où 
 Dieu peut être connu avec certitude, l’autre surnaturelle quand « Dieu a parlé ». 
 
 « avec certitude par la lumière naturelle de la raison humaine à partir des choses créées » 
@@ -403,10 +403,10 @@ puisse atteindre sa « fin surnaturelle »
 
 
 
-Vatican I – Dei Filius (ch.4 - Foi et Raison): 
+Vatican I – Dei Filius : 
 
- « il existe deux ordres de connaissances (duplex ordo) », « distincts par leur principe [raison naturelle / foi 
-divine] et par leur objet [vérités rationnelles / mystères] » (Cf. également FR 8) 
+ « il existe deux ordres de connaissances », « distincts par leur principe [raison naturelle / foi 
+divine] et par leur objet [vérités rationnelles / mystères] » 
 
  « Lorsque la raison; éclairée par la foi, cherche avec soin, piété et modération, elle arrive par le don de 
 Dieu à une certaine intelligence très fructueuse des mystères, 
@@ -429,7 +429,7 @@ l’on prend des opinions fausses pour des conclusions de la raison.
 
  foi et raison « s’aident mutuellement », (y compris pour les sc. humaines et arts libéraux) 
 
-« la droite raison (recta ratio) démontre les fondements de la foi… » 
+« la droite raison démontre les fondements de la foi… » 
 
  « En conséquence, le sens des dogmes sacrés qui doit être conservé à perpétuité est celui que notre Mère 
 la sainte L'Eglise a présenté une fois pour toutes et jamais il n'est loisible de s'en écarter sous le prétexte ou au 
@@ -518,15 +518,15 @@ FR 13 : « Seule la foi permet de pénétrer le mystère, dont elle favorise une
 
 Is 7,9 : lu par les Pères : « si vous ne croyez pas, vous ne comprendrez pas » (// couple Aasse ve Nishma, Fais et Ecoute) 
 
-He 11,1 : foi comme « preuve (donc rationnelle) des réalités qu’on ne voit pas (donc sur-rationnelle) » 
+He 11,1 : foi comme « preuve des réalités qu’on ne voit pas » 
 
-Jn 1 : à Nathanaël, « Viens et Vois » (veni et vide), puis Jésus aux deux disciples de JB : « Venez et Voyez ». 
+Jn 1 : à Nathanaël, « Viens et Vois », puis Jésus aux deux disciples de JB : « Venez et Voyez ». 
 
 Saint Anselme : « Je ne cherche pas à comprendre d’abord pour croire, mais je crois d’abord pour m’efforcer ensuite de comprendre. Car 
-je crois une chose : si je ne commence pas par croire, je ne comprendrai jamais… » (Prologion I) 
+je crois une chose : si je ne commence pas par croire, je ne comprendrai jamais… » 
 
 Pascal : « La conduite de Dieu, qui dispose toutes choses avec douceur, est de mettre la religion dans l’esprit par les raisons et dans le 
-coeur par la grâce » (203-172) 
+coeur par la grâce » 
 
 Balthasar : « la foi perçoit dans une évidence authentique la lumière qui jaillit de la Révélation… »17 (// 2 Co 4,6 : « le Dieu qui a dit : 
 ‘que des ténèbres jaillisse la lumière’ est Celui qui a resplendi dans nos coeurs, pour faire briller de la connaissance de la Gloire de 
@@ -535,7 +535,7 @@ Dieu, qui est sur la face du Christ. »
 N. Hawthorne : « les mystères de l’Eglises sont comme les vitraux d’une cathédrale : il faut y rentrer pour en comprendre la beauté. Celui 
 qui reste dehors ne voit que les armatures de plomb… » 
 
-Gilson : la philosophie ne peut réussir qu’à balbutier le nom de Dieu (le Mystère), mais seule la foi peut le syllaber… 
+Gilson : la philosophie ne peut réussir qu’à balbutier le nom de Dieu, mais seule la foi peut le syllaber… 
 
 
 
@@ -544,7 +544,7 @@ Gilson : la philosophie ne peut réussir qu’à balbutier le nom de Dieu (le My
 
 
  Cette appréhension rationnelle des mystères est alors rendue possible par les « liens qui relient les mystères entre 
-eux et avec les fins dernières de l’homme » mais aussi par « l’analogie avec les choses qu’elle connaît naturellement » (DF 4). 
+eux et avec les fins dernières de l’homme » mais aussi par « l’analogie avec les choses qu’elle connaît naturellement ». 
 Développons donc ce qu’est l’analogie de l’être (= comment le créé nous révèle-t-il quelque chose du mystère de Dieu ?) 
 
 
@@ -566,7 +566,7 @@ Dei Filius 2 - « Dieu, principe et fin de toute chose, peut être connu avec ce
 la raison humaine à partir des choses créées ». Mais, « C’est bien grâce à cette Révélation divine que tous les 
 hommes doivent de pouvoir, dans la condition présente du genre humain, connaître facilement, avec une ferme 
 certitude et sans aucun mélange d’erreur, ce qui dans les choses divines n’est pas de soi inaccessible à la raison» 
-(cité par DV 6). 
+. 
 
 Dieu « principe et fin de toute chose » 
 
@@ -584,7 +584,7 @@ Rédemption, Eucharistie,
 
 Eglise, Eschatologie…) 
 
-« Le Dieu de Jésus Christ » (Pascal) 
+« Le Dieu de Jésus Christ » 
 
 
 
@@ -618,11 +618,11 @@ compréhensibles. (W. Kasper, Le Dieu des chrétiens, 391).
 
 Ex : « incarnation », « ressusciter », la « nature » de Dieu, « personnes »… 
 
-Hans Urs von Balthasar. (KR = Karl Rahner). 
+Hans Urs von Balthasar.. 
 
 
 
-Dei Filius 4 (DH 3016.19) - « La raison, éclairée par la foi » arrive « à une certaine intelligence très 
+Dei Filius 4 - « La raison, éclairée par la foi » arrive « à une certaine intelligence très 
 fructueuse des mystères, soit grâce à l’analogie avec les choses qu’elle connaît naturellement, soit 
 grâce aux liens qui relient les mystères entre eux [nexus mysteriorum], et avec les fins dernières de 
 l’homme » 18. 
@@ -642,7 +642,7 @@ seulement la logique du cosmos soumis aux lois physiques, biologiques, etc… qu
 Créateur, c’est l’existence même du langage qui montre que toute chose peut être pensée, donc que le moindre objet dans le 
 monde porte en lui une aptitude inchoative à exprimer l’inexprimable, parce que cet objet est un réservoir de pensée. 
 L’analogie du langage cache l’analogie de l’être. Le Christ est venu “parmi les siens” ce qui montre qu’existait déjà entre 
-les hommes et le Christ une certaine analogie (Cf. GS 22). 
+les hommes et le Christ une certaine analogie. 
 
 critique de K. Barth de l’analogia entis, contre l’analogia fidei. E. Przywara reconceptualise l’analogia entis. Balthasar et 
 l’analogie christologique (le Christ comme clé de compréhension de tout le créé, analogatum princeps) 
@@ -658,8 +658,8 @@ l’homme est donc la grammaire dans laquelle Dieu va pouvoir exprimer son Verbe
 
 
 
-Latran IV (DH 806) – « Si grande que soit la ressemblance (tanta similitudo) entre le Créateur et la créature, 
-on doit encore noter une plus grande dissemblance (maior dissimilitudo) entre eux » 
+Latran IV – « Si grande que soit la ressemblance entre le Créateur et la créature, 
+on doit encore noter une plus grande dissemblance entre eux » 
 
 
 
@@ -667,7 +667,7 @@ DF 4 : « mais [la raison humaine] ne devient jamais apte à percevoir [les myst
 qui constituent son objet propre. Car les mystères divins surpassent tellement par leur nature l'intelligence créée, 
 que, bien que transmis par la révélation et reçus par la foi, ils demeurent encore couverts du voile de la foi elle-
 même, et comme enveloppés d'une sorte de nuage, tant que nous voyageons en pèlerins dans cette vie mortelle, 
-hors de Dieu ; " car nous marchons guidés par la foi et non par la vue (II. Cor. 5. 7)" .» 
+hors de Dieu ; " car nous marchons guidés par la foi et non par la vue " .» 
 
 DF Canon IV.I : « Si quelqu'un dit que la Révélation divine ne contient aucun mystère véritable et proprement 
 dit, mais que tous les dogmes de la foi peuvent être compris et démontrés par la raison, convenablement 
@@ -678,7 +678,7 @@ cultivée, à partir des principes naturels, qu'il soit anathème ».
 FR 13 : « En somme, la connaissance de foi n'annule pas le mystère; elle ne fait que le rendre plus évident et 
 le manifester comme un fait essentiel pour la vie de l'homme: le Christ Seigneur, ‘‘dans la révélation même du 
 mystère du Père et de son amour, manifeste pleinement l'homme à lui-même et lui dévoile sa plus haute 
-vocation’’ (GS 22) qui est de participer au mystère de la vie trinitaire de Dieu ». 
+vocation’’ qui est de participer au mystère de la vie trinitaire de Dieu ». 
 
 
 
@@ -707,8 +707,8 @@ elle ne peut faire autrement car la foi fait partie de sa vie. La raison cherche
 
 Ex : un Augustin d’Hippone, une Simone Weil… 
 
-Mystère, du « tout du dogme » (HdL), de la synthèse originelle qui lie entre eux les concepts et les dogmes qui disent quelque chose 
-de Dieu. « Dieu est plus grand comme je le pense que comme je le dis, et plus grand en lui-même que comme je le pense… » (Aug) 
+Mystère, du « tout du dogme », de la synthèse originelle qui lie entre eux les concepts et les dogmes qui disent quelque chose 
+de Dieu. « Dieu est plus grand comme je le pense que comme je le dis, et plus grand en lui-même que comme je le pense… » 
  Seule la foi, qui est au delà des concepts peut appréhender Dieu sans le réduire à ce qu’il n’est évidemment pas. 
 
 Si donc la foi est nécessaire pour percevoir la synthèse originelle qui lie entre eux les concepts et les dogmes qui disent 
@@ -721,7 +721,7 @@ quelque chose de Dieu, cela veut dire que la théologie dépend étroitement de 
 
 
 C – La théologie comme fides quaerens intellectum, instaure entre théologie et philosophie un rapport 
-d’interaction (FR VI), montrant « la crédibilité de la Révélation » (FR 67) comme proposition de sens 
+d’interaction, montrant « la crédibilité de la Révélation » comme proposition de sens 
 théologique, historique et anthropologique. 
 
 
@@ -744,7 +744,7 @@ comprendre à l'homme que le Dieu d'Israël se rend visible et agit dans ces év
 connaître à fond le monde et les événements de l'histoire n'est pas possible sans professer en même temps la foi 
 en Dieu qui y opère. La foi affine le regard intérieur et permet à l'esprit de découvrir, dans le déroulement des 
 événements, la présence agissante de la Providence. Une expression du livre des Proverbes est significative à ce 
-propos: « Le coeur de l'homme délibère sur sa voie, mais c'est le Seigneur qui affermit ses pas » (16, 9). 
+propos: « Le coeur de l'homme délibère sur sa voie, mais c'est le Seigneur qui affermit ses pas ». 
 Autrement dit, l'homme sait reconnaître sa route à la lumière de la raison, mais il peut la parcourir rapidement, 
 sans obstacle et jusqu'à la fin, si, avec rectitude, il situe sa recherche dans la perspective de la foi. La raison et 
 la foi ne peuvent donc être séparées sans que l'homme perde la possibilité de se connaître lui-même, 
@@ -752,7 +752,7 @@ de connaître le monde et Dieu de façon adéquate. »
 
 Il ne peut donc exister aucune compétitivité entre la raison et la foi: l'une s'intègre à l'autre, et 
 chacune a son propre champ d'action. C'est encore le livre des Proverbes qui oriente dans cette direction quand il 
-s'exclame: ‘’C'est la gloire de Dieu de celer une chose, c'est la gloire des rois de la scruter’’ (25, 2). » 
+s'exclame: ‘’C'est la gloire de Dieu de celer une chose, c'est la gloire des rois de la scruter’’. » 
 
 
 
@@ -760,7 +760,7 @@ s'exclame: ‘’C'est la gloire de Dieu de celer une chose, c'est la gloire des
 
 La foi est une attitude vitale et pas seulement une opération intellectuelle. Si bien que, naturellement22, le 
 croyant s’interroge intellectuellement sur sa propre foi. La raison s’interroge donc légitimement sur cette foi qui, sans la 
-contredire la dépasse et stimule sa réflexion (stella rectix). 
+contredire la dépasse et stimule sa réflexion. 
 
 
 
@@ -792,7 +792,7 @@ spécifiques de la pensée, en recourant à la réflexion spéculative ».
 
 
 Il existe une autre raison pour passer du registre de la foi au registre rationnel : communiquer aux autres des raisons 
-de croire (= l’apologétique). 
+de croire. 
 
 
 
@@ -804,9 +804,9 @@ est transcendant, elle fera sans cesse appel au langage analogique, et comme c�
 Thomas d'Aquin condamnait cepdt l’aristotélisme radical : Si Aristote réussit à prouver l’existence de Dieu, ce Dieu en effet est absolument incapable de 
 providence, pour la simple raison qu’il ne connaît que lui-même, sans s’abaisser à connaître le monde qu’il meut cependant. 
 
-FR liste les écueils de cette séparation foi-raison (§86s) : éclectisme, historicisme, scientisme, pragmatisme, nihilisme. 
+FR liste les écueils de cette séparation foi-raison : éclectisme, historicisme, scientisme, pragmatisme, nihilisme. 
 
-Léon XIII : Encyclique " AETERNI PATRIS", (4 août 1879). 
+Léon XIII : Encyclique " AETERNI PATRIS",. 
 
 > L'importance de la philosophie pour l'affermissement de la foi 
 
@@ -829,21 +829,21 @@ qu'il a vénéré au plus haut point les saints docteurs, a obtenu en quelque so
 comme des membres dispersés d'un corps, et il les a réparties en un ordre si admirable et leur a donné un tel accroissement, qu'on le considère à juste titre 
 comme le défenseur spécial et l'honneur de l'Eglise catholique. ... » 
 
-AUG : « Si comprehendis, non est Deus » (Sermon 117, cité en DCE 38). 
+AUG : « Si comprehendis, non est Deus ». 
 
-ressources de la raison, et notamment la philosophie (emprunts de concepts…). Mais ce recours à la philo n’est jamais une 
+ressources de la raison, et notamment la philosophie. Mais ce recours à la philo n’est jamais une 
 inféodation, quelle que soit la philosophie (Aristote pour ThA24, Platon pour les Pères,…). C’est au contraire toujours le Mystère 
 lui-même qui éclaire la pensée humaine en révélant le sens de la nature, de la destinée et de l’histoire de l’homme. 
 
-C’est l’Esprit Saint bien entendu qui « fait murir la connaissance en vraie sagesse » (FR 44). 
+C’est l’Esprit Saint bien entendu qui « fait murir la connaissance en vraie sagesse ». 
 
 La théologie comme fides quaerens intellectum instaure entre Foi et Raison un rapport d’interaction, de circularité 
-(FR). 
+. 
 
 
 
 FR 42 et 49 : « la foi demande que son objet soit compris avec l'aide de la raison; la raison, au sommet de sa 
-recherche, admet comme nécessaire ce que présente la foi (…). La raison, privée de l'apport de la Révélation, a 
+recherche, admet comme nécessaire ce que présente la foi. La raison, privée de l'apport de la Révélation, a 
 pris des sentiers latéraux qui risquent de lui faire perdre de vue son but final. La foi, privée de la raison, a mis 
 l'accent sur le sentiment et l'expérience, en courant le risque de ne plus être une proposition universelle25. Il est 
 illusoire de penser que la foi, face à une raison faible, puisse avoir une force plus grande; au contraire, elle tombe 
@@ -857,11 +857,11 @@ foi n'est rien » (De prædestinatione sanctorum, 2, 5: PL 44, 963.)
 
 
 
-La théologie est la stella rectrix de la philosophie (Léon XIII). La philosophie Ancilla Theologiae. 
+La théologie est la stella rectrix de la philosophie. La philosophie Ancilla Theologiae. 
 
 
 
-Cf. également Aeterni Patris (Léon XIII. 1879)26 
+Cf. également Aeterni Patris 26 
 
 La philosophie : - perfectionne et augmente les forces de l’intelligence 
 
@@ -880,7 +880,7 @@ Fides et Ratio Ch. 6 – « INTERACTION ENTRE LA THEOLOGIE ET LA PHILOSOPHIE ».
 montrer « la crédibilité de la Révélation » comme proposition de sens théologique, historique et anthropologique : 
 
 > Après 2 chapitres de matrice augustino-anselmienne (credo ut intellegam, intellego ut credam27), Fides et Ratio 
-propose un modèle de circularité entre théologie et philosophie, répétant la priorité de la Révélation (Cf. N°73). 
+propose un modèle de circularité entre théologie et philosophie, répétant la priorité de la Révélation. 
 
 «l’homme est naturellement philosophe » 
 
@@ -888,9 +888,9 @@ la théologie = « une élaboration réflexive et scientifique de l’intelligen
 
 la philosophie est apte à seconder la théologie dans ses deux principes méthodologiques : 
 
-l’auditus fidei (=appropriation), en analysant la fonction du langage, de la transmission, de l’interprétation 
+l’auditus fidei, en analysant la fonction du langage, de la transmission, de l’interprétation 
 
-l’intellectus fidei (=réflexion), en explicitant la vérité salvifique reçue de l’auditus fidei. 
+l’intellectus fidei, en explicitant la vérité salvifique reçue de l’auditus fidei. 
 
 « la théologie dogmatique doit être en mesure d’articuler le sens universel du mystère de Dieu » (i.e. le langage sur 
 Dieu, la relation personnelle à l’intérieur de la Trinité, l’action créatrice de Dieu dans le monde, l’identité du Christ…) 
@@ -907,14 +907,14 @@ FR 67 – « En vertu de son caractère propre de discipline qui a pour tâche d
 " La recherche des conditions dans lesquelles l'homme pose de lui-même les premières questions fondamentales sur le sens de la vie, sur la finalité qu'elle 
 veut indiquer et sur ce qui l'attend après la mort, constitue pour la théologie fondamentale le nécessaire préambule pour que, aujourd'hui également, la foi 
 puisse montrer en plénitude la voie à une raison qui recherche sincèrement la vérité ": Jean-Paul II, Lettre aux participants au Congrès de théologie 
-fondamentale organisé pour le 125e anniversaire de la Constitution dogmatique Dei Filius (30 septembre 1995), n. 4: La Documentation catholique 92 (1995), 
+fondamentale organisé pour le 125e anniversaire de la Constitution dogmatique Dei Filius, n. 4: La Documentation catholique 92, 
 pp. 972-973. 
 
 id. 
 
 via preparatoria fidei... preambula fidei... 
 
-réflexion philosophique. Reprenant l'enseignement de saint Paul (cf. Rm 1,19-20), le Concile Vatican I avait 
+réflexion philosophique. Reprenant l'enseignement de saint Paul, le Concile Vatican I avait 
 déjà attiré l'attention sur le fait qu'il existe des vérités naturellement et donc philosophiquement connaissables. 
 Leur connaissance constitue un présupposé nécessaire pour accueillir la révélation de Dieu. En étudiant la 
 Révélation* et sa crédibilité conjointement à l'acte de foi correspondant*, la théologie fondamentale 
@@ -945,7 +945,7 @@ certaines vérités autonomement saisies par la raison]
 
  Le rôle de la théo. fondamentale : expliciter le rapport foi-philosophie et montrer comment – à la 
 lumière de la foi – certaines vérités sont déjà appréhendables en partie par la raison. Autrement dit, éclairer 
-la rationalité a posteriori des vérités reçues dans la Révélation (ex : la Trinité). Montrer que les 
+la rationalité a posteriori des vérités reçues dans la Révélation. Montrer que les 
 structures fondamentales du christianisme ont une plausibilité véritative et donc n’ont pas à éviter les 
 interrogations d’une philosophie en quête de vérité. 
 
@@ -974,7 +974,7 @@ la vérité »)
 FR 73 – « La relation qui doit opportunément s'instaurer entre la théologie et la philosophie sera placée sous le 
 signe de la circularité. Pour la théologie, le point de départ et la source originelle devront toujours être la 
 parole de Dieu révélée dans l'histoire, tandis que l'objectif final ne pourra être que l'intelligence de la parole, 
-sans cesse approfondie au fil des générations. D'autre part, puisque la parole de Dieu est la Vérité (cf. Jn 17,17), pour 
+sans cesse approfondie au fil des générations. D'autre part, puisque la parole de Dieu est la Vérité, pour 
 mieux comprendre cette parole, on ne peut pas ne pas recourir à la recherche humaine de la vérité, à savoir la démarche 
 philosophique, développée dans le respect des lois qui lui sont propres. Cela ne revient pas simplement à utiliser, dans le discours 
 théologique, l'un ou l'autre concept ou telle partie d'une structure philosophique; il est essentiel que la raison du croyant exerce 
@@ -993,7 +993,7 @@ Cfr. S. PIÉ-NINOT, La teologia fondamentale, Brescia 2002, pp. 190-198.
 
 Connaissance qui procède par intuition, par inférence immédiate. 
 
-RSR I (1910) 241-259 ; 444-475. Plus l’intelligence est agile et pénétrante, plus « il suffit d’un léger indice pour induire avec certitude une conclusion » 
+RSR I 241-259 ; 444-475. Plus l’intelligence est agile et pénétrante, plus « il suffit d’un léger indice pour induire avec certitude une conclusion » 
 rapprochant un fait et un aspect du dogme. Il en est de même si une âme est particulièrement sensible aux touches du Saint Esprit, des signes ‘vulgaires et 
 quotidiens lui suffiront, là où une autre aura besoin de signes extraordinaires ». 
 
@@ -1001,7 +1001,7 @@ Pour certains, pour avoir la foi il faut d’abord faire ‘comme si’ puis apr
 aboutit à la connaissance à laquelle de façon volontaire on décide de croire. Ces deux propositions souffrent l’une et l’autre de ne pas prendre en compte les 
 deux niveaux de la liberté et de la certitude. Il est possible d’imaginer l’arrivée d’une illumination semblable à un coup de foudre, où la volonté s’attache à ce 
 qu’elle ne connaît pas réellement mais que cet amour lui fait découvrir. Ainsi « l’amour suscite la faculté de connaître et la connaissance légitime 
-l’amour ». L’âme instantanément peut s’écrier : Mon Seigneur et mon Dieu. Il y a alors un parti qui est pris par l’intelligence (ce n’est pas un pari) qui perçoit 
+l’amour ». L’âme instantanément peut s’écrier : Mon Seigneur et mon Dieu. Il y a alors un parti qui est pris par l’intelligence qui perçoit 
 avec pleine sécurité le caractère raisonnable du parti qu’elle prend. L’acte intègre à la fois le spéculatif et la certitude. 
 
 C’est par sympathie que l’on adhère à la foi. L’amour donne des yeux à la foi. Dans les Evangiles, ceci se trouve dans l’idée que tous peuvent voir les 
@@ -1012,8 +1012,8 @@ de grâce.
 
 L’idée de cette circularité se trouve chez Barth, Balthasar, puis Fisichella… Seckler parle même de « Périchorèse » 
 (l’on pourrait parler de circumincessio). FR suit dans sa structure cette circularité, partant de l’anthropologie (Ch. I – Connais-
-toi toi-même) comme priorité logico-épistémologique, pour parler ensuite de la Révélation dans son primat ontologique (Ch.II) 
-et de nouveau l’anthropologie (III). 
+toi toi-même) comme priorité logico-épistémologique, pour parler ensuite de la Révélation dans son primat ontologique 
+et de nouveau l’anthropologie. 
 
 
 
@@ -1021,14 +1021,14 @@ et de nouveau l’anthropologie (III).
 
 
 
-J.H. NEWMAN (1801-1890) : l’accès à la Révélation apparaît au terme d’une montée qui part de la théologie 
+J.H. NEWMAN : l’accès à la Révélation apparaît au terme d’une montée qui part de la théologie 
 naturelle et de l’obéissance à la conscience morale jusqu’à la plénitude de la Vérité. Dans ses Sermons universitaires, N. 
 montre que savoir et croire sont 2 capacités de l’homme également justifiées (contre l’evidential school de W.Paley qui voulait 
 que toute vérité chrétienne ait la rigueur d’une démonstration rationnelle). Dans la Grammaire de l’assentiment, N. élucide les 
 mécanismes d’inférence qui conduisent à l’assentiment de la foi : l’ Illative Sense (« sens de l’inférence »32) est cette capacité 
-de percevoir par intuition à partir de divers indices convergeant, et se tenant les uns les autres (comme un bon détective) : 
+de percevoir par intuition à partir de divers indices convergeant, et se tenant les uns les autres : 
 non à partir de la logique processuelle d’un syllogisme, mais à partir de la logique d’une convergence qui cumule les 
-indices et pousse la probabilité à une certitude. L’assentiment, de notionnel (donné à des concepts) devient réel (donné 
+indices et pousse la probabilité à une certitude. L’assentiment, de notionnel devient réel (donné 
 aux réalités que ces concepts désignent). 
 
 
@@ -1068,7 +1068,7 @@ l’Amour // Lumen Fidei 51, la foi comme unique réponse possible au seul amour
 
 
 
-“L’option fondamentale de l’acte de foi” (J. ALFARO et M. SECKLER), reprise par Fides et Ratio. ALFARO : 
+“L’option fondamentale de l’acte de foi”, reprise par Fides et Ratio. ALFARO : 
 « Plus qu’un acte ou une série d’actes, la foi est un comportement personnel, fondamental et total, qui imprime en l’existence 
 une orientation nouvelle et permanente… la foi s’enracine dans la liberté humaine, c'est-à-dire dans l’option fondamentale 
 permanente par laquelle l’homme s’ouvre à l’absolu comme grâce, ou s’y refuse. C’est là que se décide le sens ultime de 
@@ -1082,7 +1082,7 @@ foi est décrit par Seckler comme une option fondamentale profondément humaine.
 
 
 PIE NINOT propose comme approche de Théologie fondamentale « la convergence de sens ». Cette approche 
-s’inspire de Newman (Illative Sense) et aussi de la quête du sens spécifique de la contemporanéité. Le but de la théologie 
+s’inspire de Newman et aussi de la quête du sens spécifique de la contemporanéité. Le but de la théologie 
 fondamentale est de rendre raison humainement de la Révélation, c'est-à-dire d’en éclairer les motifs. Il ne s’agira jamais 
 d’une démonstration, ni d’une opinion, mais d’un raisonnement qui offre une série d’indices, expériences (universelles / 
 d’origines diverses), signes, valeurs,… indépendants entre eux, et pourtant convergents. De là leur crédibilité. 
@@ -1136,7 +1136,7 @@ avec sa vie, en suivant la voie de la vérité…. ».
 [[2]] La crédibilité de la Révélation comme proposition de sens HISTORIQUE : L’histoire comprend une 
 triple dimension : la recension des faits historiques bruts + leur relecture réflexive + leur interprétation philosophique. Mais 
 c’est ce dernier, et au-delà, la compréhension théologique de l’histoire qui offre sa compréhension téléologique (i.e. concernant 
-sa fin, son télos). Ce télos est « le Christ en vous, espérance de Gloire » (Col 1,27), point Oméga. 
+sa fin, son télos). Ce télos est « le Christ en vous, espérance de Gloire », point Oméga. 
 
 
 
@@ -1155,12 +1155,12 @@ vivre en elle ».
 
 Lumen Fidei 4 et 15: « La foi naît de la rencontre avec le Dieu vivant, qui nous appelle et nous révèle son 
 amour, un amour qui nous précède et sur lequel nous pouvons nous appuyer pour être solides et construire 
-notre vie. (…) D’une part, elle procède du passé, elle est la lumière d’une mémoire de fondation, celle de la 
+notre vie. D’une part, elle procède du passé, elle est la lumière d’une mémoire de fondation, celle de la 
 vie de Jésus, où s’est manifesté son amour pleinement fiable, capable de vaincre la mort. En même temps, 
 cependant, puisque le Christ est ressuscité et nous attire au-delà de la mort, la foi est lumière qui vient de 
 
 l’avenir, qui entrouvre devant nous de grands horizons et nous conduit au-delà de notre « moi » isolé vers 
 l’ampleur de la communion ». 15 : « La foi chrétienne est donc foi dans le plein Amour, dans son pouvoir 
 efficace, dans sa capacité de transformer le monde et d’illuminer le temps. ‘Nous avons reconnu l’amour que 
-Dieu a pour nous, et nous y avons cru’ (1 Jn 4, 16). » 
+Dieu a pour nous, et nous y avons cru’. » 
 

@@ -14,7 +14,7 @@ géocentrisme aristotélicien, que défendait l’Eglise) ont contredit certaine
 extrapolaient le simple domaine de la foi, et du même coup ces contradiction ont jeté un discrédit sur l’ensemble 
 du discours de l’Eglise. (nb : dans ce contexte éclate la crise protestante) : « Si l’Eglise s’est trompé en défendant 
 la physique d’Aristote, elle s’est peut-être trompé aussi en défendant sa métaphysique », pense-t-on... C’est donc 
-toute la scolastique médiévale qui est remise en cause (Thomas d’Aquin,…), et par la suite toute la théologie 
+toute la scolastique médiévale qui est remise en cause, et par la suite toute la théologie 
 chrétienne. 
 
 
@@ -22,7 +22,7 @@ chrétienne.
 Ainsi, la raison aspire à l’autonomie par rapport à la Révélation. La Stella Rectrix de la foi est niée. 
 L’intelligence n’est plus illuminée par le Verbe, source de tout savoir, mais la raison devient autonome. Face à la 
 déception héliocentriste, l’homme et sa raison s’instaurent comme le nouveau centre de l’univers, puisque la terre 
-ne l’est plus. L’homme croit redevenir «la mesure de toute chose» (Protagoras). 
+ne l’est plus. L’homme croit redevenir «la mesure de toute chose». 
 
 
 
@@ -30,23 +30,23 @@ Les grandes étapes, puis égarements de la pensée moderne sont les suivants :
 
 
 
-Descartes ( début XVII°), fondant la métaphysique moderne 
+Descartes, fondant la métaphysique moderne 
 
-l’Empirisme de Hume (XVIII°) 
+l’Empirisme de Hume 
 
-la synthèse de Kant (XVIII°) 
+la synthèse de Kant 
 
-la systématisation de Hegel ( XIX°) 
+la systématisation de Hegel 
 
-le positivisme de Comte (XIX°) 
+le positivisme de Comte 
 
-Le nihilisme de Nietzsche (XIX°) 
+Le nihilisme de Nietzsche 
 
-l’existentialisme de Sartre (XX°) 
+l’existentialisme de Sartre 
 
-la phénoménologie contemporaine (XX°), avec Husserl, Heidegger… 
+la phénoménologie contemporaine, avec Husserl, Heidegger… 
 
-le néothomisme : Blondel (XX°) 
+le néothomisme : Blondel 
 
 
 
@@ -88,13 +88,13 @@ existerait réellement, ce sont les Idées, hors de la Caverne. ( revoir le myth
 
 Pour les empiristes, comme BERKELEY, le monde sensible se réduit aux idées que nous en avons. 
 
-Pour KANT, nous ne connaissons pas les choses en soi (noumènes), mais seulement les phénomènes (= 
+Pour KANT, nous ne connaissons pas les choses en soi, mais seulement les phénomènes (= 
 les choses du monde telles que nous les connaissons, telles que notre esprit les déchiffre). 
 
 
 
 On le comprend bien, la question est celle de l’accès de notre raison à la vérité de l’être. Les vérités 
-auxquelles j’accède sont-elles objectives (réalisme) ou simplement subjectives (idéalisme). 
+auxquelles j’accède sont-elles objectives ou simplement subjectives. 
 
 Ch 1 - Thomas d’Aquin et l’émerveillement précritique devant 
 l’être. 
@@ -113,21 +113,21 @@ Mais par le fond aussi, il s’agit bien du problème central de la métaphysiqu
 
 
 
-« Ce que l’intellect conçoit en premier lieu comme le plus connu et en quoi il résout toutes (les autres) 
-conceptions est l’étant » (De Ver I,1). 
+« Ce que l’intellect conçoit en premier lieu comme le plus connu et en quoi il résout toutes 
+conceptions est l’étant ». 
 
 
 
 A noter que ThA parle ici de « l’étant ». Or l’étant est l’existant concret, l’union de l’être avec ce à quoi l’être échoit : 
 l’étant est ce qui a l’être, ce à quoi l’être appartient. Dans cette dualité entre l’être et l’étant, dans cette différence ontologique 
 pour parler comme Heidegger, apparaît l’un des problèmes centraux de la conception thomiste de l’être, à savoir le rapport de 
-l’être à son autre et , plus précisément, à son autre métaphysique (l’étant) à distinguer de son autre épistémologique 
-(l’intelligence) dont nous parlerons plus tard. 
+l’être à son autre et , plus précisément, à son autre métaphysique à distinguer de son autre épistémologique 
+ dont nous parlerons plus tard. 
 
 
 
-L’être dont il est question ici n’est ni Dieu ni les étants finis. ThA l’appelle « l’être commun » (esse commune) ou 
-« l’être lui-même» (ipsum esse). C’est le sens de cet « être commun » qu’il nous faut scruter tout d’abord. Nous verrons 
+L’être dont il est question ici n’est ni Dieu ni les étants finis. ThA l’appelle « l’être commun » ou 
+« l’être lui-même». C’est le sens de cet « être commun » qu’il nous faut scruter tout d’abord. Nous verrons 
 comment se pose aussitôt à son propos la question de la différence ontologique entre l’être et l’étant. 
 
 
@@ -141,53 +141,53 @@ qui existe est justement son acte d’exister. ThA conçoit l’être essentiell
 
 
 
-« l’être est acte » (SG I,38) 
+« l’être est acte » 
 
 
 
 Il est le plus réel en tout réel. 
 
-Il est « l’actualité de toute forme ou nature » (ST I, 3,4) , 
+Il est « l’actualité de toute forme ou nature » , 
 
-« ce qu’il y a de plus formel en toute chose » ( ST I, 7,1), 
+« ce qu’il y a de plus formel en toute chose », 
 
-il est « le plus parfait de tout, car à l’égard de tout, il joue le rôle de l’acte » (ST I,4,1,3) , 
+il est « le plus parfait de tout, car à l’égard de tout, il joue le rôle de l’acte » , 
 
-il est « l’actualité de toutes choses et même des formes elles-mêmes » (Ibid) , 
+il est « l’actualité de toutes choses et même des formes elles-mêmes » , 
 
-il est « l’actualité de tous les actes et la perfection de toutes les perfections » (De Pot. 7,2,9) . 
+il est « l’actualité de tous les actes et la perfection de toutes les perfections » . 
 
 
 
 Ainsi compris, l’être commun est une plénitude à tel point qu’il faut dire que « l’être n’est pas déterminé par autre chose 
 comme la puissance l’est par l’acte mais plutôt comme l’acte l’est par la puissance» et que «rien ne peut être ajouté à l’être qui 
-lui soit étranger » (ibid). Pour ThA, l’être commun est une plénitude suressentielle, c’est à dire une plénitude qui n’est pas 
+lui soit étranger ». Pour ThA, l’être commun est une plénitude suressentielle, c’est à dire une plénitude qui n’est pas 
 réductible à l’ordre des essences et que celui-ci , aussi large soit-il, ne peut jamais épuiser. « L’être lui-même , considéré 
-absolument, est infini car il peut être participé par des essences en nombre infini et en des manières infiniment diverses » (SG I,43) 
+absolument, est infini car il peut être participé par des essences en nombre infini et en des manières infiniment diverses » 
 . Aussi chaque étant accueille en lui, en tant qu’il est, en tant qu’il a part à la richesse plénière de l’être, un mystère insondable, 
-au point qu’ « aucun philosophe n’a jamais pu pénétrer parfaitement la nature d’une seule mouche » (In Symb. Apost., Prol.). Que dire 
+au point qu’ « aucun philosophe n’a jamais pu pénétrer parfaitement la nature d’une seule mouche ». Que dire 
 alors de cet abîme qu’est l’homme, lui qui est l’étant mondain unique en lequel l’être réfléchit comme esprit ? 
 
 
 
-ThA n’identifie jamais cet être commun avec Dieu, avec cet « être subsistant » (ipsum esse subsistens) 
+ThA n’identifie jamais cet être commun avec Dieu, avec cet « être subsistant » 
 qu’est Dieu. Certains textes le montrent avec évidence. Le suivant par exemple : 
 
 
 
-« l’être commun n’est pas quelque chose en dehors de toutes les choses existantes, sinon dans l’intellect seul » (SG I,26). Il 
+« l’être commun n’est pas quelque chose en dehors de toutes les choses existantes, sinon dans l’intellect seul ». Il 
 faut donc interpréter l’être commun à partir des choses existantes, des étants, et non l’identifier à Dieu. Notons que ce texte 
 implique conjointement que l’être commun n’est pas subsistant bien qu’il ne soit pas la somme des étants : il est une plénitude 
 que la somme des essences créées n’épuise pas, mais qui, cependant, ne subsiste que dans ces essences et non en elle-même. 
 
 
 
-L’être commun n’est pas non plus un englobant qui comprendrait aussi bien l’être incréé (Dieu) que l’être créé. 
-Certes, « l’être est dit de tout ce qui est » (SG II,15) et donc aussi de Dieu, mais cela n’implique pas que l’être soit un englobant au 
+L’être commun n’est pas non plus un englobant qui comprendrait aussi bien l’être incréé que l’être créé. 
+Certes, « l’être est dit de tout ce qui est » et donc aussi de Dieu, mais cela n’implique pas que l’être soit un englobant au 
 sens d’une réalité générique dont les cas particuliers seraient Dieu et le monde. Il ne faut pas confondre le mode du sens (modus 
-significandi) et le mode de l’être (modus essendi). Cet être englobant est exclu par le refus thomiste d’interpréter le rapport 
+significandi) et le mode de l’être. Cet être englobant est exclu par le refus thomiste d’interpréter le rapport 
 d’analogie entre Dieu et les êtres finis comme résultant d’un ordre par rapport à un tiers car alors « il faudrait poser quelque 
-chose d’antérieur à Dieu » (SG I,34). C’est donc Dieu lui-même qui est à la source de rapport d’analogie et l’être commun, loin de 
+chose d’antérieur à Dieu ». C’est donc Dieu lui-même qui est à la source de rapport d’analogie et l’être commun, loin de 
 surplomber à la fois Dieu et les étants, est lui-même subordonné à l’être subsistant de Dieu. 
 
 
@@ -196,24 +196,24 @@ Les textes les plus éclairants sont ceux qui, considérant l’être commun com
 une participation ou une similitude de l’être subsistant de Dieu, nous invitent à concevoir l’être commun comme une sorte 
 d’intermédiaire entre Dieu et l’étant. L’être commun apparaît alors comme l’effet propre de Dieu en toute chose. En effet, 
 
-« l’être est une similitude de la bonté divine » (De Ver. 22,2) , 
+« l’être est une similitude de la bonté divine » , 
 
-il est « l’effet propre de la cause suprême » (ST I-II, 66,5,4) et 
+il est « l’effet propre de la cause suprême » et 
 
-« Dieu est proprement la cause de l’être universel en toute chose » (ST I, 105,5). 
+« Dieu est proprement la cause de l’être universel en toute chose ». 
 
-ThA va jusqu’à dire que l’être commun est «la première des choses créées » (ST I, 45, a.4, ad.1) 1, expression ambiguë qui 
+ThA va jusqu’à dire que l’être commun est «la première des choses créées » 1, expression ambiguë qui 
 suggère que l’être est lui-même un étant et que ThA , qui la reprend au Liber de causis corrige aussitôt en précisant que « quand 
 on dit que l’être est la première des choses créées, l’être ne désigne pas un sujet créé mais la formalité propre de l’objet de la 
-création » (Ibid). 
+création ». 
 
 La comparaison de la lumière peut aider à se représenter les choses. En effet, « l’actualité d’une chose est comme sa 
-lumière » (In Lib de causis, I,6). L’être commun n’est ni Dieu ni les étants ; il est une médiation entre les deux un peu comme la lumière 
+lumière ». L’être commun n’est ni Dieu ni les étants ; il est une médiation entre les deux un peu comme la lumière 
 n’est ni le soleil ni les objets éclairés, mais plutôt une plénitude médiatrice entre les deux. 
 
 L’être commun n’est pas l’Etant suprême ( Dieu comme être subsistant en soi) ; il n’est pas non plus les étants créés 
 comme tels. Son autre métaphysique peut être considéré comme l’étant en général, l’étant en tant qu’étant. En quoi consiste 
-alors l’altérité ( la différence ) de cet autre qu’est l’étant en général ? il s’agit d’abord de la « subsistance », que possède l’étant 
+alors l’altérité de cet autre qu’est l’étant en général ? il s’agit d’abord de la « subsistance », que possède l’étant 
 en lui-même, alors que l’être ne la possède pas. 
 
 
@@ -247,16 +247,16 @@ l'être à partir de la cause universelle, qui est Dieu ; et c'est cette émanat
 « l’être signifie quelque chose de plénier et de simple, mais de non subsistant ; la substance, par contre, signifie 
 quelque chose de subsistant, mais de sous-jacent à autre chose. Nous posons donc en Dieu la substance et l’être, mais la 
 substance en tant que subsistance et non en tant que sous-jacente, et l’être en tant que simplicité et plénitude et non en tant 
-qu’inhérence par laquelle il inhère à autre chose » (De Pot. 1,1). 
+qu’inhérence par laquelle il inhère à autre chose ». 
 
 Ce texte indique clairement un trait essentiel de l’être commun chez ThA : l’être commun est, certes, une plénitude sur 
 essentielle, une richesse infiniment simple, mais il est une plénitude non subsistante. 
 
-« L’être de la chose créée n’est pas subsistant » (ST Ia, 45,4, obj 1). 
+« L’être de la chose créée n’est pas subsistant ». 
 
-« L’être n’est pas subsistant mais inhérent » (De Pot. 7,2,7) 
+« L’être n’est pas subsistant mais inhérent » 
 
-« On ne peut dire à proprement parler que l’être est » ( Div. Nom. 8,1) 
+« On ne peut dire à proprement parler que l’être est » 
 
 « l’être n’est pas signifié comme le sujet même de l’être…aussi pouvons-nous dire que l’être est » ( In Boeth. de Hebd. 
 lect . 2, n°23) 
@@ -272,20 +272,20 @@ subsistance. Examinons la deuxième caractéristique qui a le mérite de donner 
 énonce seulement comme un fait. 
 
 En fait, il n’est pas facile de comprendre comment, pour ThA, la subsistance peut être, dans l’étant , l’autre de l’être. 
-Nous avons vu, en effet, que selon ThA, « rien ne peut être ajouté à l’être qui lui soit étranger » (De Pot. 7,2,9) , car « il n’y a rien en 
-dehors de lui sinon le néant » (ibid). En quel sens la subsistance peut elle alors être l’autre de l’être ? Cette question reste 
+Nous avons vu, en effet, que selon ThA, « rien ne peut être ajouté à l’être qui lui soit étranger » , car « il n’y a rien en 
+dehors de lui sinon le néant ». En quel sens la subsistance peut elle alors être l’autre de l’être ? Cette question reste 
 largement impensée chez ThA, et nous n’aimerions pas non plus la discuter ici. Il s’agit de savoir comment ThA définit la 
 subsistance par laquelle l’étant se différencie de l’être commun. 
 
 A vrai dire, ThA n’approche guère la subsistance que de manière négative. Il la caractérise comme le fait de « se tenir 
 dans soi », « d’être en soi », « d’exister en soi » : « nous disons que subsistent ces choses qui existent en soi et non en autre 
-chose » (ST Ia, 29,2). Mais qu’il s’agisse de Dieu ou des étants créés, ce « dans soi » ou cet « en soi » n’est pratiquement jamais 
+chose ». Mais qu’il s’agisse de Dieu ou des étants créés, ce « dans soi » ou cet « en soi » n’est pratiquement jamais 
 déterminé positivement. Il signifie toujours « non en ou dans un autre ». 
 
 Disons que la détermination de la subsistance des formes substantielles est négative chez ThA. La différence est pensée 
 de manière précritique parce que ThA ne s’interroge pas sur la question de savoir comment il peut y avoir un autre de l’être. 
 L’être est l’être du subsistant, il est son être. D’où la dualité, dans l’étant entre sujet (ce qui reçoit l’être comme sa forme, 
-individualité, esse) et essence (substance, nature, quiddité). 
+individualité, esse) et essence. 
 
 
 
@@ -295,19 +295,19 @@ C – l’être, le sujet et l’essence.
 
 « On appelle substance, en un premier sens, la quiddité de la chose que signifie la définition, et c’est ainsi que nous 
 disons que la définition désigne la substance de la chose, substance que les Grecs appellent ‘ousia’ et que nous pouvons appeler 
-‘essence’. On appelle substance, en un autre sens, le sujet ou le suppôt qui subsiste dans ce genre de la substance » (ST Ia, 23, 2). 
+‘essence’. On appelle substance, en un autre sens, le sujet ou le suppôt qui subsiste dans ce genre de la substance ». 
 
 « Dans la notion de substance, on comprend qu’elle a une quiddité à laquelle il convient de n’être pas en autre chose » 
-(SG I, 25) 
+ 
 
 « Toute chose a son être propre selon la mesure de son espèce ; en effet, les choses qui ont un degré d’être différent 
-sont aussi spécifiquement différentes » (SG II, 94). 
+sont aussi spécifiquement différentes ». 
 
 L’être se rapporte au sujet comme son acte qui est médiatisé par l’essence. Il faut distinguer, dans un étant concret : 
 
-ce qui est : sujet, suppôt, subsistance ( individualité). 
+ce qui est : sujet, suppôt, subsistance. 
 
-ce qu’il est : essence, forme, quiddité (nature) 
+ce qu’il est : essence, forme, quiddité 
 
 son acte d’être : l’être, principe de donation de forme, d’essence, de quiddité. 
 
@@ -318,12 +318,12 @@ n’est pas pensé de manière critique.
 
 
 
-II – L’être et l’intelligence (autre épistémologique ) 
+II – L’être et l’intelligence 
 
 
 
 Nous avons parlé métaphysiquement de l’être sans nous interroger sur son rapport épistémologique à l’homme. 
-L’homme est un tout complexe d’être substantiel ayant l’âme (substrat personnel), plusieurs facultés dont le plus haute est 
+L’homme est un tout complexe d’être substantiel ayant l’âme, plusieurs facultés dont le plus haute est 
 l’intellect agent et capables de plusieurs acte 
 
 
@@ -338,17 +338,17 @@ l’universalité.
 L’intellect possible reçoit l’empreinte de la forme ainsi dégagée et s’incline devant le réel. Du rapport entre les deux 
 intellects résulte la connaissance qui consiste en ceci qu’une forme (quiddité, essence, prédicat) est affirmée d’un sujet (suppôt, 
 substrat, matière) et que cette affirmation est rapporté à la nature effective des choses, à leur acte d’être : par exemple, 
-« ceci » (suppôt) « est » (en acte) « un livre » (quiddité). 
+« ceci » « est » « un livre ». 
 
 
 
-Nous retrouvons ici, qu’au niveau épistémologique, le système ternaire ontologique : « substance (suppôt – sujet) – 
-essence (forme –quiddité) – être » , système qui, grâce à l’intellect agent et possible, n’est plus celui de l’étant, mais celui de la 
+Nous retrouvons ici, qu’au niveau épistémologique, le système ternaire ontologique : « substance – 
+essence – être » , système qui, grâce à l’intellect agent et possible, n’est plus celui de l’étant, mais celui de la 
 conception intellectuelle de l’étant. L’étant est la chose la plus concevable qui soit, premier objet de l’intellect. De même que, au 
 niveau ontologique, l’être se présente comme un autre par rapport à l’essence et au sujet, de même ici, au niveau 
 épistémologique, l’être est un autre par rapport à la forme connue et au suppôt. Dans l’énoncé de la connaissance, c’est à dire 
 dans le jugement, l’être s’exprime dans la copule. Mais dans le processus épistémologique proprement dit, c’est à dire dans la 
-conception de l’être comme acte, il est plutôt cette lumière (lumen) qui est le lieu fonctionnel (le quo ) de la connaissance et non 
+conception de l’être comme acte, il est plutôt cette lumière qui est le lieu fonctionnel de la connaissance et non 
 son quod, son objet ; tout comme l’être, au niveau ontologique, est fonction de l’essence et du sujet ( leur quo et non le quod 
 même de l’étant comme tel). 
 
@@ -356,14 +356,14 @@ ThA présente le processus de la connaissance dans ces deux textes :
 
 . « L’opération intellectuelle humaine s’accomplit selon deux aspects, à savoir selon la lumière intelligible et selon les 
 espèces intelligibles, de telle manière cependant que selon les espèces se fait l’appréhension des choses et que selon la lumière 
-intelligible s’accomplit le jugement sur les choses appréhendées ». (De Malo 16,12) 
+intelligible s’accomplit le jugement sur les choses appréhendées ». 
 
 . « Deux choses sont requises pour la connaissance intellectuelle, à savoir l’intelligible lui-même et la lumière par 
-laquelle il est vu » (II Sent. 9,1,2,4) 
+laquelle il est vu » 
 
 Résumons-nous sur le rapport entre l’être et l’intelligence : 
 
-La conception de l’étant résulte de la confluence de l’apriorité infinie de la lumière intellectuelle (Kant) comme reflet 
+La conception de l’étant résulte de la confluence de l’apriorité infinie de la lumière intellectuelle comme reflet 
 actif de la lumière incréée ou de l’intelligence divine et l’apostériorité finie de la forme dégagée de la singularité sensible ; 
 
 La lumière de l’intellect agent permet le jugement ; l’essence correspond à l’espèce intelligible ou à la quiddité en 
@@ -385,17 +385,17 @@ A – la triade des transcendantaux : Unum, Verum, Bonum.
 
 
 La réflexion sur les transcendantaux ressort de la détermination ultérieure de l’étant : « il faut que toutes les autres 
-conceptions de l’intellect proviennent d’une addition de l’étant » ( De Ver. 1,1). Les transcendantaux ne sont pas une ajoute. Ils 
+conceptions de l’intellect proviennent d’une addition de l’étant ». Les transcendantaux ne sont pas une ajoute. Ils 
 expriment un mode de l’être qui n’est pas exprimé par le nom « être ». Ce sont des noms qui, au même titre que l’étant, ont 
 
-cependant une connotation différente et transcendent chaque étant déterminé. ThA cite ( in De Ver. 1,1) six transcendantaux : 
+cependant une connotation différente et transcendent chaque étant déterminé. ThA cite six transcendantaux : 
 étant, chose, quelque chose d’autre, un, bon, vrai ; qu’il divise en deux groupes : 
 
-ceux qui se rapportent à l’étant pris en lui même ( chose, un ) 
+ceux qui se rapportent à l’étant pris en lui même 
 
 ceux qui le désignent dans son rapport à un autre ( quelque chose d’autre, bon, vrai ). Le plus souvent, il n’en retient 
-que trois : un (unum), bon (bonum), vrai (verum) que nous retenons pour notre examen. Nous examinerons aussi le beau 
-(pulchrum). 
+que trois : un, bon, vrai que nous retenons pour notre examen. Nous examinerons aussi le beau 
+. 
 
 L’un est ce qui est indivis en soi de manière négative. Bonum Verum : rapport positif de convenance d’un étant avec un 
 autre. Cette convenance n’est pas possible si l’on n’admet pas qu’il y a quelque chose qui, par nature, convient avec tout étant : 
@@ -407,14 +407,14 @@ la faculté cognitive (vrai comme accord entre l’étant et l’intelligence)
 
 la faculté appétitive ( bon comme accord entre l’étant et la volonté ) 
 
-Les transcendantaux ( ou universaux ) sont convertibles. Tout ce qui est, en tant qu’il est, est un, vrai, bon. Tout ce qui 
+Les transcendantaux sont convertibles. Tout ce qui est, en tant qu’il est, est un, vrai, bon. Tout ce qui 
 est vrai, en tan qu’il est vrai, est bon et un, etc… Les transcendantaux sont convertibles mais non synonymes. Ils ne diffèrent pas 
 quant à la chose, mais quand au sens. Par chose, ThA entend « sujet », « substance », « suppôt » : «le bon est identique à 
-l’étant quant au sujet » (ST Ia, 5,6,1) ; « le vrai … se convertit avec l’étant selon la substance » (ST Ia, 16,3,1). Ils diffèrent cependant 
+l’étant quant au sujet » ; « le vrai … se convertit avec l’étant selon la substance ». Ils diffèrent cependant 
 par leur sens. Si l’étant ou l’un, le vrai et le bon sont identiques quant au sujet, qu’est-ce qui correspond, dans l’étant lui-même, 
 à leur diversité de sens ? Pour ThA, l’étant est lui-même sujet, essence et acte. Il n’est déterminé par les transcendantaux que 
 dans son rapport à l’âme. Les transcendantaux expriment la richesse de l’être et sont garantis par le rapport de l’étant à 
-l’intelligence et à la volonté divines. L’erreur de ThA est de juxtaposer les termes et les plans différents (l’étant, l’âme et Dieu) 
+l’intelligence et à la volonté divines. L’erreur de ThA est de juxtaposer les termes et les plans différents 
 sans montrer suffisamment dans leurs rapports l’unité d’un même déploiement. C’est pourquoi il est nécessaire, sur le plan 
 herméneutique, de relever la diversité de sens à partir d’une affinité profonde entre la triade sujet-essence-acte et la triade un-
 vrai-bon. 
@@ -437,9 +437,9 @@ l’être.
 Texte : « Le sens du bon consiste en ce que quelque chose soit appétible ; dès lors est bon ce que toutes choses 
 appètent. Or il est manifeste que toute chose est appétible selon qu’elle est parfaite, car toute chose appète sa perfection propre. 
 Or toute chose est parfaite selon qu’elle est en acte. Dès lors il est manifeste que quelque chose est bon selon qu’il est étant ; 
-l’être, en effet, est l’actualité de toute chose » (ST Ia, 5,1). 
+l’être, en effet, est l’actualité de toute chose ». 
 
-En partant de ce texte et d’un autre passage de Quaestiones disputatae de Veritate ( De Ver 21,3), on peut tirer les 
+En partant de ce texte et d’un autre passage de Quaestiones disputatae de Veritate, on peut tirer les 
 conséquences suivantes : 
 
  il y a correspondance métaphysique d’une part entre le vrai et l’essence et d’autre part entre le bon et l’être. En tant 
@@ -447,7 +447,7 @@ que vraie, une chose comble d’abord par son essence, et en tant que bonne, par
 
 . – le vrai est situé dans le connaissant et le bon dans la chose : « De même que le bon désigne ce à quoi tend 
 l’appétit, ainsi le vrai désigne ce à quoi tend l’intellect… et ainsi, le terme de l’appétit, c’est à dire le bon, est dans la chose 
-appétible, mais le terme de la connaissance, c’est à dire le vrai, est dans l’intellect lui-même ». (ST Ia, 16,1). 
+appétible, mais le terme de la connaissance, c’est à dire le vrai, est dans l’intellect lui-même ».. 
 
 . – la vrai lacune de ThA ici est dans la vision trop ontique des transcendantaux. Il faut distinguer chez lui deux 
 niveaux : 
@@ -462,7 +462,7 @@ même de l’être.
  ThA a dépassé son ontisme dans Summa contra Gentiles où l’on voit dans les transcendantaux le mouvement 
 même de l’être commun en tant qu’il se communique en émanant de sa structure divine et pose l’âme et l’étant comme les deux 
 moments de son déploiement proprement ontologique. L’être commun est ainsi lui-même, en fonction de son origine divine, le 
-système des transcendantaux (un – vrai – bon ) et c’est lui qui, en tant qu’il est la substance divine, se déploie en laissant aller 
+système des transcendantaux et c’est lui qui, en tant qu’il est la substance divine, se déploie en laissant aller 
 hors de lui comme ses deux moments le système de l’âme ( âme – intellect – volonté ) et le système de l’étant ( sujet – essence 
 – acte ). 
 
@@ -474,13 +474,13 @@ DIEU
 
 Être subsistant et personnel 
 
-( intelligence et volonté) 
+ 
 
 | 
 
 être commun 
 
-(Sein) 
+ 
 
 Plénitude non subsistante se donnant en partage 
 
@@ -508,9 +508,9 @@ Essentialité Mobilité actualité
 
 ESPRIT ETANT 
 
-(Système de l’âme) (Système de l’étant) 
+ 
 
-(Dasein) 
+ 
 
 
 
@@ -522,7 +522,7 @@ ESPRIT ETANT
 
 
 
-C – L’être comme Beauté ( pulchrum) 
+C – L’être comme Beauté 
 
 
 
@@ -534,7 +534,7 @@ en tant qu’il est bon. Il est l’unité de l’intelligence et de la volonté
 l’amour. Il concerne aussi l’étant dans sa consonance totale. Le beau est consonance puisqu’il exprime la communion réussie de 
 l’être, de l’âme et de l’étant. Il est l’unité des transcendantaux parce qu’en lui s’exprime la concorde originaire de l’être. C’est 
 pourquoi il est une fête de l’esprit. C’est de St Thomas que part Hans Urs Von Balthasar pour développer sa théologie de la 
-« Herrlichkeit » (Gloire). 
+« Herrlichkeit ». 
 
 
 
@@ -544,17 +544,17 @@ IV – L’être et Dieu.
 
 Le chemin vers Dieu est, chez ThA, un chemin qui va des étants à l’être et de l’être à l’être subsistant de Dieu. 
 
-Il y a 5 voies ( ST Ia, 2,3) comme 5 désignations de l’être subsistant : premier moteur (Aristote), cause efficiente de 
+Il y a 5 voies comme 5 désignations de l’être subsistant : premier moteur, cause efficiente de 
 l’être, être nécessaire par soi, causes, en tous les étants de l’être, de la bonté et de toute perfection, principe intelligent 
 ordonnant à leur fin toutes les choses naturelles. ThA conclut à chaque fois : « c’est ce que tous entendent par Dieu ». Il y a ici 
-un saut énorme qui escamote le problème du passage de l’Ipsum Esse Subsistens (avec ses 5 noms) à ce mot « Dieu » véhiculé 
+un saut énorme qui escamote le problème du passage de l’Ipsum Esse Subsistens à ce mot « Dieu » véhiculé 
 par une tradition historique et religieuse. 
 
-Rapports entre Dieu et l’être : ThA donne 3 raisons pour lesquelles le nom « Celui qui est » ( le tétragramme) est le 
+Rapports entre Dieu et l’être : ThA donne 3 raisons pour lesquelles le nom « Celui qui est » est le 
 nom le plus approprié de Dieu : 
 
 . par sa signification : chaque chose est nommée par sa forme. Or l’étant ne désigne pas une forme quelconque, 
-mais l’être lui-même (la forme des formes) qui est identique à l’essence de Dieu (ce qui n’est pas en Dieu). 
+mais l’être lui-même qui est identique à l’essence de Dieu. 
 
 . par son universalité : nous ne pouvons connaître Dieu en lui-même, mais plus un nom est universel, moins il 
 restreint l’essence divine et désigne adéquatement la plénitude infinie de la substance divine. 
@@ -572,7 +572,7 @@ Texte : « Ce nom « celui qui est » est un nom divine plus propre que le nom �
 imposition, à savoir l’être, et quant au mode de signification et de co-signification…. Mais quant au terme en vue duquel le nom 
 est imposé pour qu’il le signifie, le nom « Dieu » est plus propre, qui est imposé pour signifier la nature divine. Et le nom 
 « Yhvh » est encore plus propre, qui est imposé pour signifier la substance incommunicable et, pour ainsi dire, singulière de 
-Dieu » (ST Ia, 13,11,1). 
+Dieu ». 
 
 
 
@@ -609,7 +609,7 @@ C’est en cherchant à répondre à cette question que ThA élabore sa théorie
 quelques points : Dieu n’est pas extérieur à moi : sa présence créatrice est immédiate au centre de mon être. Je ne peux certes 
 atteindre cette source dont tout procède. Mais l’acte vital avec lequel je coïncide reflète réellement cette présence divine. C’est 
 pourquoi la réflexion métaphysique est coïncidence non seulement avec mon être, mais aussi avec l’être dans sa réalité absolue 
-et universelle. Il s’agit cependant d’une coïncidence imparfaite et limitée parce que l’acte de ma vie (l’élan vital) est celui par 
+et universelle. Il s’agit cependant d’une coïncidence imparfaite et limitée parce que l’acte de ma vie est celui par 
 lequel s’actuent les limites qui me distinguent de Dieu. Prendre conscience de mon imperfection et de mes limites, c’est participer 
 réellement au dynamisme avec lequel Dieu se connaît. Mais je ne connaîtrai jamais Dieu comme lui-même se connaît et je ne me 
 connaîtrai jamais comme Dieu me connaît en me créant. Prendre conscience de soi, c’est se poser comme distinct de Dieu et 
@@ -622,7 +622,7 @@ Ce que je dis de Dieu n’est donc pas totalement négatif parce qu’il est ré
 sans pouvoir le dépasser, les limites inhérentes à ma réalité créée. Je ne peux et ne dois dire de Dieu que dans la fidélité au 
 mouvement de participation avec lequel il me constitue comme être dépendant de lui en tant qu’identité parfaite de conscience 
 et de réalité ( verum  veritas sicut adaequatio rei et intellectus), identité parfaite de la réalité dans l’unité avec elle-même 
-(unum) 
+ 
 
 
 
@@ -653,7 +653,7 @@ nous pouvons nous représenter clairement.
 
 
 
-. la voie de causalité ou d’affirmation ( via causalitatis ) 
+. la voie de causalité ou d’affirmation 
 
 
 
@@ -668,7 +668,7 @@ connaissance et du langage humain reconnaissent leur impuissance devant le myst�
 
 
 
-. la voie de négation ( via negationis) 
+. la voie de négation 
 
 
 
@@ -679,14 +679,14 @@ avec la profondeur du mystère. La création est un geste qui nous précède et 
 non l’origine. Dieu nous connaît et nous crée parce que nous sommes une participation créée de sa Parole. L’être humain est 
 créé ; il est fini. Sa contingence ontologique renvoie à Dieu comme source ou origine absolue. 
 
-La philosophie contemporaine, à la suite de ThA et d’autres philosophes modernes (Kant, Hegel), en insistant sur la 
+La philosophie contemporaine, à la suite de ThA et d’autres philosophes modernes, en insistant sur la 
 finitude de l’homme, exige la négation et la mort inscrite dans tout acte spirituel. 
 
 L’être créé est plus qu’un concept explicatif mesuré à la raison qui traduit le mouvement de l’expérience humaine. Celle-
 ci doit se vider d’elle-même pour découvrir en Dieu la source de toute plénitude. Lui est tout et nous ne sommes rien. Ma propre 
 certitude, je ne peux la posséder. Elle doit devenir sa certitude en moi, l’assurance qu’il m’offre. Au delà d’un savoir limité, nous 
 devons accepter un non-savoir. Abandonnons toute représentation, toute image, tout point d’appui humain : c’est cela l’oeuvre 
-de la négation : installation dans le vide, dans le néant ( Kierkegaard, Heidegger). C’est pourquoi la philosophie aboutit à une 
+de la négation : installation dans le vide, dans le néant. C’est pourquoi la philosophie aboutit à une 
 certaine indétermination. Quel contenu pourrait-elle donner aux concepts « créateur » et « créature » ? Ces concepts expriment 
 le geste essentiel par lequel l’existence contingente reconnaît la source qui n’est pas contingente. Mourir à soi-même, à sa propre 
 indépendance, à son être-pour-soi, à toute possession, c’est laisser se révéler le geste créateur qui procède de Dieu. 
@@ -695,12 +695,12 @@ dans lequel toutes les perfections transcendantales, qui expriment la vie spirit
 
 
 
-. la voie d’éminence ou d’excellence (via eminentiae) 
+. la voie d’éminence ou d’excellence 
 
 
 
 ThA désigne par des comparatifs que les modes niés dans la via negationis ne le sont pas en raison d’un défaut de 
-réalité en Dieu, mais bien plutôt en raison de l’excès ou de l’excellence de sa réalité (ST Ia,12,12). En vertu de cette éminence, la 
+réalité en Dieu, mais bien plutôt en raison de l’excès ou de l’excellence de sa réalité. En vertu de cette éminence, la 
 substance divine se retire, pour ainsi dire ,par delà tous nos concepts ; elle transcende infiniment toutes nos déterminations 
 conceptuelles. La question qui se pose alors est de savoir si ce retrait et cette transcendance ne débouchent pas sur une pure 
 indétermination : question posée explicitement par Hegel. 
@@ -711,7 +711,7 @@ de l’expression humaines. Dieu est présent : rien n’est sans lui. C’est l
 manifeste. Le langage est comme porté vers cette ouverture à une révélation que ne peut jamais se réaliser avec l’unique 
 ressource de la raison humaine ( le dernier Heidegger développe ce point de vue de St Thomas dans le langage apophatique ). 
 Seule l’annonce, dans notre univers et dans nos traditions historiques, de la Parole éternelle pourra porter à sa plénitude l’effort 
-intellectuel accompli par tous les esprits créés : « Omne verum, a quocumque dicatur, a Spiritu Sancto est » ( Ambroise ). En 
+intellectuel accompli par tous les esprits créés : « Omne verum, a quocumque dicatur, a Spiritu Sancto est ». En 
 fonction de cette réalité première, l’expression de l’homme dans le monde prend une signification symbolique. Dieu doit refléter 
 sa présence dans le monde. Cette présence ne devient notre que comme présence découverte et accueillie dans le langage 
 humain qui connaît. Le même non-savoir se manifeste comme symbole d’un savoir qui s’auto-révèle et qu’il faut interpréter. On 
@@ -758,7 +758,7 @@ qu’elle doit être de même nature). Nous sommes Je car Dieu nous tutoie. Tous
 Heidegger: l’être est l’événement même de la vérité, l’horizon de sens sur lequel se détache tout ce qui nous fait 
 signe. 
 
-ThA : l’être est l’acte même d’exister ( actus essendi ). Forme de toutes les formes, acte de tous les actes, 
+ThA : l’être est l’acte même d’exister. Forme de toutes les formes, acte de tous les actes, 
 perfection de toutes les perfections. 
 
 
@@ -774,7 +774,7 @@ son existence. Et combien plus l’homme, où l’être affleure à la conscienc
 
 Dès lors, pourquoi les étants ? la lumière est indifférente aux objets éclairés. L’être étant suressentiel, ne 
 peut être tenu responsable de l’existence des essences déterminées ( ie des formes concrètes des étants ). Etant 
-d’un autre ordre ( > essences), elle y est indifférente. D’où l’étonnement indépassable de la raison humaine face 
+d’un autre ordre, elle y est indifférente. D’où l’étonnement indépassable de la raison humaine face 
 au rapport énigmatique liant être et étants. D’autant que l’être semble avoir besoin des étants pour s’exprimer, 
 comme la lumière a besoin des objets pour éclairer. Elle ne s’éclaire pas elle-même : humilité et discrétion de la 
 lumière et de l’être. Relativité. En ce sens, l’être n’est pas ! C’est une plénitude qui ne subsiste pas en elle-même. 
@@ -791,14 +791,14 @@ supérieure.
 C’est pour surmonter ce paradoxe que de tout temps, la pensée métaphysique est allé au delà de la 
 simple différence ontologique entre l’être et l’étant et s’est élevé jusqu'à l’affirmation de Dieu. Dieu est 
 positivement requis par la présence au coeur des étants d’une plénitude qui les transcende, mais ne subsiste pas 
-en elle-même.  affirmer Dieu en philosophie, c’est parvenir au delà de la différence ontologique (étant-être) à 
+en elle-même.  affirmer Dieu en philosophie, c’est parvenir au delà de la différence ontologique à 
 
 une troisième différence métaphysique, la différence théologique entre l’être et Dieu. Au delà de la plénitude 
-non subsistante de l’être et de l’étant, il y a l’être subsistant et personnel de Dieu ( ipsum esse subsistens ). 
+non subsistante de l’être et de l’étant, il y a l’être subsistant et personnel de Dieu. 
 
 
 
-Heidegger l’ignore et réduit le mystère de l’être à un événement impersonnel : le pur « il y a » ( Es gibt) 
+Heidegger l’ignore et réduit le mystère de l’être à un événement impersonnel : le pur « il y a » 
 de l’étant, pure donation anonyme de l’étant : ça donne. Cet espèce de structuralisme métaphysique fait de 
 l’homme le lieu impersonnel d’un événement anonyme. 
 
@@ -839,9 +839,9 @@ différences métaphysiques :
 
 ° différence métaphysique : - DIEU : L’Etre comme plénitude subsistante et personnelle , dont 
 
-LA DIFFERENCE THEOLOGIQUE l’intellect a créé les formes (essences des étants). 
+LA DIFFERENCE THEOLOGIQUE l’intellect a créé les formes. 
 
-° différence métaphysique : - L’ETRE ( de l’étant ) : Plénitude non subsistante, impersonnelle. 
+° différence métaphysique : - L’ETRE : Plénitude non subsistante, impersonnelle. 
 
 LA DIFFERENCE ONTOLOGIQUE 
 
@@ -851,7 +851,7 @@ personnel
 
 ° différence métaphysique : 
 
-LA DIFFERENCE EXISTENTIELLE - mère ( parents ) : monde - être . générosité de type personnel 
+LA DIFFERENCE EXISTENTIELLE - mère : monde - être . générosité de type personnel 
 
 
 
@@ -861,7 +861,7 @@ enfants
 
 
 
-Analogie de la lumière : - Soleil (lumière subsistante)  Dieu 
+Analogie de la lumière : - Soleil  Dieu 
 
 Lumière comme telle  être 
 
@@ -894,10 +894,10 @@ divine », disponible sans réserve, oublieux de soi, générosité pure.
 
 Le mystère de l’être, on le retrouve au niveau métaphysique de la Trinité, infiniment riche et pauvre à la 
 fois, dans la dépendance et la réciprocité des 3 personnes divines. Cette logique paradoxale de l’Eternel Amour 
-comme identité de la Gloire et de l’Humilité ( ie de la croix ) se traduit historiquement par l’Incarnation ( 2 Co 8.9 
+comme identité de la Gloire et de l’Humilité se traduit historiquement par l’Incarnation ( 2 Co 8.9 
 et Phi 2.6-8). 
 
-En l’homme peut s’actualiser ce don de l’être (plénitude et pauvreté ) parvenu à la conscience de soi : 
+En l’homme peut s’actualiser ce don de l’être parvenu à la conscience de soi : 
 l’homme devient image de Dieu en partageant à l’autre cette richesse infinie de l’être, en se donnant à l’autre, en 
 lui relayant la fécondité généreuse de l’être, en un mot, par l’Amour. 
 
@@ -1082,7 +1082,7 @@ soit si ce n'est par une motion reçue de la Cause première.
 
 
 Ch 1 bis. Thomas d’Aquin et l’émerveillement devant l’être 
-(résumé). 
+. 
 
 
 
@@ -1094,20 +1094,20 @@ Vocabulaire : L’Être, l’être et l’étant.
 Subsistens), nom métaphysique de Dieu, qui désigne un 
 Être qui subsiste en soi, de façon nécessaire, et personnelle. 
 C’est l’Être comme Plénitude subsistante et Personnelle, 
-dont l’intellect a créé les formes ( essences des étants ). 
+dont l’intellect a créé les formes. 
 
 . L’être commun ( lat : esse commune ou ipsum esse, 
 l’être lui-même) : c’est le fait qu’il y ait des étants. Donc 
 réalité intellectuelle. C’est une Plénitude non-subsistante 
-(car créée par Dieu), impersonnelle ( pas une personne ). 
+, impersonnelle. 
 
-. Les étants : subsistants (non plénitude, car finis) 
+. Les étants : subsistants 
 impersonnels ( sauf l’homme, seul subsistant personnel ). 
 
 
 
 La Métaphysique de Thomas analyse et décrit l’être 
-commun (l’être). L’être commun est la « première des 
+commun. L’être commun est la « première des 
 choses créées » par Dieu. Pourquoi cet intermédiaire ? Si on 
 le supprime, on aboutirai à un panthéisme, où les étants 
 seraient des parcelles de Dieu, l’Être en Soi. (Il s’agit de 
@@ -1125,7 +1125,7 @@ il est immédiatement absorbé par les étants selon les
 essences ou formes pensées par Dieu. 
 
 De plus, les étants présupposent une plénitude 
-subsistante au delà de l’être (non subsistant), car ils sont 
+subsistante au delà de l’être, car ils sont 
 eux même subsistants. 
 
 
@@ -1138,11 +1138,11 @@ L’être commun comme acte simple et plénier de tous les
 Toute la métaphysique thomiste de l’être procède 
 de cette intuition centrale que la richesse la plus profonde 
 de tout ce qui existe est justement son acte d’exister 
-(esse). 
+. 
 
 
 
-Il est acte : « l’être est acte » (SG I,38), «l’actualité de 
+Il est acte : « l’être est acte », «l’actualité de 
 tous les actes, la perfection de toutes les perfections » ( De 
 Pot. 7,2,9) 
 
@@ -1151,23 +1151,23 @@ Pot. 7,2,9)
 il est sur-essentiel et infini : « L’être commun, 
 considéré absolument, est infini, car il peut être participé 
 par des essences en nombre infini et en des manières 
-infiniment diverses » ( SG I,43) . Il est sur-essentiel. 
+infiniment diverses » . Il est sur-essentiel. 
 
 
 
 il est abstrait, il n’a de réalité qu’intellectuelle (il 
 est non subsistant) : « l’être commun n’est pas quelque 
 chose en dehors de toutes les choses existantes, sinon dans 
-l’intellect seul » (SG I,26) . Il faut donc interpréter l’être 
+l’intellect seul » . Il faut donc interpréter l’être 
 commun à partir des choses existantes, des étants, et non 
 l’identifier à Dieu. 
 
 
 
 il est donc non-subsistant : « Il n’est pas subsistant 
-mais inhérent » (De Pot 7,2,7) . « on ne peut dire à proprement 
-parler que l’être est » (Div.Nom 8,1). « L’être est ce par quoi 
-quelque chose est » (ST I,75,4). Non subsistant signifie pour 
+mais inhérent » . « on ne peut dire à proprement 
+parler que l’être est ». « L’être est ce par quoi 
+quelque chose est ». Non subsistant signifie pour 
 l’être qu’il n’existe pas en lui-même mais en un autre, c’est 
 à dire dans l’étant, dans les étants ( comme les accidents 
 sont eux aussi non subsistants) . L’ étants est lui subsistant, 
@@ -1178,7 +1178,7 @@ car il existe en lui-même, et non en quelque chose d’autre.
 il est intermédiaire entre Dieu et l’étant : l’effet 
 propre de Dieu en toute chose, plénitude médiatrice entre 
 Dieu et les étants. Il est la « première des choses créées » 
-(ST I,q45,a4,1), dans la pensée de Dieu (mais pas un étant : 
+, dans la pensée de Dieu (mais pas un étant : 
 «non pas un sujet créé, mais la formalité propre de l’objet 
 de la création » Ibid ). 
 
@@ -1187,9 +1187,9 @@ de la création » Ibid ).
 Il faut donc comprendre l’être commun comme un être 
 créé, et plus précisément, comme une participation ou 
 une similitude de l’être subsistant de Dieu. Il est 
-« similitude de la bonté divine » (De Ver. 22,2) ; « effet propre de 
-la cause suprême » (ST I-II, 66,5,4), et « Dieu est proprement la 
-cause de l’être universel en toutes choses » (ST I ,105,5). 
+« similitude de la bonté divine » ; « effet propre de 
+la cause suprême », et « Dieu est proprement la 
+cause de l’être universel en toutes choses ». 
 
 Le rapport de l’être à l’étant est donc celui de l’abstrait 
 au concret, du non-subsistant au subsistant. 
@@ -1229,7 +1229,7 @@ impersonnel
 
 Impersonnel 
 
-(sauf l’homme) 
+ 
 
 Nécessaire 
 
@@ -1241,7 +1241,7 @@ contingent
 
 Concret 
 
-Abstrait (intellectuel) 
+Abstrait 
 
 concret 
 
@@ -1279,7 +1279,7 @@ L’Être en Soi // le soleil  Plénitude subsistante, concrète,
 origine de la lumière. 
 
 L’être // la lumière  plénitude qui n’a pas de subsistance 
-propre, et qui n’existe qu’éclairant les objets. (In Lib de causis I,6 ) 
+propre, et qui n’existe qu’éclairant les objets. 
 
 Les étants // les objets éclairés  ils concrétisent et 
 dévoilent la lumière, et au-delà son origine: l’Être en Soi. 
@@ -1290,7 +1290,7 @@ commun, et ThA nous offre la réflexion la plus achevée,
 illuminée par la Foi, du statut de l’être. La refonte 
 cosmologique et physique de la Modernité entraînera 
 cependant la métaphysique à ne plus s’interroger sur l’être 
-comme objet (= les étants et Dieu), mais comme sujet : 
+comme objet, mais comme sujet : 
 l’homme connaissant. C’est la révolution copernicienne de la 
 métaphysique. 
 
@@ -1319,7 +1319,7 @@ Ch 2 – Descartes, et le tournant de la Modernité.
 
 
 L’Antiquité grecque (présocratiques - Platon – Aristote) s’interrogeait sur le Cosmos, à la fois objet et 
-modèle de vérité ( lois du logos). Le Moyen Age place la Foi, et Dieu comme objet (théologie naturelle) et origine 
+modèle de vérité. Le Moyen Age place la Foi, et Dieu comme objet et origine 
 de toute vérité. Mais sans remettre en cause pour autant les principes physiques et métaphysiques grecs. C’est au 
 XVI° siècle que ceux-ci seront profondément remis en cause avec la Modernité, et le primat du sujet. 
 
@@ -1334,14 +1334,14 @@ classique.
 
 
 
-La Modernité (XVI°) naît d’un essor scientifique, qui va détrôner les grandes cosmologies antiques. Ainsi, la 
-cosmologie d’Aristote (et de Ptolémée) défendait notamment : 
+La Modernité naît d’un essor scientifique, qui va détrôner les grandes cosmologies antiques. Ainsi, la 
+cosmologie d’Aristote défendait notamment : 
 
 le géocentrisme. 
 
 l’incorruptibilité du monde supra-lunaire… 2 
 
-Les théories de Copernic (début XV°), puis de Galilée (début XVI°) vont nier ces grandes cosmologies : 
+Les théories de Copernic, puis de Galilée vont nier ces grandes cosmologies : 
 héliocentrisme, corruptibilité du soleil, etc…3 
 
 Si bien que peu à peu c’est toute la pensée d’Aristote, puis la pensée médiévale qui est remise en cause. Et 
@@ -1350,7 +1350,7 @@ physique se révèle en partie fausse. C’est une vraie révolution : durant 20
 complètement trompés sur le cosmos, les théories du mouvement, etc… 
 
 Cela ne serait pas grave si l’on avait clairement séparé les champs d’investigation de la physique et de la 
-métaphysique. La physique aurait pu alors s’écrouler (en partie) sans remettre en cause la métaphysique. Mais le 
+métaphysique. La physique aurait pu alors s’écrouler sans remettre en cause la métaphysique. Mais le 
 problème est que l’on considérait qu’il y avait une continuité du savoir entre les deux. C’est cette ingérence de la 
 physique dans la métaphysique qui va provoquer, à tort, la remise en cause de toute l’ontologie classique. 
 
@@ -1369,7 +1369,7 @@ faut donc refonder la philosophie sur la science, sur la raison.
 
 
 
-III – la méthode de Descartes (rappels) 
+III – la méthode de Descartes 
 
 
 
@@ -1383,7 +1383,7 @@ faire progresser la connaissance. Il faut donc fonder une nouvelle philosophie s
 
 Quatre règles principales : 
 
-. le doute méthodique ( et non le doute sceptique ) : 
+. le doute méthodique : 
 
 Il faut « rejeter comme absolument faux tout ce en quoi je pourrais imaginer le moindre doute». 
 
@@ -1392,7 +1392,7 @@ Les 3 caractéristiques du doute :
  méthodique (c’est une méthode seulement et pas une fin en soi, comme pour les sceptiques. 
 Il est actif, volontaire, et non pas subi, angoissé) 
 
- universel ( hyperbolique) : il porte sur tout, même sur ma propre existence. 
+ universel : il porte sur tout, même sur ma propre existence. 
 
  radical 
 
@@ -1417,7 +1417,7 @@ Résultats obtenus par la Méthode cartésienne :
 
 . la conscience de soi : « je pense donc je suis » prouve l’existence du sujet pensant. Il y a une 
 évidence qui résisté absolument au doute, à savoir celle de l’existence de la pensée même qui doute. Car pour 
-douter, il faut penser, et pour penser, il faut être. La conscience de soi, comme chose pensante (res cogitans) est 
+douter, il faut penser, et pour penser, il faut être. La conscience de soi, comme chose pensante est 
 donc le fondement de départ de la pensée cartésienne. Voilà le fondement que cherchait Descartes. 
 
 
@@ -1426,7 +1426,7 @@ donc le fondement de départ de la pensée cartésienne. Voilà le fondement que
 imperfection. Mais d’où tient-il donc l’idée de perfection par rapport à laquelle il se déclare imparfait. Pas de lui 
 même, puisqu’il est imparfait et que ‘le plus ne peut sortir du moins’. Mais d’un être tout parfait qui a mis en lui 
 cette idée, c’est-à-dire Dieu. Autrement dit, je réalise que dans ma conscience fini se trouve une « idée innée » qui 
-la dépasse (l’idée d’infini) et qui donc lui vient d’un être infini : « (…) car, encore que l’idée de la substance soit en 
+la dépasse et qui donc lui vient d’un être infini : « car, encore que l’idée de la substance soit en 
 moi de cela même que je suis une substance, je n’aurais pas néanmoins l’idée d’une substance infinie, moi qui 
 suis un être fini, si elle n’avait été mise en moi par quelque substance qui fut véritablement infinie ». Dieu est idea 
 innata à la conscience. 
@@ -1480,7 +1480,7 @@ ai, et non plus l’objet lui-même.
 
 
 Exemple 2 : De même donc l’existence de Dieu. Elle n’est pas posée en soi, mais elle est déduite de ma 
-pensée, où plus précisément de l’idée d’infini ( ou de perfection ) qui est une idée de ma pensée. « Tout ce qui 
+pensée, où plus précisément de l’idée d’infini qui est une idée de ma pensée. « Tout ce qui 
 peut se savoir de Dieu peut être montré par des raisons qu’il n’est pas besoin de chercher ailleurs que dans nous 
 mêmes et que notre esprit seul est capable de nous fournir » ( Méditations Métaphysiques, Épître. §2) 
 
@@ -1510,7 +1510,7 @@ une « philosophie de l’étant ». (La philo ancienne est tournée vers les ch
 monde, parfois un peu naïvement : penser la terre comme immobile…). On s’applique à l’objet, à l’étant, à la 
 substance… 
 
-Avec la philosophie moderne, on substitue le point de vue du sujet, ( = de l’esprit humain) au point de 
+Avec la philosophie moderne, on substitue le point de vue du sujet, au point de 
 vue de l’objet. Il y a un primat du sujet. Ce qui est analysé est l’activité pensante, la perception. Désormais, la 
 philosophie ne consiste plus à connaître l’objet, mais à s’intéresser et à s’interroger sur la nature et le 
 fonctionnement de l’esprit du sujet qui connaît cet objet, c’est à dire sur la perception. L’explication de la 
@@ -1550,7 +1550,7 @@ sur Descartes de La Destinée Humaine (p.54-55, cité en bibliographie) :
 « Descartes recherche une certitude réaliste pour enraciner solidement les sciences et les techniques, et par là dominer 
 plus efficacement la nature, mais en prenant pour critère de vérité l’évidence, forcément subjective, il prépare à son insu la 
 dérive idéaliste de la philosophie moderne, de plus en plus centrée sur le moi pensant, jusqu’à pratiquement faire s’évanouir 
-toute réalité objective, ou à exiger des contorsions intellectuelles impraticables pour la retrouver. (…) 
+toute réalité objective, ou à exiger des contorsions intellectuelles impraticables pour la retrouver. 
 
 Il y a bien des certitudes indiscutables, et le cogito en est une ; mais c’est la nécessité réelle de ces intuitions qui en 
 détermine l’évidence, et non l’inverse. Il faut donc un critère objectif de cette nécessité. Ce critère est présent , implicitement, 
@@ -1587,7 +1587,7 @@ l’ontologie.
 
 
 
-Au XVIII°, siècle des Lumières (de la raison), le discrédit de la métaphysique se poursuit et prend deux 
+Au XVIII°, siècle des Lumières, le discrédit de la métaphysique se poursuit et prend deux 
 aspects : 
 
 
@@ -1598,7 +1598,7 @@ humaine.
 
 
 . le développement d’un certain esprit scientiste : toute vérité et tout progrès ne peut venir que 
-des sciences, et la métaphysique est moquée (Voltaire…). 
+des sciences, et la métaphysique est moquée. 
 
 
 
@@ -1618,9 +1618,9 @@ Berkeley ruine la notion de substance matérielle, Hume celles de substance spir
 
 
 
-Comme le rationalisme cartésien, l’Empirisme fonde la connaissance sur le sujet (l’homme) : cependant il 
+Comme le rationalisme cartésien, l’Empirisme fonde la connaissance sur le sujet : cependant il 
 ne s’agit plus du sujet rationnel comme chez Descartes, mais du sujet sensible. On franchit un pas de plus dans la 
-remise en cause de la connaissance. La raison elle –même est discréditée. ( // Réforme protestante ) 
+remise en cause de la connaissance. La raison elle –même est discréditée. 
 
 
 
@@ -1629,7 +1629,7 @@ qu’une seule réalité : les sensations ou impressions sensibles. ( Les idées
 
 
 
-Les grands empiristes ( principalement anglais ): Thomas HOBBES et John LOCKE au XVII°, George 
+Les grands empiristes : Thomas HOBBES et John LOCKE au XVII°, George 
 BERKELEY et David HUME au XVIII°. 
 
 
@@ -1647,7 +1647,7 @@ nos perceptions (chaud, froid, vert, dur, aigus…sont autant d’«idées simpl
 Alors, « l’idée de substance n’est rien de plus qu’une collection d’idées simples unies par l’imagination, 
 collection à laquelle on a donné un nom particulier qui nous permet de nous rappeler cette collection, soit à nous-
 
-David HUME (1711-1776), Enquête sur l’entendement humain, 1748 
+David HUME, Enquête sur l’entendement humain, 1748 
 
 Berkeley est lui-même un métaphysicien. Il nous présente un univers composé d’âmes, âmes que Dieu affecte de ces sensations qui composent 
 pour nous le monde. Mais la méthode de Berkeley est empiriste et critique. Elle rejette avant tout les idées abstraites. 
@@ -1658,12 +1658,12 @@ aucune couleur particulière, peut-on se représenter un cheval qui ne serait ni
 
 Confusion entre les états psychologiques affectifs et les perceptions sensibles et de l’autre coté le sujet de ces états qui est l’âme. 
 
-L’unité originairement sunthétique de la conscience est-elle ontologique ( unité d’une réalité ) ou logique ( unité d’une fonction) ? la 
-multiplicité successive et évanescente des percéptions doit-elle être ramenée à l’unité synthétique d’un « je pense » ( Descartes ) ou est-elle liées 
-par la simple imagination ( Hume ) ? 
+L’unité originairement sunthétique de la conscience est-elle ontologique ou logique ? la 
+multiplicité successive et évanescente des percéptions doit-elle être ramenée à l’unité synthétique d’un « je pense » ou est-elle liées 
+par la simple imagination ? 
 
-Hume : Les idées proviennent de l’expérience sensible ( ie des impressions) . Elles se lient, s’enchainent et s’organisent lorsque nous 
-pensons, et cela selon certains principes d’ordres : la ressemblance entre elles, la proximité dans l’espace et le temps (ex :feu – chaleur), la 
+Hume : Les idées proviennent de l’expérience sensible . Elles se lient, s’enchainent et s’organisent lorsque nous 
+pensons, et cela selon certains principes d’ordres : la ressemblance entre elles, la proximité dans l’espace et le temps, la 
 causalité. Ces principes produisent donc l’association des percéptions entre elles ( au moyen de ma mémoire et de mon imagination). Le facteur 
 de cette association, de ce processus de synthèse, de simplification , d’unification des percéptions sensibles est ma pensée, mon identité 
 personnelle. « nous devons considérer la mémoire comme la source de notre identité personnelle ». 
@@ -1683,8 +1683,8 @@ Ex : Quand ma conscience reçoit les perceptions jaune, rond, petit, amer, frais
 pas de substance de citron. Ce qui est avec certitude, ce sont les sensations que j’en perçois : le jaune, l’amer, 
 etc…Le mot « citron » ne correspond qu’à une exigence pratique. L’idée ou l’essence de citron est une idée 
 abusive, née de l’imagination  Nominalisme pragmatique ( ie, on donne un nom à la collection de sensations 
-par esprit pratique). On ne saurait se prononcer avec certitude sur l’existence ni de la nature (substance 2nde) , ni 
-même de l’individualité (substance 1ère). La certitude ne porte que sur la perception des accidents. Le fondement 
+par esprit pratique). On ne saurait se prononcer avec certitude sur l’existence ni de la nature , ni 
+même de l’individualité. La certitude ne porte que sur la perception des accidents. Le fondement 
 transcendantal de l’étant est remis en cause. 
 
 
@@ -1697,13 +1697,13 @@ de leurs idées, conclut Berkeley. )
 
 
 
- Substance spirituelle ( l’âme ). 
+ Substance spirituelle. 
 
 
 
 Revenons à Hume. Hume poursuit son raisonnement pour les substances spirituelles : quand je me 
 retourne vers moi-même, je n’aperçois qu’une série d’états (joie, peur, peine, attente, ennui, exultation, etc…) et 
-de perceptions successives (de sons, couleurs, etc…), et non ce moi, un et identique, ce moi substance, cette âme 
+de perceptions successives, et non ce moi, un et identique, ce moi substance, cette âme 
 que Descartes avait cru découvrir6. Chez Hume, la réalité du sujet n’est qu’une réalité logique, fonctionnelle, mais 
 pas ontologique : elle est principe de connexion et d’unification des impressions entre elles, en idées ( ex : 
 chaleur + lumière = feu ). Je suis en tant que je perçois des sensations, les reconnaît avec ma mémoire, les 
@@ -1727,7 +1727,7 @@ négation de la notion de causalité
 
 
 
-Nous ne saurions non plus atteindre, au sens métaphysique, une cause (efficiente) 8. 
+Nous ne saurions non plus atteindre, au sens métaphysique, une cause 8. 
 
 Nous voyons deux phénomènes se suivrent régulièrement, et nous déduisons de cette succession répétée 
 un lien de causalité ( ex : 100° - “entraîne”  ébullition de l’eau ). Mais une telle déduction est abusive selon 
@@ -1738,7 +1738,7 @@ lorsque l’autre est donné, le sentiment que nous prenons de cette attente eng
 liant ces sensations entre elles : c’est dans cette impression de transition espérée et facile que réside tout ce qu’il 
 y a de positif dans l’idée de cause. 
 
-Ex : je constate le lien habituel entre la sensation A (lumière) et B (brûlure). Mon imagination en tant 
+Ex : je constate le lien habituel entre la sensation A et B. Mon imagination en tant 
 qu’elle est nourrie par la mémoire de ces deux sensations les unifie en une idée : celle du feu et en tant qu’elle est 
 nourrie par la succession de ces deux sensations les lie en un lien de causalité : le feu brûle. Mais ni l’idée de feu, 
 ni sa causalité de brûlure ne sont réelles ou démontrables selon Hume. Elle sont le fruit de mon imagination et de 
@@ -1756,7 +1756,7 @@ Conclusion :
 
 Ainsi se trouve consommée la ruine de la métaphysique. Avec Hume, la structure du monde semble 
 reposer toute entière sur le sujet humain, et non plus soutenue par Dieu, origine des substances, et garant des lois 
-de l’univers ( comme la loi de causalité). C’est le scepticisme de la modernité, ne se fiant ni à l’objet et sa réalité, 
+de l’univers. C’est le scepticisme de la modernité, ne se fiant ni à l’objet et sa réalité, 
 ni à l’homme comme sujet rationnel, mais simplement à ses impressions sensibles. Est vrai et certain ce que je 
 ressens. Or ce sujet n’est pas encore, ce qu’il sera chez Kant, un sujet transcendantal. L’homme y est réduit à ses 
 simples sensations : les dimensions spirituelles, métaphysiques ou même rationnelles sont évacuées, au nom d’un 
@@ -1771,8 +1771,8 @@ Chapitre sur Kant : pp. 131 à 146. Livre excellent, à avoir absolument.
 
 La CRP, trad. Tremesaygues Pacaud, Paris, PUF, p 44. 
 
-Ex : Loi de Newton : « Les corps célestes (S) sont tels qu’ils s’attirent avec une force proportionnelle au produit de leur masse et inversement 
-proportionnelle au carré de leur distance (P) ». 
+Ex : Loi de Newton : « Les corps célestes sont tels qu’ils s’attirent avec une force proportionnelle au produit de leur masse et inversement 
+proportionnelle au carré de leur distance ». 
 
 il suffit d’analyser ce qui est déjà contenu dans le concept du sujet pour obtenir le prédicat. 
 
@@ -1790,8 +1790,8 @@ Ch 4 – La synthèse Kantienne
 
 
 L’Empirisme a aboutit a un certain scepticisme, l’homme ne sachant plus sur quoi fonder sa connaissance vrai. Contre 
-Hume qui nie la loi de causalité, fondement de la science, Kant (1724 – 1804) revient à l’universalité et à la nécessité des lois 
-scientifique. Car la science existe (Newton impressionne Kant), et la philosophie a à découvrir comment elle est possible, pour 
+Hume qui nie la loi de causalité, fondement de la science, Kant revient à l’universalité et à la nécessité des lois 
+scientifique. Car la science existe, et la philosophie a à découvrir comment elle est possible, pour 
 s’en inspirer. Kant fonde alors une métaphysique critique. « Que puis-je savoir ? » est la première de ses questions. Il y répond 
 dans la Critique de la Raison Pure. 10 
 
@@ -1808,7 +1808,7 @@ I –La Critique de la Raison Pure : « Que puis-je savoir ? »
 Kant veut lui aussi fonder sa métaphysique sur la science, qui arrive a des certitudes, comme le montre la 
 synthèse newtonienne. « Comment la métaphysique est-elle possible en tant que science?»11 
 
-« S (sujet) est P (prédicat) » est le type même de proposition scientifique. (Ex : toute masse est 
+« S est P » est le type même de proposition scientifique. (Ex : toute masse est 
 attractive12). Il s’agit toujours de jugements synthétiques a priori. 
 
 analytique signifie que le prédicat n’ajoute rien au sujet, mais se contente de le décomposer, de 
@@ -1819,7 +1819,7 @@ Ex : «Ce triangle est équilatéral », « 7+5 = 12 ».
 
 a priori signifie antérieur à toute expérimentation14 
 
-a posteriori, ie nécessitant une expérience, une expérimentation (dans le temps et l’espace) 15. 
+a posteriori, ie nécessitant une expérience, une expérimentation 15. 
 
 La science énonce toujours des jugements synthétiques a priori, vrais au delà de toutes expériences, 
 anticipant toute expérience possible. (Ex : « la somme des angles d’un triangle est égale à 180° », « Tous les 
@@ -1835,7 +1835,7 @@ jugements sont possibles en métaphysique décidera donc de la capacité de cett
 
 L’intuition géniale de Kant est de penser qu’il faut chercher, non dans les objets connus mais dans le 
 sujet connaissant lui-même, le fondement de la possibilité de tels jugements. Le fondement de la science, et 
-même de l’ordre du monde est placé dans l’esprit humain. (déjà chez Descartes). 
+même de l’ordre du monde est placé dans l’esprit humain.. 
 
 
 
@@ -1870,13 +1870,13 @@ genre s’appellerait philosophie transcendantale »16.
 
 Dans la CRP, Kant distingue 3 grandes facultés de connaissance chez l’homme : 
 
-la sensibilité, faculté de percevoir des intuitions - sensations ( par les sens) dans le temps et l’espace 
+la sensibilité, faculté de percevoir des intuitions - sensations dans le temps et l’espace 
 (// esthétique transcendantale, car « sensation » se dit aïsthésis ). 
 
 l’entendement, faculté de penser par concepts. ( // L’inventaire ou l’analyse des concepts a priori 
 s’appelle l’analytique transcendantale ). 
 
-la raison (pure) , faculté de produire des Idées concernant le supra sensible ( l’âme, Dieu, le monde 
+la raison , faculté de produire des Idées concernant le supra sensible ( l’âme, Dieu, le monde 
 comme tout). ( // dialectique transcendantale ). 
 
 nb : Pris ensemble dans leur commune opposition à la sensibilité, l’entendement et la raison pure 
@@ -1898,9 +1898,9 @@ cependant pas passive mais active. Elle n’enregistre pas seulement une donnée
 Autrement dit, le sujet connaissant est partie prenante dans la connaissance. Il apporte quelque chose avec lui-
 même, à savoir l’horizon et la forme mêmes de l’objet connu. 
 
-L’activité structurante de la sensibilité est liée à deux formes ( moules ) a priori que sont l’espace et le 
+L’activité structurante de la sensibilité est liée à deux formes a priori que sont l’espace et le 
 temps . L’activité structurante de l’entendement est liée à douze formes de jugements, d’où découlent douze 
-catégories. (donner un exemple.) 
+catégories. 
 
 
 
@@ -1918,7 +1918,7 @@ a priori. Ces deux impressions pures, présentes a priori sont l’espace et le 
 imagination, le vide de toutes nos intuitions empiriques externes. Nous pouvons très bien y réussir, mais une intuition 
 sensible demeurera invinciblement, celle de l’espace, car, même le néant de toute intuition, nous ne pouvons noue le 
 représenter que dans la forme pure de l’espace et de ses trois dimensions. Même chose pour le temps. Nous pouvons, en 
-imagination, faire le vide de toutes nos intuitions psychologiques internes (pensées, désirs, joies…) mais même ce vide 
+imagination, faire le vide de toutes nos intuitions psychologiques internes mais même ce vide 
 intérieur total, nous ne pourrons nous le représenter que dans le flux temporel avec ses trois moments : le présent, le 
 passé, le futur. Pourquoi ces deux intuitions sensibles, et elles seules, sont-elles de toute façon présentes, absolument et 
 a priori ? Réponse de Kant : parce qu’elles ne nous ont pas données de l’extérieur, mais sont deux formes ou structures 
@@ -1941,9 +1941,9 @@ s’agit pas de concepts empiriques, comme ceux d’animal, de plante ou de tabl
 structurent toujours déjà à l’avance notre expérience, puisqu’il n’y a pas d’expérience pour nous que celle qui passe à 
 travers leur moule intelligible. Ces douze concepts purs sont ce que Kant appelle les catégories de l’entendement. 
 
-D’après leur fonction, on distingue : 1) selon la quantité, les jugements singuliers ( Socrate est mortel), particuliers ( 
+D’après leur fonction, on distingue : 1) selon la quantité, les jugements singuliers, particuliers ( 
 quelques hommes sont heureux) et universels ( tous les hommes sont mortels) 2 ) selon la qualité, les jugements 
-affirmatifs ( Socrate est grec ), négatifs ( Socrate n’est pas impie ), et in(dé)finis ( Socrate est non-gaulois ), selon la 
+affirmatifs, négatifs, et infinis, selon la 
 relation, les jugements catégoriques ( Socrate est un animal raisonnable) , hypothétiques ( Si Socrate est un homme, 
 alors il est mortel ) et disjonctif ( Socrate est ou célibataire, ou marié ou veuf ) ; 4) selon la modalité, les jugements 
 assertotiques (Socrate est, de fait, mortel ) , problématiques ( Socrate est peut-être sage ) et apodictiques ( Socrate est 
@@ -1975,7 +1975,7 @@ pense » du sujet transcendantal. Par « sujet transcendantal », il faut entend
 unifiant originaire de la pensée, acte et pouvoir qui, par définition, ne sont jamais empiriquement conscients, puisqu’ils 
 sont cela même qui rend possible toute expérience consciente. De même que l’oeil qui voit n’est pas lui-même une chose 
 vue, ainsi le « Je pense » qui constitue l’objectivité de l’expérience n’est pas lui-même un objet d’expérience consciente. 
-Le moi psychologique est conscient parce qu’il n’est lui-même qu’un phénomène objectif ( du sens interne ) constitué, 
+Le moi psychologique est conscient parce qu’il n’est lui-même qu’un phénomène objectif constitué, 
 comme tous les autres, par l’acte inobjectivable et métempirique du moi transcendantal. C’est celui-ci, et non le moi 
 empirique, qui est responsable de la légalité de l’expérience et se trouve ainsi au fondement de la science. 
 
@@ -1999,7 +1999,7 @@ aveugles. Et les catégories, sans les intuitions, sont vides, elles ne sont qu�
 
 Kant étend le champ de la connaissance plus loin que Hume aux simples sensations, reconnaît par 
 exemple la loi de causalité, mais il l’étend moins loin que Descartes qui attribuait à l’homme la possibilité de 
-certitudes sur des Idées supra sensibles (âme, Dieu…). Kant fait donc une synthèse entre empirisme et 
+certitudes sur des Idées supra sensibles. Kant fait donc une synthèse entre empirisme et 
 rationalisme, qui ne retenaient respectivement que les aspects matériels ou formels de la connaissance. L’aspect 
 matériel est constitué par la pure diversité des intuitions empiriques de la sensibilité. L’aspect formel est l’élément 
 organisateur et structurant qui, lui, vient de l’esprit humain et consiste, au niveau de la sensibilité, dans les deux 
@@ -2026,7 +2026,7 @@ effet l’entendement en tant qu’il veut se dégager de toute référence à u
 C’est ainsi que, par delà tous les phénomènes psychiques du sens interne, la métaphysique entend parler de l’âme et affirmer à son sujet qu’elle 
 est libre, simple, immortelle, etc…Ou encore , par delà tous les phénomènes physiques du sens externe, la raison pure veut discourir à propos du 
 monde pris comme totalité, non pas donc du monde expérimentable, mais du monde considéré comme entité métaphysique, ainsi que c’est le cas 
-dans des jugements tels que : le monde est fini ( ou infini), le monde a été créé par Dieu, le monde a commencé ( ou n’a pas commencé) dans le 
+dans des jugements tels que : le monde est fini, le monde a été créé par Dieu, le monde a commencé dans le 
 temps, etc. Les métaphysiciens se croient, enfin, autorisés à émettre des jugements sur Dieu comme origine ultime de l’âme et du monde : Dieu 
 existe, il est le créateur du monde, il est un juste juge des actions humaines,etc… 
 
@@ -2036,7 +2036,7 @@ des objets supra sensibles ( 3 objets classiques : Dieu, l’âme, le monde) par
 répond à une soif ou une tentation de l’entendement d’aller plus loin que la seule physique, expérimentable et 
 concrète, de vouloir dépasser dialectiquement l’usage empirique des catégories, pour chercher la condition d’un 
 conditionné dans un inconditionné. Ici, pas de connaissance certaine possible. Mais des jugements incertains sur 
-Dieu ( juste, juge…), l’âme ( immortelle, etc…), le monde en soi ( créé, temporel, infini…). 
+Dieu, l’âme, le monde en soi. 
 
 
 
@@ -2049,7 +2049,7 @@ troisième faculté est l’objet de la dialectique transcendantale. La raison p
 dégager de toute référence à une expérience possible et prétend donc connaître par ses seules ressources, sans recourir à 
 la sensibilité, des objets suprasensibles. Ou encore, la raison pure, c’est l’entendement qui, insatisfait de ne connaître que 
 des phénomènes physiques conditionnés, part à la recherche de l’inconditionné, de l’absolu, en se laissant emporter sur 
-les ailes de la métaphysique. Dans un des rares passages poétiques de la CRP (p.36 op.cité), Kant compare le projet de la 
+les ailes de la métaphysique. Dans un des rares passages poétiques de la CRP, Kant compare le projet de la 
 métaphysique à l’élan d’une colombe. La colombe, dit-il, qui fend l’espace, mais sent l’air freiner le mouvement de ses 
 ailes, s’imagine qu’elle volerait bien mieux dans le vide. Seulement, l’air qui la freine est aussi l’air qui la porte. Dans le 
 vide, loin de pouvoir planer plus rapidement, elle piquerait du nez et s’écraserait au sol. Ainsi en va-t-il de l’entendement. 
@@ -2078,7 +2078,7 @@ peut pas les connaître, dit Kant. Le mystère de la liberté humaine et de Dieu
 l’entendement, comme la physique, la biologie ou les maths. 
 
 (On a parlé d’agnosticisme kantien, mais il est positif, respectant la transcendance de Dieu et de l’âme : 
-« Je dus abolir (limiter) le savoir pour laisser une place pour la croyance »20). Kant réfute alors les preuves de 
+« Je dus abolir le savoir pour laisser une place pour la croyance »20). Kant réfute alors les preuves de 
 l’existence de Dieu ( ontologique, cosmologique, et physico-théologique ), comme confondant les objets 
 nouménaux et phénoménaux. 
 
@@ -2122,7 +2122,7 @@ La raison pratique vient alors prendre ici le relais de la raison pure pour dire
 doit être : « Que dois-je faire ? ». A l’inverse de la raison pure, la raison pratique, qui me dicte mon éthique, doit 
 être pure de toute expérience, de toute contingence, de toute circonstance particulière : elle doit me dicter des 
 impératifs universels, impératifs catégoriques. La morale ne peut se circonstancier. On ne peut agir pour des 
-motifs empiriques ou sensibles, mais seulement guidé par une loi absolue ( ex : tu ne tueras pas). Je fais mon 
+motifs empiriques ou sensibles, mais seulement guidé par une loi absolue. Je fais mon 
 devoir parce que c’est mon devoir et non par intérêt. Obéissance inconditionnée à la voix de ma conscience21. 
 
 De là le premier impératif catégorique : « agis de telle sorte que tu puisses vouloir que la maxime de ton 
@@ -2258,9 +2258,9 @@ incohérente dans son voeu raisonnable de bonheur. Il est celui qui garantit jus
 liberté humaine. ( Kant arrive à Dieu à partir des besoins et désirs de l’homme : c’est une voie anthropologique ). 
 Dieu n’est pas le fruit d’une exigence de ma raison pure comme chez Descartes22, mais de mon agir, de ma raison 
 pratique. Ca n’est plus la morale qui est fondée sur la métaphysique mais la métaphysique qui est fondée sur la 
-morale : là aussi révolution copernicienne. Primat de l’orthopraxie (agir correctement) sur l’orthodoxie ( penser 
+morale : là aussi révolution copernicienne. Primat de l’orthopraxie sur l’orthodoxie ( penser 
 droitement). Dieu est au terme d’une action morale cohérente et non plus d’une pensée métaphysique rigoureuse, 
-comme chez ThA ( les 5 voies), ou même Descartes. 
+comme chez ThA, ou même Descartes. 
 
 
 
@@ -2298,7 +2298,7 @@ unique mesure dans la raison humaine, mais l’homme a besoin de Dieu pour que l
 
 Nous pouvons reconnaître l’influence du kantisme chaque fois que, dans l’affirmation de Dieu, la 
 connaissance est dévalorisée par rapport à l’agir. ( Schleiermacher, le protestantisme libéral, …). Primat de 
-l’orthopraxie sur l’orthodoxie. La vertu est plus décisive que le savoir ( Rousseau ). Dieu serait au terme d’une 
+l’orthopraxie sur l’orthodoxie. La vertu est plus décisive que le savoir. Dieu serait au terme d’une 
 action morale cohérente et non d’une pensée métaphysique rigoureuse… c’est réducteur : Dieu est 
 au terme des deux. Comprendre l’existence de Dieu - et sa révélation dans le Christ - sou un angle uniquement 
 éthique, à titre de postulat requis pour l’heureux achèvement de la moralité humaine, correspond certes à un 
@@ -2351,7 +2351,7 @@ Alors que Kant limitait , « critiquait » le champ de la raison pure, Hegel au 
 et prétend saisir une vérité quasi mystique, et pourtant rationnelle. La pensée de Hegel prétend englober tout le 
 réel. Selon lui, une pensée qui n’engloberait pas tout le réel ne saurait être vraie. Tout ce qui est rationnel est réel 
 et tout ce qui est réel est rationnel. C’est à dire qu’il pose l’identité totale du réel avec le rationnel. Seule une 
-pensée totalisante peut viser la vérité. Là où Kant abolissait (limitait) le savoir pour laisser une place à la foi, Hegel 
+pensée totalisante peut viser la vérité. Là où Kant abolissait le savoir pour laisser une place à la foi, Hegel 
 prétend étendre le savoir à l’ensemble du réel. Du même coup, il abolirait la croyance. 
 
 
@@ -2363,7 +2363,7 @@ surmontées
 
 Hegel bien sûr ne prouve pas sa pensée par une démonstration rationnelle comme Descartes. Reprenant 
 toute l’histoire de l’humanité, des cultures, des civilisations, il montre que le tout possède, malgré ses 
-contradictions, une logique, une conformité à la raison. On parle d’un système panlogique ( tout est logique ). 
+contradictions, une logique, une conformité à la raison. On parle d’un système panlogique. 
 La paternité d’Héraclite est évidente : tout événement, toute contradiction trouve sa logique, sa place dans le 
 déploiement de l’histoire, de l’humanité. 
 
@@ -2398,11 +2398,11 @@ L’Etat réalisant la synthèse de l’individu et de l’universel, par la loi
 Le danger en sera que même les pires guerres ou les pires idéologies s’en trouvent justifiées au nom d’un dépassement futur. 
 
 hégélienne : cette marche de la pensée, par contradictions surmontées, selon un rythme ternaire, où la thèse 
-(affirmation) appelle l’antithèse (négation), et toutes deux se dépassent et se conservent dans la synthèse. 
+ appelle l’antithèse, et toutes deux se dépassent et se conservent dans la synthèse. 
 
 Ainsi, la dialectique de Hegel est donc la succession de contradictions à l’oeuvre dans le réel. 
 
-Comme Descartes, et Kant, Hegel interroge le fonctionnement de l’esprit ( idéalisme), mais ce qui lui 
+Comme Descartes, et Kant, Hegel interroge le fonctionnement de l’esprit, mais ce qui lui 
 semble central et caractéristique pour l’esprit est cette faculté à nier sans cesse , ce travail de négation sans 
 cesse à l’oeuvre, emmenant l’homme et l’humanité entière à un constant dépassement de soi-même. 
 
@@ -2413,7 +2413,7 @@ Hegel, le processus, c’est l’Histoire. Elle est l’odyssée de l’Esprit, 
 
 
 
-« La seule idée qu’apporte la philosophie est la simple idée de la Raison ( rationalité), l’idée que la Raison 
+« La seule idée qu’apporte la philosophie est la simple idée de la Raison, l’idée que la Raison 
 gouverne le monde et que, par conséquent, l’histoire universelle s’est elle aussi déroulée rationnellement…La 
 Raison est la substance…Elle est l’infinie puissance…Elle est le contenu infini » ( Hegel, La Raison dans l’Histoire, 
 10/18-UGE, p.47-48)23 
@@ -2427,7 +2427,7 @@ dogmes…. Dans la Philosophie de l’Histoire Universelle, Hegel divise l’his
 même schéma ( Thèse - Antithèse - Synthèse ) visant à progresser vers la vérité par réintégration des 
 contradictions successives. 
 
-. Thèse : L’histoire asiatique ( hindouisme, bouddhisme…) : inégalité massive entre le divin et l’homme. 
+. Thèse : L’histoire asiatique : inégalité massive entre le divin et l’homme. 
 (l’humanité se trouve en quelque sorte écrasée par la divinité). 
 
 . Antithèse : L’histoire classique gréco-romaine : étape d’équilibre entre les dieux et les hommes, les dieux sont 
@@ -2504,7 +2504,7 @@ Pour les grecs, le monde est un cosmos ordonné où la sagesse des dieux - le lo
 transformation de cet ordre, même scientifique, est un sacrilège, une dégradation. Le sage contemple, 
 s’émerveille, mais ne touche pas. (Le modèle est l’astronome, qui contemple cet ordre dans les étoiles ) 
 
-Pour les chrétiens, la Genèse (Gn 1,28) dit « soumettez et dominez la terre». La science et la technique 
+Pour les chrétiens, la Genèse dit « soumettez et dominez la terre». La science et la technique 
 sont donc possibles, autorisés. Le XIX° siècle, avec son essor scientifique sans précédent, marque l’apogée du 
 scientisme, selon lequel la science peut répondre au question métaphysique, et du positivisme, selon lequel ces 
 questions sont de fausses questions. 
@@ -2517,15 +2517,15 @@ questions sont de fausses questions.
 
 
 
-Auguste Comte (1798-1857) explique que l’homme, l’humanité en générale, passe par 3 états (« loi des 3 
+Auguste Comte explique que l’homme, l’humanité en générale, passe par 3 états (« loi des 3 
 états »): 
 
 . l’état théologique ou fictif : l’homme explique les phénomènes du monde26 par l’action d’êtres 
-surnaturels. C’est l’enfance de l’humanité. l’homme s’interroge sur le « pourquoi » (cause première), le « en vue 
-de quoi » ( cause finale)…27 
+surnaturels. C’est l’enfance de l’humanité. l’homme s’interroge sur le « pourquoi », le « en vue 
+de quoi » …27 
 
 . l’état métaphysique ou abstrait : c’est une théologie masquée. Les être surnaturels sont simplement 
-remplacés par des concepts, des « entités abstraites », des idées métaphysiques ( cf. Platon…). C’est 
+remplacés par des concepts, des « entités abstraites », des idées métaphysiques. C’est 
 l’adolescence de l’humanité. 28 
 
 . l’état scientifique ou positif : la recherche de la cause première est abandonnée, et la connaissance 
@@ -2542,7 +2542,7 @@ Thèses du positivisme :
 . le positivisme prétend remplacer l’imagination par l’observation raisonnée et ainsi exclure toute forme de 
 rêverie métaphysique ou théologique. (Aux spéculations métaphysiques sur les causes des phénomènes, il faut 
 substituer la recherche rigoureuse des lois qui les relient. )Ne pas chercher les causes finales ou premières, mais 
-uniquement efficientes immédiates ( ou secondes). 
+uniquement efficientes immédiates. 
 
 . le positivisme insiste ensuite sur la relativité de nos connaissances : « Tout est relatif, voilà la seule chose 
 absolue ». (relatif à notre sensorialité, notre raison, notre situation sociale…) 
@@ -2576,11 +2576,11 @@ II - MONOD et le positivisme du XX°
 
 
 
-Jacques Monod31 (1910-1976) a écrit en 1970 un livre qui a eu un large retentissement : Le hasard et la 
+Jacques Monod31 a écrit en 1970 un livre qui a eu un large retentissement : Le hasard et la 
 nécessité. La thèse en est la suivante : « Tout ce qui existe dans l’univers est le fruit du hasard et de la 
 nécessité ». il faut exclure radicalement de la biologie l’explication par la finalité, c’est à dire par des buts et 
 rendre raison de l’apparition de la vie, et de l’homme en particulier, par le simple jeu du hasard et de la nécessité. 
-L’homme n’est plus une merveille de la nature, répondant à une intention, une intelligibilité ( // 5° preuve) mais 
+L’homme n’est plus une merveille de la nature, répondant à une intention, une intelligibilité mais 
 un pur hasard, ayant survécu parce que mieux adapté. Monod dénonce l’illusion rétrospective qui consiste à voir 
 une finalité là où il n’y a que des successions de variations hasardeuses dont certains ratés plus adaptés seuls 
 perdurent et se multiplient pour envahir l’univers. (nb : Bergson avait déjà répondu dans L’Evolution Créatrice…). 
@@ -2596,7 +2596,7 @@ donner à un univers où l’homme puisse exister ?32
 
 l’ordre ne naît pas du désordre, même en un temps infini. (en thermodynamique, c’est le « principe 
 d’entropie »33. La vie contredit ce principe d’entropie, allant vers une complexité et une organisation croissante34. 
-D’où le postulat d’une cause extérieure ordinatrice ( et bienveillante ) ). 
+D’où le postulat d’une cause extérieure ordinatrice ). 
 
 Où sont alors les restes des univers moins bien adaptés ? 
 
@@ -2657,7 +2657,7 @@ substance et de cause, et celle des valeurs.
 
 . En géométrie, il existe des points, des lignes, des surfaces et des corps. Or dans la nature, il n’existe 
 pas de points, donc pas de corps, pas de substance. La croyance au corps consiste à prendre des êtres de raison 
-pour des êtres réels. La physique est une hypostase de la géométrie, ie une réalité logique (un mot abstrait) 
+pour des êtres réels. La physique est une hypostase de la géométrie, ie une réalité logique 
 érigée en réalité ontologique. Cette erreur date du platonisme, selon Nz, qui le premier a commencé à hypostasier 
 des mots: la patrie, la justice… ( hypo-stase : mettre une substance en dessous, fonder sur une substance …). 
 C’est donc le langage qui créée cette illusion de la substance. Je vois un mot alors je pense une réalité ontologique 
@@ -2688,7 +2688,7 @@ II - la critique de la notion de valeurs, la philosophie à coups de marteau
 
 
 
-La Généalogie de la morale (Le Gai Savoir, II,7) : 
+La Généalogie de la morale : 
 
 
 
@@ -2698,7 +2698,7 @@ pulsions.
 LE FAIBLE = Celui qui emprunte un système de valeurs prédéterminé , une morale, une religion. Donc stérilité interprétative totale. Le faible 
 est le « croyant ». il fuit le monde, à cause de sa faiblesse. 
 
-LE FORT = l’interprète ( Nz est philologue). Celui qui possède le plus de force psychique, de capacité interprétative. Il ne condamne pas la 
+LE FORT = l’interprète. Celui qui possède le plus de force psychique, de capacité interprétative. Il ne condamne pas la 
 réalité, mais l’ accueille de capo, il ne s’enfuit pas du monde, il interprète. Seul il a la capacité d’assimiler la réalité, sans fuite. Le fort est 
 « l’artiste » car pour imposer une forme à la matière, il faut de la force. C’est « l’esprit libre », le « philosophe à venir », le « nouveau 
 législateur » qui déterminera les condition d’une interprétation en conformité avec les exigences profondes de la volonté de puissance. 
@@ -2708,7 +2708,7 @@ douceur que le vulgaire prend pour de la faiblesse »…)
 
 OP, 22.24 
 
-machine à finaliser, à réconcilier les contraires, etc… ( PBM ). 
+machine à finaliser, à réconcilier les contraires, etc…. 
 
 César à cause de son aptitude au commandement, hierarchisation efficace d’un système pulsionnel simple, force de volonté 
 
@@ -2735,14 +2735,14 @@ respect de l’autre, l’égalité…)
 
 
 
-les valeurs traditionnelles ( le Bien, le juste, …) ne sont donc que des inventions des faibles35 pour 
+les valeurs traditionnelles ne sont donc que des inventions des faibles35 pour 
 canaliser la puissance des forts36 pour assurer leur propre survie. Ces valeurs ont traversé les siècles. Ce sont des 
 ruses protégeant les faibles, en donnant mauvaise conscience à ceux qui ne les respecteraient pas. Ils 
 transforment une impuissance en une vertu. Il s’agit pour l’homme aujourd’hui de remonter Par delà le Bien et le 
 Mal ( sous titre : prélude à une philosophie de l’avenir. 1886 ). Retrouver un esprit d’indépendance face au 
 dogmatisme bi-millénaire de la philosophie. « J’appelle liberté de penser quelque chose de très précis : être cent 
 fois supérieur aux philosophes et autres adhérents de la vérité, par la fidélité avec soi-même… »37. Détruire tout 
-système38 ( Hegel…), toute systématisation de la pensée, tout rationalisme, jusqu’aux mathématiques qui 
+système38, toute systématisation de la pensée, tout rationalisme, jusqu’aux mathématiques qui 
 imposent leurs schèmes à la pensée, jusqu’au statut de la démonstration, aux preuves (« l’empire des preuves et 
 des réfutations »…), au langage qui pèche par excès (« chaque mot est un préjugé »). 
 
@@ -2754,7 +2754,7 @@ Le chameau est celui qui porte patiemment le poids de l’ancienne morale.
 
 Le lion est l’esprit libre, qui va combattre le dragon « tu dois ». « l’esprit libre » 
 
-Enfin, l’enfant est l’esprit surhumain, fondateur des valeurs nouvelles, par jeu ( gratuité). « le 
+Enfin, l’enfant est l’esprit surhumain, fondateur des valeurs nouvelles, par jeu. « le 
 philosophe à venir » 
 
 
@@ -2769,7 +2769,7 @@ Qu’est-ce qui est mauvais ? Tout ce qui provient de la faiblesse.
 Qu’est-ce que le bonheur ? le sentiment que la puissance croit. Non pas le contentement, mais plus 
 de puissance ; non pas la paix en général, mais la guerre. Non pas la vertu mais l’ardeur. » 
 
-Alors seront réunies les conditions d’émergence du « Surhumain » ( Ubermench) , un « césar avec l’âme 
+Alors seront réunies les conditions d’émergence du « Surhumain » , un « césar avec l’âme 
 du Christ »39, un homme qui ne cesse de transcender sa réalité donnée en fait, et les limites qu’elle implique, 
 grâce à une force créatrice constamment renouvelée. Il s’invente lui-même par delà ce qu’il est. 
 
@@ -2788,7 +2788,7 @@ cet instinct de survie, conservation de soi, l’augmentation du sentiment de la
 de la force et de la puissance. L’interprétation scientifique du monde est réductible à l’hypothèse de volonté de 
 puissance : « Ce victorieux concept de force grâce auquel nos physiciens ont créés Dieu et le monde, il faut lui 
 attribuer une dimension intérieure que j’appellerai volonté du puissance, c’est à dire appétit insatiable de 
-démonstration de puissance » ( FP XI,36). « Ce monde, un monstre de force, sans début, sans fin, une grandeur 
+démonstration de puissance ». « Ce monde, un monstre de force, sans début, sans fin, une grandeur 
 de force à la solidité d’airain. Ce monde est la volonté de puissance - et rien en dehors de cela ! » . 
 
 Il s’agit donc de faire de la philosophie à coup de marteau : 
@@ -2823,7 +2823,7 @@ bien, le don de soi, le sacrifice de soi, la charité (inverse de la volonté de
 
 
 
-Avec Nz comme avec Sartre, l’alternative est simple : soit l’homme accepte (humblement…) qu’il n’est pas 
+Avec Nz comme avec Sartre, l’alternative est simple : soit l’homme accepte qu’il n’est pas 
 ni sa propre origine ni sa propre fin, qu’il se dépasse lui-même et s’accomplit dans un essence qui lui est donné 
 par un Être Subsistant en Soi. Se recevant, il s’accomplit alors dans le don de lui-même, qu’on appelle aussi le 
 Bien. Soit au contraire, il refuse de se recevoir d’un autre (« Dieu est mort, et c’est nous qui l’avons tué »), il clôt 
@@ -2860,19 +2860,19 @@ Ch 8 - Sartre et l’existentialisme
 
 
 
-schéma classique (= non rayé) : 
+schéma classique : 
 
 
 
 
 
-L’Être Subsistant ---(créé) les natures ou essences ---(dont) la nature humaine ---(donc) Réaliser sa 
+L’Être Subsistant --- les natures ou essences --- la nature humaine --- Réaliser sa 
 nature= le Bien 
 
 
 
 
-__________________(créé) ----------- l’existence ------------( avec la liberté pour …)______ 
+__________________ ----------- l’existence ------------______ 
 
 
 
@@ -2930,7 +2930,7 @@ négativité. La subjectivité s’y affirme par le retranchement et la négatio
 refuse de se recevoir d’un autre : une liberté sans père. L’esprit s’y définit par la négation de la nature, l’en-soi 
 n’est que le repoussoir du pour-soi. 
 
-C’est donc l’autre en face de moi, tout homme, qui va définir ce qu’est l’homme ( et non plus Dieu) : la 
+C’est donc l’autre en face de moi, tout homme, qui va définir ce qu’est l’homme : la 
 subjectivité se définit par l’intersubjectivité : « Pour obtenir une vérité quelconque sur moi, il faut que je passe par 
 l’autre. L’autre n’est indispensable à mon existence aussi bien qu’à la connaissance que j’ai de moi »45. 
 L’Existentialisme est un humanisme. Sartre a donc détrôné Dieu comme origine et cause première de ma 
@@ -2940,13 +2940,13 @@ collective de l’essence humaine. Autrui, par son regard objectivant, tente tou
 transformer en une chose. Il n’a pas la sagesse ni la bienveillance de Dieu… 
 
 En fait, la liberté humaine se reçoit elle-même d’autrui et s’enrichit de tout ce qu’elle n’est pas. L’homme 
-apparaît (humblement…) dans un monde dont il n’est pas l’origine. Il le reçoit et se reçoit lui-même en même 
+apparaît dans un monde dont il n’est pas l’origine. Il le reçoit et se reçoit lui-même en même 
 temps. La philosophie de Sartre ne peut être qu’un « moment » dans le cheminement de la pensée d’un homme 
 vers la vérité : elle a ce qui fait la beauté de l’adolescence qui découvre, exaltée, sa liberté, mais rapidement se 
 rend compte qu’elle a besoin de se recevoir d’un autre transcendant pour grandir et s’accomplir. D’où le succès de 
 l’existentialisme, mais aussi son caractère éphémère… 
 
-Plus tard, dans Matière et Mémoire ( 1896 ), il donnera à sa découverte une portée métaphysique, moins psychologique, en montrant 
+Plus tard, dans Matière et Mémoire, il donnera à sa découverte une portée métaphysique, moins psychologique, en montrant 
 l’existence en l’homme d’une mémoire pure qui, à la différence de la mémoire mécanique de l’habitude, recueille les événements dans leur unité 
 et est relativement indépendante de l’ordre physiologique. Tandis que, par la perception pure, l’esprit est immergé dans la matérialité, la mémoire 
 pure témoigne d’un débordement de psychique sur le cérébral qui plaide en faveur de la liberté transcendante de l’esprit et de l’immortalité de 
@@ -2966,13 +2966,13 @@ Ch 9 - Bergson et la substantification du devenir.
 
 
 La pensée de Bergson est une pensée très libre et très riche, et sous bien des aspects très prophétique. 
-Henri Bergson (1859-1941) a reçu une formation philosophique nettement marqué contre la positivisme et 
+Henri Bergson a reçu une formation philosophique nettement marqué contre la positivisme et 
 l’ensemble de son oeuvre peut être considéré comme une énergique réaction contre les tendances réductrices, anti 
 métaphysiques, de la pensée positiviste. 
 
 
 
-Une idée centrale de sa pensée est celle de durée. Au temps spatialisé, découpé en instants ( t0, t1, t2…)et 
+Une idée centrale de sa pensée est celle de durée. Au temps spatialisé, découpé en instants et 
 mesuré par les aiguilles des horloges , Bergson oppose la durée intérieure du vécu, le flux continu et irréversible 
 de la conscience intime. Quant à l’acte qui saisit cette durée, Bergson l’appelle l’intuition, et il oppose cette 
 intuition immédiate et unifiante à l’activité discursive et morcelante de l’intelligence46. 
@@ -3050,11 +3050,11 @@ L’intelligence est « incompréhension naturelle de la vie », du devenir. La 
 
 Il y a une incompatibilité insurmontable entre l’être et le devenir. Pas de genèse ontologique du devenir ( 
 sauf chez Aristote, où le devenir est désir d’immobilité). La solution de Bergson est donc de partir du devenir et d’y 
-insérer des degrés ( tension - détente ). L’extériorité comme l’immuable sont préservés, et intégrés au devenir. 
+insérer des degrés. L’extériorité comme l’immuable sont préservés, et intégrés au devenir. 
 Bergson concilie un monisme ontologique du devenir avec la dualité phénoménale du réel, grâce à un 
-dédoublement (tension - détente) de devenir. Mouvement - immobilité, devenir - être ne sont plus des réalités 
+dédoublement de devenir. Mouvement - immobilité, devenir - être ne sont plus des réalités 
 substantielles, mais des tendances, des directions au sein d’une unité plus originaire, à la tension ou détente, 
-chute ou remonté : la dualité ne compromet plus l’unité car elle est dualité de degré ( et non de nature ). 
+chute ou remonté : la dualité ne compromet plus l’unité car elle est dualité de degré. 
 
 
 
@@ -3077,7 +3077,7 @@ flux ininterrompu. Nous dénaturons cette durée pure en confondant le temps et 
 Dans l’Evolution Créatrice, la durée n’est plus seulement interne à la conscience de l’homme : la vie et 
 même l’univers dans son ensemble sont durée, s’ils sont appréhendée par l’intuition philosophique et non par une 
 méthode scientifique. « la conscience est coextensive à la vie ». Pour la vie, à l’image de la conscience toujours en 
-mouvement, devenir, c’est être. Mais être, c’est changer. La vie est d’abord tendance ( // « élan vital » ). Le 
+mouvement, devenir, c’est être. Mais être, c’est changer. La vie est d’abord tendance. Le 
 
 Cf. LEBRUN, George, La patience du concept. ? 
 
@@ -3090,9 +3090,9 @@ déplacement de sa topique. L’être n’a fait que changer de contenu. Chez Pl
 Bergson, l’être est la durée. 51 
 
 La substance est donc ce qui se modifie, s’exprime dans la durée. C’est la vie de l’absolu qui s’accomplit 
-dans le temps (// Hegel). L’éternité se diffracte , s’exprime en temporalité. Le devenir est la modification de 
+dans le temps. L’éternité se diffracte , s’exprime en temporalité. Le devenir est la modification de 
 l’éternel. L’absolu est d’essence psychologique, tout être vivant est mémoire et tension. « Du bas en haut du 
-monde organisé, c’est toujours le même grand effort (…) Toute réalité dérive de la vie et de la conscience » 
+monde organisé, c’est toujours le même grand effort Toute réalité dérive de la vie et de la conscience » 
 (L’Évolution Créatrice, p 249). Ce qui est originaire et principiel n’est pas le devenir, mais bien la dualité entre 
 effort et résistance, devenir et matière. La matière est ce relâchement de la volonté, de l’élan. 
 
@@ -3103,8 +3103,8 @@ avec le positivisme et le scientisme, il reste déterminé par cela-même contre
 pensée, malgré son spiritualisme profond, une allure quelque peu vitaliste et biologisante, trop marquée encore 
 par les sciences naturelles. C’est ce qui apparaît surtout dans sa saisie de la morale et de la religion, dans la 
 mesure où celles-ci , tout en transgressant l’ordre cosmique évolutif, sont néanmoins excessivement comprises 
-dans son prolongement et comme son relais. Or il y a une gratuité absolue dans la valeur morale ( cf. Kant ) et 
-une liberté souveraine de la révélation ( cf. le christianisme) qui échappent à tout évolutionnisme, aussi spiritualisé 
+dans son prolongement et comme son relais. Or il y a une gratuité absolue dans la valeur morale et 
+une liberté souveraine de la révélation qui échappent à tout évolutionnisme, aussi spiritualisé 
 soit-il. 
 
 Bref, la pensée de Bergson n’est pas « archéologique » puisque l’évolution cosmique, tout en y jouant un 
@@ -3116,15 +3116,15 @@ La phénoménologie exprime l’exigence de s’abstenir en philosophie de toute
 abandonnant tout préjugé, vers l’analyse de ce qui apparaît à la conscience. Il s’agit de fonder la philosophie comme science rigoureuse. Toutes 
 les propositions doivent se fonder sur le caractère d’autodonation intuitive des phénomènes de la conscience. 
 
-Intentionnalité : (Brentano) la propriété spécifique qu’on les phénomènes psychiques, à la différence des phénomènes physiques, d’être dirigés 
-vers quelque chose, c’est à dire d’être toujours conscience de quelque chose. / (Husserl) la constante corrélation entre les actes de la conscience ( 
+Intentionnalité : la propriété spécifique qu’on les phénomènes psychiques, à la différence des phénomènes physiques, d’être dirigés 
+vers quelque chose, c’est à dire d’être toujours conscience de quelque chose. / la constante corrélation entre les actes de la conscience ( 
 percevoir, se souvenir, aimer…) qui se rapportent à un objet ( acte de la visée : la noèse ), et l’objet tel qu’il apparaît dans ces actes ( l’objet 
 intentionnel : le noème ). 
 
 L’objet visé est le résultat d’une synthèse, dans laquelle des noèses diverses sont liées dans l’unité d’une conscience d’objet. Le noème n’est pas 
 l’objet dans son être réel en soi, mais l’objet tel qu’il est contenu intentionnellement dans la fonction donatrice de sens des actes de conscience. 
 
-La phénoménologie s'intéresse au sens, c'est à dire non pas au monde en soi ( noumène) mais au regard que ma csce porte sur le monde. ( NB : 
+La phénoménologie s'intéresse au sens, c'est à dire non pas au monde en soi mais au regard que ma csce porte sur le monde. ( NB : 
 la phénoménologie est à l'opposé de la métaphysique). (Cette conversion de l'attention, portée non plus sur l'objet mais sur le regard, c'est la 
 noèse). La phénoménologie vient me dire que ce regard a des choses à m'apprendre sur le monde. La structure même de l'expérience que je peux 
 avoir d'un objet a des choses à me dire sur l'objet. Elle veut divulguer le drame qui se joue dans les petits riens de la vie. Le phénomène (ou 
@@ -3136,8 +3136,8 @@ sur l'être de l'objet, sur son sens. "être, c'est être vécu, avoir un sens d
 Cependant, le regard se portant sur une chose est aussi un regard qui est couvert par cette chose; l'objet devient une abstraction 
 aveuglante quand on le prend tout seul; il nous fait voir moins que ce qu'il montre en engendrant un discours ambigu. Il s'agit donc de se tourner 
 vers l'intentionnel pour découvrir la concrétude où l'objet abstrait se loge. Le risque est toujours de quitter le phénomène/noème pour le 
-noumène, le regard ( l'intention ) pour l'objet, plus séduisant. Le passage de l'objet à l'intention et de l'intention à tout ce que cette intention 
-comporte comme horizon de visée ( i.e. la mise en scène ) serait la vraie pensée ; Eviter à la vision d'être aveuglée par le vu => "la réduction 
+noumène, le regard pour l'objet, plus séduisant. Le passage de l'objet à l'intention et de l'intention à tout ce que cette intention 
+comporte comme horizon de visée serait la vraie pensée ; Eviter à la vision d'être aveuglée par le vu => "la réduction 
 phénoménologique rend présent notre moi véritable, mais présent à une vue purement théorique et contemplative, qui considère la vie mais ne se 
 confond pas avec elle" ( NB noème: objet non dans son être en soi mais tel qu'il est contenu intentionnellement dans la fonction donatrice de 
 
@@ -3161,7 +3161,7 @@ L'idée majeure est la suivante  Chacune de nos expériences a une forme spé
 par la chose à laquelle elle a affaire, si bien qu'en analysant la structure d'une telle expérience, je pourrais accéder 
 à un discours susceptible de répondre aux interrogations sur cette chose. elle ne se prononce pas sur l’existence 
 ou non du noumène, mais s’intéresse seulement au phénomène. C’est donc lui qu’elle interroge, posant le postulat 
-que la façon dont l’être de l’étant se donne ( apparaît) à quelque chose à dire sur l’être lui-même. 
+que la façon dont l’être de l’étant se donne à quelque chose à dire sur l’être lui-même. 
 
 Elle est donc une méthode dont l’unique but est d’interroger le sens du sens. Elle fait en quelque sorte 
 l’archéologie de la pensée. 53 
@@ -3183,14 +3183,14 @@ absolument pas une étude de l'existence" phénoménologie, intuition des essenc
 
 Sartre, l’existentialisme est un humanisme, Paris, Nagel, 1968, p. 36 
 
-HDG, Lettre sur l’humanisme, (Questions III),Paris, Gallimard, p106 
+HDG, Lettre sur l’humanisme,,Paris, Gallimard, p106 
 
 
 
 
 
-Martin Heidegger ( 1889 - 1976 ) refonde l’ontologie du XX° siècle, notamment par son livre Être et Temps 
-(1927). 
+Martin Heidegger refonde l’ontologie du XX° siècle, notamment par son livre Être et Temps 
+. 
 
 
 
@@ -3198,14 +3198,14 @@ Revenir à l’être : L ‘ « aléthèia »
 
 
 
-Il revient à une pensée de l’être en soi ( l’être commun de ThA), dans sa différence avec l’ étant, et donc 
+Il revient à une pensée de l’être en soi, dans sa différence avec l’ étant, et donc 
 revient à la question ontologique des présocratiques, dénonçant son oubli depuis deux millénaires. Nous 
 sommes le plus souvent comparables à des promeneurs qui contempleraient un paysage riche en formes et en 
 couleurs sans jamais penser à la lumière en laquelle il baigne et qui permet pourtant l’éclosion de cette richesse. 
 L’étant est la manifestation et en même temps l’écran de l’être. Nous vivons dans un univers de choses 
 signifiantes, que nous tentons de cerner et d’exploiter, mais sans nous émerveiller de ce que, absolument parler il 
 y ait du sens en général, c’est à dire une cohérence du monde, une harmonie, une sagesse. C’est donc la quête 
-de l’originel (Ursprünglichkeit) qui fonde sa pensée. Il cherche l’être de l’étant, cet être que l’habitude de l’usage 
+de l’originel qui fonde sa pensée. Il cherche l’être de l’étant, cet être que l’habitude de l’usage 
 des étants a fini par nous masquer. Le monde de la technique a fait que nous avons donné à chaque étant la 
 valeur d’un « outil »: son usage, son fonctionnement, son utilité, sa fonction ont occulté son être originel, son 
 origine métaphysique. 
@@ -3219,7 +3219,7 @@ l’intelligence et de la chose intelligée, mais comme « a-lètheia », « dé
 
 
 
-II - L’homme comme « berger de l’être » et comme Dasein ( être-là ) 
+II - L’homme comme « berger de l’être » et comme Dasein 
 
 
 
@@ -3236,7 +3236,7 @@ il est « jeté », et de sa vérité.
 
 
 
-Son point de départ est l’homme ( modernité) saisi conceptuellement comme être là : Dasein, parce que 
+Son point de départ est l’homme saisi conceptuellement comme être là : Dasein, parce que 
 son être, en se rapportant à l’être, est lui-même caractérisé par sa compréhension de l’être. 
 
 « Le Dasein est un étant qui ne se borne pas à apparaître au sein de l’étant. Pour cet étant, il y va en son 
@@ -3252,15 +3252,15 @@ arrachement . A quoi ? à cette relation d’utilité que nous entretenons avec 
 d’outils. L’homme peut dépasser une relation seulement technique ou économique avec les étants, relation qui les 
 réduits à leur fonction, leur utilité. 
 
-L’existence ( l’être du Dasein ) est décidée par chaque Dasein dans le choix des possibilités qui lui sont 
+L’existence est décidée par chaque Dasein dans le choix des possibilités qui lui sont 
 propres. Il peut s’y gagner ou s’y perdre, c’est à dire se tenir dans le mode d’être de l’authenticité, s’il se réalise 
-lui-même, ou dans celui de l’inauthenticité, s’il se laisse imposer son choix de l’extérieur. (// Sartre ). 
+lui-même, ou dans celui de l’inauthenticité, s’il se laisse imposer son choix de l’extérieur.. 
 Comprenons bien que cette authencité n’est pas seulement morale ( c’est à dire une cohérence entre mon agir et 
 mes valeurs), mais bien plus profondément, elle est d’ordre métaphysique ( cohérence entre mon agir et mon 
 statut métaphysique - un Dasein gardien de l’être, etc…). Ne pas se fuir dans l’anonymat du On. Le rôle de la mort 
 est alors essentiel pour Hdg : elle me met devant le fait qu’un jour je perdrai toute puissance devant ce monde, 
 que ma relation ne sera plus sous le mode de l’utilité mais sous celui de l’être. Elle me tire de l’inauthenticité, du 
-On ( C’est Je qui meurt ), m’oblige à revenir à l’être, à mon être. De là la nécessité de se penser comme un être-
+On, m’oblige à revenir à l’être, à mon être. De là la nécessité de se penser comme un être-
 pour-la-mort. 57 
 
 Comme dans l’existentialisme de Sartre, comme le Dasein se détermine à chaque fois à partir de la 
@@ -3281,7 +3281,7 @@ futur. Hdg ajoute aussitôt : le futur ne désigne pas ici « un maintenant » q
 sera une fois, mais bien die Zukunftl, l’advenir, au sein duquel le Dasein vient en soi. Il est donc essentiel ici de 
 comprendre tout de suite que le temps ne représente nullement pour Heidegger une dimension extérieure dans 
 laquelle le Dasein se « développerait » en quelque manière et finalement « mourrait », mais une constitution 
-intérieure, une structure de l’être même du Dasein. C’est en « allant de l’avant » ( Vorlaufen ) en tant qu’être pour 
+intérieure, une structure de l’être même du Dasein. C’est en « allant de l’avant » en tant qu’être pour 
 la mort que le Dasein en tant qu’étant se trouve être en général dans son être futur. 
 
 Hdg opère de même pour le passé, qu’il appelle Gewesenheit et qui, en tant que tel, « naît de l’avenir » : 
@@ -3354,7 +3354,7 @@ vers :
 une totalité où la conscience embrasse le monde, ne laisse rien d’autre hors d’elle, et devient ainsi pensée absolue. 
 La conscience de soi est en même temps conscience du tout ». 
 
-Totalité et Infini, Essai sur l’extériorité ( 1961 ), met en scène conceptuellement le réquisitoire passionné 
+Totalité et Infini, Essai sur l’extériorité, met en scène conceptuellement le réquisitoire passionné 
 de cette critique. L’aspiration à la totalité est comme une maladie, comme une perversion de la conscience qui 
 croit qu’elle n’a jamais rien à apprendre de l’extérieur, qui aussi, probablement, a peur de l’Autre et désire éviter la 
 blessure de l’extériorité perçue comme une menace parce qu’elle met le sujet en question. Elle conduit alors à une 
@@ -3456,14 +3456,14 @@ poussant finalement ce devenir à la limite dans les transcendantaux d’un êtr
 
 
 Le Moyen Age chrétien garde l’être pour objet, mais le reçoit, l’appréhende d’au-dessus en quelque sorte, 
-dans son rapport à l’Être Subsistant en Soi (Dieu), et non plus par le bas, dans son rapport à l’étant. Une 
+dans son rapport à l’Être Subsistant en Soi, et non plus par le bas, dans son rapport à l’étant. Une 
 métaphysique descendante, en quelque sorte. La systématisation thomiste demeure centrale et définitive pour 
 cette ontologie. 
 
 
 
 Cependant, la Renaissance, et la Modernité, jettent le voile de la suspicion sur tout l’édifice métaphysique, 
-dont l’aile physique (d’Aristote) s’était révélée imprudente. L’objet métaphysique change alors, la topique se 
+dont l’aile physique s’était révélée imprudente. L’objet métaphysique change alors, la topique se 
 déplaçant de l’être sur le sujet pensant cet être, ou pour le dire autrement, sur l’être comme connaissable et non 
 
 la fameuse Weltanschauung 
@@ -3480,8 +3480,8 @@ métaphysique devient critique de la connaissance.
 Dans cette quête de la certitude débute alors la danse des critères. Il est frappant de voir ainsi que chaque 
 métaphysicien va tenter de fonder sa pensée sur une science « établie »: Descartes sur les mathématiques (la 
 raison seule), Kant sur la physique (la raison appliquée à l’expérience sensible), Hegel sur l’Histoire (la raison telle 
-qu’elle s’est dialectisée dans le temps), Comte sur la statistique ( les faits bruts), Nietzsche et Bergson sur la 
-Biologie (notamment évolutionniste), etc… 
+qu’elle s’est dialectisée dans le temps), Comte sur la statistique, Nietzsche et Bergson sur la 
+Biologie, etc… 
 
 
 
@@ -3535,7 +3535,7 @@ Quelle place alors s’il désire malgré tout continuer à cultiver le jardin m
 
 Qohelet 10,16 
 
-« Spleen » ( LXXVI). 
+« Spleen ». 
 
 dont le roi est redevenu un enfant62, « roi d’un pays pluvieux, riche mais impuissant, jeune et pourtant très 
 vieux » - décrit Baudelaire dans un autre poème63 - triste roi ne sachant « réchauffer son cadavre hébété, où 
@@ -3549,7 +3549,7 @@ coule au lieu du sang l’eau verte du Léthé ». Léthé ou Aléthéia, oubli 
 
 
 
-franck pujos (p.nathanaël) , Libreville, avril 2003.  
+franck pujos , Libreville, avril 2003.  
 
 
 
@@ -3578,17 +3578,17 @@ Livre généraux de philosophie, indispensables :
 HERSCH Jeanne, L’étonnement philosophique, une histoire de la philosophie, Paris, Gallimard Folio 
 essais n°216, 1993. +++++ 
 
-difficulté : livre d’entrée en matière, mais honorable (niveau bac, deug), reprenant l’histoire de la philo, 
-resituant l’intuition fondamentale de chaque philosophe. Écriture féminine fluide et claire. ( moins de 10 euros !) 
+difficulté : livre d’entrée en matière, mais honorable, reprenant l’histoire de la philo, 
+resituant l’intuition fondamentale de chaque philosophe. Écriture féminine fluide et claire. 
 
 
 
 ATLAS DE LA PHILOSOPHIE de Peter Kunzmann, FP Burkard, F. Wiedmann, « La Pochothèque » 
 Livre de Poche, collection ‘Encyclopédies d’aujourd’hui’, Paris, 1994. +++++ 
 
-difficulté : petite référence de poche indispensable, sous forme d’Atlas (fiches de synthèse) avec schémas très 
+difficulté : petite référence de poche indispensable, sous forme d’Atlas avec schémas très 
 clairs qui donnent à penser. Niveau bac, deug. Une bonne base de référence pour remettre certaines 
-connaissances en place, mais ne peut suffire si l’on ne connaît pas le philosophe avant. ( moins de 15 euros). 
+connaissances en place, mais ne peut suffire si l’on ne connaît pas le philosophe avant.. 
 Indispensable. 
 
 
@@ -3598,13 +3598,13 @@ Namur, 1991 +++++
 
 Livre extraordinaire faisant une synthèse chrétienne remarquable et limpide de la philosophie et de la théologie, 
 très clair bien que plus difficile (niveau deug licence philo et théo), autours des trois voies cosmologiques, 
-anthropologiques, et métaphysique. Indispensable. ( 20 euros ?). un peu difficile à trouver ( se commande. ) 
+anthropologiques, et métaphysique. Indispensable.. un peu difficile à trouver 
 
 
 
 LECLERC Marc s.j., La Destinée humaine, Coll. Culture et Vérité, Namur, 1994 
 
-Livre (cours ?) remarquable faisant une synthèse philosophique claire, aboutissant à Blondel. Clair, et 
+Livre remarquable faisant une synthèse philosophique claire, aboutissant à Blondel. Clair, et 
 abordable. 160 p. – philosophes abordés : Aristote, Augustin, Thomas, Descartes, Pascal, Leibniz, Blondel. 
 
 
@@ -3612,21 +3612,21 @@ abordable. 160 p. – philosophes abordés : Aristote, Augustin, Thomas, Descart
 RUSS, Jacqueline, Philosophie : les auteurs, les oeuvres, Paris, Bordas,1996. 
 
 niveau bac deug. Reprenant toute l’histoire de la philosophie, et résumant les oeuvres majeurs des philosophes. 
-Clair. ( 15 - 20 euros). 
+Clair.. 
 
 
 
 RUSS, Jacqueline, Panorama des idées philosophiques, Paris, Armand Colin, 2000. 
 
-idem, mais sans les résumés des oeuvres. Clair ( 13 euros ). 
+idem, mais sans les résumés des oeuvres. Clair. 
 
 ( d’une façon générale, tous les livres de J. RUSS sont de bonnes références. ) 
 
 
 
-Coll. « Le Vocabulaire de… » ( St Thomas, Kant, Platon…), chez « Ellipses », dirigées par JP Zarader 
+Coll. « Le Vocabulaire de… », chez « Ellipses », dirigées par JP Zarader 
 
-petits lexiques très bien montés, pas chers ( 5 euros), abordant chaque terme en trois degrés de complexité 
+petits lexiques très bien montés, pas chers, abordant chaque terme en trois degrés de complexité 
 
 
 
@@ -3645,14 +3645,14 @@ KANT : La Critique de la Raison Pure , lire les Préfaces.
 KANT : plutôt que de se taper la CRP et autres, préférer l’excellente collection « Pour Connaître… » éditée 
 chez Bordas, qui présente la synthèse claire et très précise de la pensée des auteurs ( Pour Connaître Aristote, 
 Pour Connaître Kant, …Hegel, Bergson, Marx etc). Avec l’avantage de citer beaucoup de textes, ce qui permet de 
-rentrer vraiment dans un auteur ( niveau deug, licence) 
+rentrer vraiment dans un auteur 
 
 HEGEL, BERGSON, HEIDEGGER : idem Kant 
 
 BERGSON : L’Évolution Créatrice, Paris, PUF, Quadrige. 
 
-LEVINAS, Emmanuel : Ethique et Infini, Livre de Poche, Paris, puis le Temps et l’autre ( Quadrige PUF) , 
-puis Totalité et Infini ( Livre de Poche ) 
+LEVINAS, Emmanuel : Ethique et Infini, Livre de Poche, Paris, puis le Temps et l’autre , 
+puis Totalité et Infini 
 
 
 

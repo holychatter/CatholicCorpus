@@ -634,13 +634,13 @@ elles demandent un autre confesseur, on croit que c’est renverser toute la dis
 Et si celui qu’elles demandent n’est pas de notre Ordre, fût-il un saint1, on s’imagine qu’un 
 simple entretien avec lui est un affront à la communauté. 
 
-« Fût-il un saint Jérôme. » (Esc.) 
+« Fût-il un saint Jérôme. » 
 
 « Louez beaucoup Dieu, mes filles, de la liberté que vous avez. Bien que votre choix soit restreint, vous pouvez 
 cependant vous adresser à quelques confesseurs, qui, sans être les ordinaires, vous donneront toute lumière. Je 
 demande à celle qui sera en charge qu’elle traite elle-même et qu’elle permette à ses soeurs de traiter avec un 
 homme instruit. Dieu vous préserve de suivre en tous les avis d’un directeur, qui n’aura pas la science, quelle que 
-soit d’ailleurs la vertu qu’il paraisse avoir ou qu’il ait en réalité. » (Esc.) 
+soit d’ailleurs la vertu qu’il paraisse avoir ou qu’il ait en réalité. » 
 
 Quant à moi, je demande, pour l’amour de Dieu, à celle qui sera prieure, qu’elle assure 
 absolument cette sainte liberté de traiter avec d’autres qu’avec les confesseurs ordinaires ; 
@@ -670,7 +670,7 @@ regarde notre intérieur3. J’ose dire plus ; quand bien même le confesseur or
 science et la piété, vous devez de temps en temps en consulter un autre4. 
 
 « Si on défendait aux religieuses de se confesser à d’autres qu’au confesseur ordinaire, elles devraient, en 
-dehors de la confession, exposer les affaires de leur âme aux personnes dont je parle. »(Esc.) 
+dehors de la confession, exposer les affaires de leur âme aux personnes dont je parle. » 
 
 En marge du manuscrit on lit la note suivante qui paraît être du P. Banès : « Ceci est juste. Il y a des maîtres 
 spirituels qui, pour ne pas se tromper, condamne tout, comme venant du démon ; et en cela ils se commettent 
@@ -680,7 +680,7 @@ une plus grave erreur, parce qu’ils étouffent l’Esprit du Seigneur, comme d
 considérable, caché, et presque sans remède, pour ainsi dire, que cause la conduite opposée. Les monastères 
 ont ceci de propre que le bien y décline rapidement, si on n’exerce une active surveillance, et que le mal, une 
 fois introduit, s’extirpe avec la plus grande peine ; car en très peu de temps les imperfections deviennent des 
-habitudes et des choses naturelles… » (Esc.) 
+habitudes et des choses naturelles… » 
 
 Ce confesseur, en effet, peut se tromper, et il ne faut pas que toutes les religieuses puissent se 
 tromper à cause de lui. Je vous recommande seulement de ne rien faire contre l’obéissance, 
@@ -725,7 +725,7 @@ n’exercent pas eux-mêmes la charge de supérieur6.
 « Qu’il y ait un confesseur ordinaire et que ce soit le chapelain lui-même, s’il en est jugé digne ; et que chaque 
 fois qu’une âme en aura besoin, elle puisse s’adresser aux personnes déjà indiquées, sauf avis donné au supérieur 
 lui-même. Si l’évêque peut s’en remettre à la Mère prieure, qu’il lui laisse ce soin. Les religieuses sont peu 
-nombreuses et ne prendront beaucoup de temps à personne. » (Ms Esc.) 
+nombreuses et ne prendront beaucoup de temps à personne. » 
 
 Ce que je viens de dire est ce qui s’observe maintenant dans ce monastère, non par mon seul 
 avis, mais par celui de plusieurs personnages instruits, avancés dans les voies spirituelles, et de 
@@ -1217,14 +1217,14 @@ y a toujours quelque amie ou quelque parente qui pleure à côté de vous ; que 
 « Un jour nous n’allons pas au choeur, parce que nous avons un mal de tête ; un autre jour, parce que nous 
 avons eu un mal de tête ; et trois autres jours, pour ne pas avoir un mal de tête. Vous me direz, mes amies, que 
 la prieure ne doit pas le tolérer. Oui, sans doute, si elle connaissait l’intérieur. Mais elle voit qu’on se plaint 
-pour des riens et qu’on se plaint, comme si on allait rendre l’âme. » (Esc.) 
+pour des riens et qu’on se plaint, comme si on allait rendre l’âme. » 
 
 supérieure craint de manquer de charité et elle aime mieux encore de la mollesse chez vous que 
 de la rigueur chez elle2. 
 
 « Oh ! ces plaintes de religieuses, que j’ai donc peur – et Dieu me le pardonne ! – d’en voir la coutume prise ! 
 J’ai rencontré une fois une soeur qui se plaignait habituellement de la tête et qui s’en plaignait très haut. On 
-vérifia : rien, elle n’avait rien et ne souffrait pas de la tête, mais d’ailleurs. » (Esc.) 
+vérifia : rien, elle n’avait rien et ne souffrait pas de la tête, mais d’ailleurs. » 
 
 Ces choses peuvent quelquefois arriver ; je les signale ici, afin que vous les évitiez ; car si le 
 démon commence à nous effrayer par l’appréhension de la ruine de notre santé, nous ne ferons 
@@ -1241,9 +1241,9 @@ lui de gémir, le gémissement est tout autre et nul ne s’y trompe. Considére
 en petit nombre ; si vous vous aimez, et si vous avez de la charité, il suffirait qu’une d’entre 
 vous prît cette habitude, pour causer beaucoup de peines à toutes les autres. 
 
-« Il y a, mes soeurs, une imperfection très grande à gémir (hurler, aullar), à se plaindre, à prendre une voix 
+« Il y a, mes soeurs, une imperfection très grande à gémir, à se plaindre, à prendre une voix 
 languissante et des soupirs de malade. Fussiez-vous malades, essayez de supporter la douleur et n’agissez pas 
-ainsi. » (Esc.) 
+ainsi. » 
 
 Quant à celle qui est vraiment malade, elle doit le dire, et prendre ce qui est nécessaire ; et si 
 elle est affranchie de l’amour-propre, elle ressentira tant de peine de toute espèce de 
@@ -1457,7 +1457,7 @@ d’une telle Mère, et de bien pauvres épouses d’un tel Epoux.
 « Imitons du moins en quelque chose son humilité ; je dis en quelque chose, car nous aurons beau nous abaisser 
 et nous humilier, ce n’est rien cela pour une créature comme moi, qui, à cause de mes péchés, ai mérité d’être 
 abaissée et méprisée par les démons. La nature sans doute y répugne. Mais n’eût-on pas commis de grandes 
-fautes, on a toujours fait assez, à mon avis, pour mériter l’enfer. » (Esc.) 
+fautes, on a toujours fait assez, à mon avis, pour mériter l’enfer. » 
 
 Si l’on ne travaille activement à déraciner ces imperfections dont j’ai parlé, ce qui paraît 
 aujourd’hui n’être rien deviendra peut-être demain un péché véniel, et si dangereux, que, si on 
@@ -1491,7 +1491,7 @@ certainement d’un manque d’humilité.
 Nos Pères ont sagement établi une année de probation. Dans notre Ordre, on est libre de n’admettre à la 
 profession qu’après quatre ans ; et moi, je voudrais qu’on n’y admît qu’après dix. Une religieuse humble 
 s’inquiétera peu de ce retard de la profession. Elle sait que, si elle est régulière, on ne la renverra point, si elle ne 
-l’est pas, pourquoi voudrait-elle nuire à cette famille du Christ ? (Esc.) 
+l’est pas, pourquoi voudrait-elle nuire à cette famille du Christ ? 
 
 
 
@@ -1603,7 +1603,7 @@ de parler.
 la faute, mes soeurs, vous me l’avez ordonné. Lisez ces pages comme vous pourrez ; je les écris, moi, comme je 
 peux : sinon jetez-les au feu ; c’est tout ce qu’elles méritent. Un pareil travail exige du calme et des loisirs ; et moi, 
 j’en ai si peu, vous le voyez, que je passe huit jours sans écrire. J’oublie alors ce que j’ai dit et ce que je vais dire. 
-Mais c’est mal à moi de m’excuser et de vous engager en même temps à ne pas le faire. » (Esc.) 
+Mais c’est mal à moi de m’excuser et de vous engager en même temps à ne pas le faire. » 
 
 
 
@@ -1827,7 +1827,7 @@ nous ne devions nous promettre de l’accomplir avec son secours. Je voudrais vo
 cette présomption, toute au profit de l’humilité, cette sainte et audacieuse confiance, que Dieu 
 aide les braves, et qu’il ne fait pas acception de personnes2. 
 
-« Et qu’il vous aidera, vous et moi. » (Esc.) 
+« Et qu’il vous aidera, vous et moi. » 
 
 Voilà une grande digression : revenant à mon sujet, je vais exposer la nature de l’oraison 
 mentale et de la contemplation. Il y a là, ce me semble, de la témérité ; mais avec vous tout 
@@ -2023,7 +2023,7 @@ en l’acceptant1.
 petit soldat va son train ordinaire, et s’il se cache une fois ou une autre, pour n’aller pas dans la mêlée plus 
 ardente, on ne fait aucune attention à lui ; on ne le voit pas, il ne perd pas l’honneur, il ne risque pas sa vie ; au 
 contraire le porte-drapeau doit aller de l’avant, avec sa bannière, sans la jeter, sans la lâcher, quand même on le 
-mettrait en pièces, et toute l’armée a les yeux sur lui. » (Esc.) 
+mettrait en pièces, et toute l’armée a les yeux sur lui. » 
 
 Mes soeurs, puisque nous ne savons ce que nous demandons, laissons faire Dieu et n’imitons 
 pas ceux qui croient pouvoir en justice implorer des faveurs. Plaisante manière de s’humilier ! 
@@ -2117,7 +2117,7 @@ cher ; la force leur manque, ils perdent courage. Ceux mêmes qui en ont assez p
 seconds ennemis, perdent coeur devant les troisièmes ; et peut-être n’étaient-ils alors qu’à deux 
 
 « Si celui qui les monte est habile, il ne court pas toujours de danger, quelquefois si pourtant. S’il est sûr de sa 
-vie, il n’est pas sûr d’un accident ou d’une gaucherie quelconque. (Esc.) 
+vie, il n’est pas sûr d’un accident ou d’une gaucherie quelconque. 
 
 pas de cette source d’eau vive dont Notre-Seigneur disait à la Samaritaine que celui qui en 
 boirait n’aurait plus soif. 
@@ -2484,7 +2484,7 @@ inspirer à d’autres une peur extrême de la vertu. Vain prétexte, et qui ne 
 l’invoquent, parce qu’ils n’évitent le mal qu’en omettant le bien. L’invention est des plus 
 perfides que je connaisse et vient sûrement du démon. 
 
-« Algunos bien contados. » (Esc.) 
+« Algunos bien contados. » 
 
 O mon Maître ! défendez vous-même votre cause. Voyez dans quel faux sens on explique vos 
 paroles ; et ne permettez pas que ceux qui vous servent tombent en de pareilles faiblesses. 
@@ -2544,7 +2544,7 @@ aux seules religieuses de Saint-Joseph d’Avila : « Il vous faudrait même, si
 soigneusement et épeler ces titres d’honneur. Il m’arriva une fois d’avoir à traiter avec un personnage que je 
 devais appeler Monseigneur ; on me fit épeler le mot. Simple comme je le suis, et sans usage, j’oubliai devant lui 
 ma leçon, je dis le premier mot qui me vint, et je le fis rire aux éclats ; j’avais trouvé bon de l’appeler Monsieur et 
-j’avais dit Monsieur. » (Esc.) 
+j’avais dit Monsieur. » 
 
 Mais quel est cet oubli, ô mon Seigneur ? ô mon Souverain ! Vous êtes roi, mon Dieu, et vous 
 l’êtes pour l’éternité, et vous ne tenez pas d’un autre votre royauté. Lorsque j’entends dire au 
@@ -2640,7 +2640,7 @@ les hommes et qu’on ne saurait vous ravir. Quand une religieuse est incapable 
 vocale, qu’elle sache qu’elle ne remplit pas ses obligations. Son devoir est de travailler de toutes ses forces à prier 
 parfaitement, sous peine de négliger ce qu’une épouse doit à un si grand Roi. Suppliez Dieu, mes filles, de 
 m’accorder la grâce de pratiquer ce que je vous conseille : j’en ai un grand besoin. Qu’il me la donne par sa bonté 
-infinie. » (Esc.) 
+infinie. » 
 
 
 
@@ -3121,7 +3121,7 @@ autre, l’oraison de quiétude. Dans ce recueillement intime, en effet, elle pe
 du Sauveur, se le représenter lui-même comme présent, et l’offrir à son Père, sans faire le 
 moindre effort d’esprit pour aller le chercher au calvaire, au jardin ou à la colonne. 
 
-« Et c’est là un art de la prière vocale. » (Esc ;) 
+« Et c’est là un art de la prière vocale. » 
 
 
 
@@ -3212,7 +3212,7 @@ Y a-t-il rien de si digne d’admiration que de voir Celui qui remplirait de sa 
 mille mondes, se renfermer dans un aussi petit espace2 ! Tout s’explique, à la vérité, par sa 
 puissance, qui lui donne toute liberté et par son amour, qui le fait se proportionner à nous. 
 
-« Ainsi voulut-il se renfermer dans le sein de sa bienheureuse mère. » (Esc.) 
+« Ainsi voulut-il se renfermer dans le sein de sa bienheureuse mère. » 
 
 
 
@@ -3282,7 +3282,7 @@ toutes les choses extérieures, pour nous approcher intérieurement de Dieu ; qu
 nos occupations, nous devons nous retirer au dedans de nous, quand ce ne serait que pour un 
 moment ; que ce seul souvenir d’un Dieu qui nous tient intérieurement compagnie, nous est 
 
-La sainte emploie le mot sobrenatural (surnaturelle) ; mais de ses explications ici, comme en d’autres 
+La sainte emploie le mot sobrenatural ; mais de ses explications ici, comme en d’autres 
 endroits, il résulte que c’est extraordinaire qu’elle veut dire. 
 
 d’un grand avantage ; enfin, que nous devons peu à peu nous habituer à nous entretenir avec lui 
@@ -4081,7 +4081,7 @@ tout autrement du feu divin : avec la seule volonté de s’en approcher, avec l
 de désirer chasser le froid, il suffit de quelques moments passés auprès de Notre-Seigneur pour 
 être pénétré d’une chaleur qui durera plusieurs heures1. 
 
-« Il suffit qu’une petite étincelle jaillisse sur elle pour l’embraser tout entière. » (Esc.) 
+« Il suffit qu’une petite étincelle jaillisse sur elle pour l’embraser tout entière. » 
 
 Si dans le principe vous ne vous trouvez pas bien de cette pratique, sachez que le démon en 
 peut être cause ; comme il sait le dommage qui lui en reviendra, il essaiera de vous en détourner 
@@ -4202,7 +4202,7 @@ d’ailleurs veilleront à ce qu’il soit observé, si de mon côté je n’en 
 qui arrive : toujours portées à monter, quoique ce ne soit point là le chemin du ciel, nous ne 
 pouvons nous résoudre à descendre1. 
 
-« Dieu nous délivre des monastères où existeraient ces points d’honneur ; Dieu n’y est jamais honoré. » (Esc.) 
+« Dieu nous délivre des monastères où existeraient ces points d’honneur ; Dieu n’y est jamais honoré. » 
 
 O Seigneur, Seigneur ! n’êtes-vous pas tout ensemble et notre modèle et notre maître ? Oui, 
 sans doute. Eh bien, où avez-vous mis votre gloire, ô vous qui êtes notre glorificateur ? L’avez-
@@ -4597,7 +4597,7 @@ enlève un grand nombre d’autre.
 
 « Les personnes d’oraison, si elles ne se négligent pas absolument, sont infiniment plus sûres de leur salut que 
 les autres : elles regardent le taureau du haut des tribunes, les autres se jettent dans ses cornes. C’est une 
-comparaison que j’ai entendu faire ; elle est vraie, à la lettre. » (Esc.) 
+comparaison que j’ai entendu faire ; elle est vraie, à la lettre. » 
 
 arment contre les tentations. 
 

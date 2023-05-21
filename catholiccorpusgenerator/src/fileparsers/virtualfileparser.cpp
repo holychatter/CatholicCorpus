@@ -65,6 +65,8 @@ void VirtualFileParser::run()
       {
         line = removeBeginOfChapterNumber(line);
       }
+
+      removeSmallParanthesis(line);
       processLine(line, asContentBefore);
     }
     asContentBefore = !isOnlySpace(line);

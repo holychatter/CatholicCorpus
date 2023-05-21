@@ -7,5 +7,7 @@ bool isOnlySpace(const std::string& pLine);
 
 std::string removeBeginOfChapterNumber(const std::string& pLine);
 
+void removeSmallParanthesis(std::string& pLine);
+
 
 #endif // CATHOLICCORPUSGENERATOR_UTIL_UTIL_HPP
