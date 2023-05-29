@@ -1,6 +1,9 @@
 project(catholiccorpusgenerator)
 cmake_minimum_required(VERSION 2.8)
 
+# https://curl.se/download.html => install curl libraries and boostrap the curl
+# Warning : download libraries curl and not executable
+
 find_package(CURL REQUIRED)
 message(STATUS "CURL_INCLUDE_DIR=${CURL_INCLUDE_DIR}")
 message(STATUS "CURL_LIBRARIES=${CURL_LIBRARIES}")
