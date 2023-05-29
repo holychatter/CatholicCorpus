@@ -19,7 +19,7 @@ void InternetRequester::readWebPage(std::string& pRes,
                                     const std::string& pUrl) const
 {
   CURL *curl;
-  //CURLcode res;
+  CURLcode res;
 
   curl = curl_easy_init();
   if (curl)
@@ -29,7 +29,7 @@ void InternetRequester::readWebPage(std::string& pRes,
     curl_easy_setopt(curl, CURLOPT_FOLLOWLOCATION, 1L);
     curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, WriteCallback);
     curl_easy_setopt(curl, CURLOPT_WRITEDATA, &pRes);
-    /*res =*/ curl_easy_perform(curl);
+    res = curl_easy_perform(curl);
     curl_easy_cleanup(curl);
   }
 }
