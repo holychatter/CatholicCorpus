@@ -26,9 +26,9 @@ int main(int argc, char *argv[])
   if (url == "" || output == "")
   {
     std::cout << "usage ./readwebpage --url <url> --output <path_of_outputfile>" << std::endl;
+    std::cout << "ex : ./readwebpage --url https://www.vatican.va/content/francesco/en/audiences/2023.index.html --output ../../input/Vatican/fromReadWebPageExecutable/audiences_2023.html" << std::endl;
     return 1;
   }
-  //"https://www.vatican.va/content/francesco/en/audiences/2023.index.html"
 
 
   // Request web page
