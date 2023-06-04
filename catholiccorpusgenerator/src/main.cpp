@@ -1,6 +1,5 @@
 #include "fileparsers/saintethereseavila_parser.hpp"
 #include "fileparsers/generic_parser.hpp"
-#include "requester/internetrequester.hpp"
 #include <memory>
 #include <iostream>
 
@@ -105,11 +104,6 @@ int main(int argc, char *argv[])
   runGenericParser("Therese_de_Lisieux/THERESE_DE_LISIEUX_Histoire_dune_ame.txt",
                    "Histoire d'une Ame");
 
-  InternetRequester internetResquester;
-  std::string htmlContent;
-  internetResquester.readWebPage(htmlContent, "https://www.vatican.va/content/francesco/en/audiences/2023.index.html");
-
-  std::cout << "htmlContent:" << htmlContent << std::endl;
   std::cout << "Finish to generate all files" << std::endl;
 
   return 0;

@@ -17,9 +17,6 @@ add_executable(catholiccorpusgenerator
   src/fileparsers/generic_parser.hpp
   src/fileparsers/virtualfileparser.cpp
   src/fileparsers/virtualfileparser.hpp
-  src/requester/externalrequester.hpp
-  src/requester/internetrequester.hpp
-  src/requester/internetrequester.cpp
   src/util/util.hpp
   src/util/util.cpp
 )

@@ -29,6 +29,7 @@ void InternetRequester::readWebPage(std::string& pRes,
     curl_easy_setopt(curl, CURLOPT_FOLLOWLOCATION, 1L);
     curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, WriteCallback);
     curl_easy_setopt(curl, CURLOPT_WRITEDATA, &pRes);
+    curl_easy_setopt(curl, CURLOPT_SSL_VERIFYPEER, false);
     res = curl_easy_perform(curl);
     std::cout << res << std::endl;
     curl_easy_cleanup(curl);
