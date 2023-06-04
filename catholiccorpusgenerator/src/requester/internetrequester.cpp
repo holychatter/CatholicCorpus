@@ -30,6 +30,7 @@ void InternetRequester::readWebPage(std::string& pRes,
     curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, WriteCallback);
     curl_easy_setopt(curl, CURLOPT_WRITEDATA, &pRes);
     res = curl_easy_perform(curl);
+    std::cout << res << std::endl;
     curl_easy_cleanup(curl);
   }
 }
@@ -38,13 +39,14 @@ void InternetRequester::readWebPage(std::string& pRes,
 void InternetRequester::pingPage(const std::string& pUrl) const
 {
   CURL *curl;
+  CURLcode res1;
 
   curl = curl_easy_init();
   if (curl)
   {
     std::cout << "ping_web_page: " << pUrl << std::endl;
     curl_easy_setopt(curl, CURLOPT_URL, pUrl.c_str());
-    /*res =*/ curl_easy_perform(curl);
+    res1 = curl_easy_perform(curl);
     curl_easy_cleanup(curl);
   }
 }
