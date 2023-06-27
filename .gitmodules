@@ -1,0 +1,3 @@
+[submodule "xmltoflatlistconverter"]
+	path = xmltoflatlistconverter
+	url = https://github.com/holychatter/xmltoflatlistconverter.git

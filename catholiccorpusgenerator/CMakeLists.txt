@@ -25,7 +25,9 @@ target_compile_features(catholiccorpusgenerator PRIVATE cxx_std_17)
 
 include_directories(
   ${CURL_INCLUDE_DIR}
+  ${XMLROFLATLISTCONVERTER_INCLUDE_DIRS}
 )
 target_link_libraries(catholiccorpusgenerator
   ${CURL_LIBRARIES}
+  ${XMLROFLATLISTCONVERTER_LIBRARIES}
 )

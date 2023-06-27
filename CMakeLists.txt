@@ -1,5 +1,7 @@
 project(CatholicCorpus)
 cmake_minimum_required(VERSION 2.8)
 
+include(xmltoflatlistconverter/xmltoflatlistconverter-config.cmake)
+add_subdirectory(xmltoflatlistconverter)
 add_subdirectory(catholiccorpusgenerator)
 add_subdirectory(readwebpage)

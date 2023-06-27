@@ -2,6 +2,7 @@
 #include "fileparsers/generic_parser.hpp"
 #include <memory>
 #include <iostream>
+#include <xmltoflatlistconverter/xmltoflatlistconverter.hpp>
 
 namespace
 {
